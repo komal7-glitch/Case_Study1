@@ -27,6 +27,7 @@ SQL: Data manipulation and transformation
 Git & GitHub: Version control and code sharing
 
 🧭 Step-by-Step Approach
+
 📅 Day 1: Exploratory Analysis & Modeling
 Loaded and cleaned customer-level and campaign-level data.
 
