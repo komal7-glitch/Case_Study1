@@ -1,0 +1,2361 @@
+prdt_type,brand,milestone,cust_segment,target_group,campaign_month,selected_qty,mailed_count,response_count,response_sales_amt
+Prdt-1,B,12 Months,CLClubInvite12,Targeted,7,809,809,98,23323.47
+Prdt-1,B,12 Months,CLClubInvite12Control,Control,7,90,90,3,686.98
+Prdt-1,B,12 Months,CLRecall12,Targeted,7,1769,1769,142,30641.22
+Prdt-1,B,12 Months,CLRecall12Control,Control,7,196,196,16,3261.56
+Prdt-1,B,12 Months,CLRecallTXandCA12,Targeted,7,205,205,16,2848.48
+Prdt-1,B,12 Months,CLRecallTXandCA12Control,Control,7,23,23,0,0.0
+Prdt-1,B,12 Months,ClubReminder12,Targeted,7,797,797,108,16939.94
+Prdt-1,B,12 Months,ClubReminder12Control,Control,7,88,88,12,1046.95
+Prdt-1,B,15 Months,CLClubInvite15,Targeted,7,548,548,36,7429.22
+Prdt-1,B,15 Months,CLClubInvite15Control,Control,7,61,61,4,1114.86
+Prdt-1,B,15 Months,CLRecall15,Targeted,7,1348,1348,63,13385.34
+Prdt-1,B,15 Months,CLRecall15Control,Control,7,150,150,8,1959.94
+Prdt-1,B,15 Months,CLRecallTXandCA15,Targeted,7,127,127,7,1425.66
+Prdt-1,B,15 Months,CLRecallTXandCA15Control,Control,7,14,14,0,0.0
+Prdt-1,B,15 Months,ClubReminder15,Targeted,7,535,535,55,6953.19
+Prdt-1,B,15 Months,ClubReminder15Control,Control,7,59,59,7,559.75
+Prdt-1,B,18 Months,CLClubInvite18,Targeted,7,550,550,21,5631.58
+Prdt-1,B,18 Months,CLClubInvite18Control,Control,7,61,61,3,583.62
+Prdt-1,B,18 Months,CLRecall18,Targeted,7,1248,1248,33,6850.25
+Prdt-1,B,18 Months,CLRecall18Control,Control,7,139,139,1,159.98
+Prdt-1,B,18 Months,CLRecallTXandCA18,Targeted,7,128,128,5,1427.6
+Prdt-1,B,18 Months,CLRecallTXandCA18Control,Control,7,14,14,1,141.98
+Prdt-1,B,18 Months,ClubReminder18,Targeted,7,482,482,38,3242.91
+Prdt-1,B,18 Months,ClubReminder18Control,Control,7,54,54,0,0.0
+Prdt-1,B,21 Months,CLClubInvite21,Targeted,7,300,300,12,3423.88
+Prdt-1,B,21 Months,CLClubInvite21Control,Control,7,34,34,1,318.92
+Prdt-1,B,21 Months,CLRecall21,Targeted,7,716,716,24,5351.75
+Prdt-1,B,21 Months,CLRecall21Control,Control,7,80,80,1,190.0
+Prdt-1,B,21 Months,CLRecallTXandCA21,Targeted,7,68,68,1,155.56
+Prdt-1,B,21 Months,CLRecallTXandCA21Control,Control,7,7,7,0,0.0
+Prdt-1,B,21 Months,ClubReminder21,Targeted,7,205,205,21,2396.77
+Prdt-1,B,21 Months,ClubReminder21Control,Control,7,23,23,2,59.09
+Prdt-1,B,24 Months,CLClubInvite24,Targeted,7,464,464,13,2406.99
+Prdt-1,B,24 Months,CLClubInvite24Control,Control,7,52,52,3,587.53
+Prdt-1,B,24 Months,CLRecall24,Targeted,7,1021,1021,21,4528.5
+Prdt-1,B,24 Months,CLRecall24Control,Control,7,113,113,2,229.96
+Prdt-1,B,24 Months,CLRecallTXandCA24,Targeted,7,96,96,3,648.78
+Prdt-1,B,24 Months,CLRecallTXandCA24Control,Control,7,11,11,0,0.0
+Prdt-1,B,24 Months,ClubReminder24,Targeted,7,278,278,21,4324.74
+Prdt-1,B,24 Months,ClubReminder24Control,Control,7,31,31,1,383.92
+Prdt-1,B,24 Months,ClubReminder27,Targeted,7,239,239,16,1841.71
+Prdt-1,B,24 Months,ClubReminder27Control,Control,7,26,26,2,789.56
+Prdt-1,B,12 Months,NVIPC634-Recall-CG,Control,11,376,95,6,1659.02
+Prdt-1,B,12 Months,NVIPC634-Recall-TG,Targeted,11,6794,900,145,39228.71
+Prdt-1,B,12 Months,NVIPC635-Recall-CG,Control,11,1804,228,26,6756.95
+Prdt-1,B,12 Months,NVIPC635-Recall-TG,Targeted,11,16278,2182,264,59768.56
+Prdt-1,B,12 Months,NVIPC636-Recall-CG,Control,11,101,35,2,271.98
+Prdt-1,B,12 Months,NVIPC636-Recall-TG,Targeted,11,1858,237,18,5885.83
+Prdt-1,B,12 Months,NVIPC637-ClubRecal,Control,11,321,68,12,1257.72
+Prdt-1,B,12 Months,NVIPC637-ClubRecal,Targeted,11,5804,564,103,12924.91
+Prdt-1,B,15 Months,NVIPC634-Recall-CG,Control,11,376,69,5,1438.15
+Prdt-1,B,15 Months,NVIPC634-Recall-TG,Targeted,11,3397,615,49,11097.26
+Prdt-1,B,15 Months,NVIPC635-Recall-CG,Control,11,902,172,7,1664.33
+Prdt-1,B,15 Months,NVIPC635-Recall-TG,Targeted,11,8139,1580,69,15149.06
+Prdt-1,B,15 Months,NVIPC636-Recall-CG,Control,11,101,10,1,298.21
+Prdt-1,B,15 Months,NVIPC636-Recall-TG,Targeted,11,929,195,6,1317.92
+Prdt-1,B,15 Months,NVIPC637-ClubRecal,Control,11,321,54,9,1044.82
+Prdt-1,B,15 Months,NVIPC637-ClubRecal,Targeted,11,2902,549,53,5694.72
+Prdt-1,B,18 Months,NVIPC634-Recall-CG,Control,11,376,81,2,504.99
+Prdt-1,B,18 Months,NVIPC634-Recall-TG,Targeted,11,3397,639,43,9502.09
+Prdt-1,B,18 Months,NVIPC635-Recall-CG,Control,11,902,172,7,1988.96
+Prdt-1,B,18 Months,NVIPC635-Recall-TG,Targeted,11,8139,1456,82,17569.51
+Prdt-1,B,18 Months,NVIPC636-Recall-CG,Control,11,101,27,0,0.0
+Prdt-1,B,18 Months,NVIPC636-Recall-TG,Targeted,11,929,162,5,909.72
+Prdt-1,B,18 Months,NVIPC637-ClubRecal,Control,11,321,64,6,1414.64
+Prdt-1,B,18 Months,NVIPC637-ClubRecal,Targeted,11,2902,573,64,8255.86
+Prdt-1,B,21 Months,NVIPC634-Recall-CG,Control,11,376,81,4,698.94
+Prdt-1,B,21 Months,NVIPC634-Recall-TG,Targeted,11,3397,708,40,11286.11
+Prdt-1,B,21 Months,NVIPC635-Recall-CG,Control,11,902,195,2,287.98
+Prdt-1,B,21 Months,NVIPC635-Recall-TG,Targeted,11,8139,1632,79,16755.1
+Prdt-1,B,21 Months,NVIPC636-Recall-CG,Control,11,101,16,1,229.95
+Prdt-1,B,21 Months,NVIPC636-Recall-TG,Targeted,11,929,210,4,850.47
+Prdt-1,B,21 Months,NVIPC637-ClubRecal,Control,11,321,65,5,807.71
+Prdt-1,B,21 Months,NVIPC637-ClubRecal,Targeted,11,2902,589,39,2884.56
+Prdt-1,B,24 Months,NVIPC634-Recall-CG,Control,11,376,50,1,244.99
+Prdt-1,B,24 Months,NVIPC634-Recall-TG,Targeted,11,3397,522,16,4706.42
+Prdt-1,B,24 Months,NVIPC635-Recall-CG,Control,11,902,135,5,1940.13
+Prdt-1,B,24 Months,NVIPC635-Recall-TG,Targeted,11,8139,1276,52,13428.05
+Prdt-1,B,24 Months,NVIPC636-Recall-CG,Control,11,101,13,1,40.0
+Prdt-1,B,24 Months,NVIPC636-Recall-TG,Targeted,11,929,112,1,489.92
+Prdt-1,B,24 Months,NVIPC637-ClubRecal,Control,11,642,70,3,251.74
+Prdt-1,B,24 Months,NVIPC637-ClubRecal,Targeted,11,5804,614,45,5826.99
+Prdt-1,B,12 Months,NVIPC634-Recall-CG,Control,0,714,110,18,5337.16
+Prdt-1,B,12 Months,NVIPC634-Recall-TG,Targeted,0,6470,914,115,30921.26
+Prdt-1,B,12 Months,NVIPC635-Recall-CG,Control,0,872,108,8,1178.68
+Prdt-1,B,12 Months,NVIPC635-Recall-TG,Targeted,0,7888,1054,118,21043.46
+Prdt-1,B,12 Months,NVIPC636-Recall-CG,Control,0,113,32,3,586.94
+Prdt-1,B,12 Months,NVIPC636-Recall-TG,Targeted,0,2076,288,26,6325.85
+Prdt-1,B,12 Months,NVIPC637-ClubRecal,Control,0,644,91,18,1865.33
+Prdt-1,B,12 Months,NVIPC637-ClubRecal,Targeted,0,5824,644,108,14920.51
+Prdt-1,B,15 Months,NVIPC634-Recall-CG,Control,0,357,67,4,714.45
+Prdt-1,B,15 Months,NVIPC634-Recall-TG,Targeted,0,3235,622,38,9954.3
+Prdt-1,B,15 Months,NVIPC635-Recall-CG,Control,0,436,86,4,796.89
+Prdt-1,B,15 Months,NVIPC635-Recall-TG,Targeted,0,3944,758,46,9170.32
+Prdt-1,B,15 Months,NVIPC636-Recall-CG,Control,0,113,17,2,821.45
+Prdt-1,B,15 Months,NVIPC636-Recall-TG,Targeted,0,1038,229,13,1608.0
+Prdt-1,B,15 Months,NVIPC637-ClubRecal,Control,0,322,59,8,1331.22
+Prdt-1,B,15 Months,NVIPC637-ClubRecal,Targeted,0,2912,591,75,12180.86
+Prdt-1,B,18 Months,NVIPC634-Recall-CG,Control,0,357,64,1,416.36
+Prdt-1,B,18 Months,NVIPC634-Recall-TG,Targeted,0,3235,637,33,8224.85
+Prdt-1,B,18 Months,NVIPC635-Recall-CG,Control,0,436,94,4,1456.51
+Prdt-1,B,18 Months,NVIPC635-Recall-TG,Targeted,0,3944,830,44,7608.59
+Prdt-1,B,18 Months,NVIPC636-Recall-CG,Control,0,113,24,0,0.0
+Prdt-1,B,18 Months,NVIPC636-Recall-TG,Targeted,0,1038,185,3,680.91
+Prdt-1,B,18 Months,NVIPC637-ClubRecal,Control,0,322,55,9,1711.44
+Prdt-1,B,18 Months,NVIPC637-ClubRecal,Targeted,0,2912,542,64,9260.43
+Prdt-1,B,21 Months,NVIPC634-Recall-CG,Control,0,357,48,0,0.0
+Prdt-1,B,21 Months,NVIPC634-Recall-TG,Targeted,0,3235,527,20,5384.51
+Prdt-1,B,21 Months,NVIPC635-Recall-CG,Control,0,436,81,4,463.0
+Prdt-1,B,21 Months,NVIPC635-Recall-TG,Targeted,0,3944,645,16,3944.61
+Prdt-1,B,21 Months,NVIPC636-Recall-CG,Control,0,113,23,0,0.0
+Prdt-1,B,21 Months,NVIPC636-Recall-TG,Targeted,0,1038,172,7,1285.41
+Prdt-1,B,21 Months,NVIPC637-ClubRecal,Control,0,322,48,3,860.69
+Prdt-1,B,21 Months,NVIPC637-ClubRecal,Targeted,0,2912,455,40,4310.09
+Prdt-1,B,24 Months,NVIPC634-Recall-CG,Control,0,357,68,2,307.99
+Prdt-1,B,24 Months,NVIPC634-Recall-TG,Targeted,0,3235,522,20,5460.31
+Prdt-1,B,24 Months,NVIPC635-Recall-CG,Control,0,436,67,2,365.55
+Prdt-1,B,24 Months,NVIPC635-Recall-TG,Targeted,0,3944,644,22,4860.89
+Prdt-1,B,24 Months,NVIPC636-Recall-CG,Control,0,113,17,1,224.95
+Prdt-1,B,24 Months,NVIPC636-Recall-TG,Targeted,0,1038,151,5,1241.81
+Prdt-1,B,24 Months,NVIPC637-ClubRecal,Control,0,644,69,4,312.78
+Prdt-1,B,24 Months,NVIPC637-ClubRecal,Targeted,0,5824,667,50,7785.0
+Prdt-1,B,12 Months,CLClubInvite12,Targeted,6,609,609,66,18736.12
+Prdt-1,B,12 Months,CLClubInvite12Control,Control,6,68,68,9,1847.63
+Prdt-1,B,12 Months,CLRecall12,Targeted,6,1501,1501,131,27907.11
+Prdt-1,B,12 Months,CLRecall12Control,Control,6,167,167,18,3229.33
+Prdt-1,B,12 Months,CLRecallTXandCA12,Targeted,6,160,160,13,2191.24
+Prdt-1,B,12 Months,CLRecallTXandCA12Control,Control,6,18,18,2,370.26
+Prdt-1,B,12 Months,ClubReminder12,Targeted,6,666,666,119,13688.47
+Prdt-1,B,12 Months,ClubReminder12Control,Control,6,74,74,14,1666.91
+Prdt-1,B,15 Months,CLClubInvite15,Targeted,6,517,517,42,9337.19
+Prdt-1,B,15 Months,CLClubInvite15Control,Control,6,58,58,8,1715.87
+Prdt-1,B,15 Months,CLRecall15,Targeted,6,1235,1235,77,16621.85
+Prdt-1,B,15 Months,CLRecall15Control,Control,6,137,137,7,1331.28
+Prdt-1,B,15 Months,CLRecallTXandCA15,Targeted,6,126,126,9,2968.78
+Prdt-1,B,15 Months,CLRecallTXandCA15Control,Control,6,14,14,0,0.0
+Prdt-1,B,15 Months,ClubReminder15,Targeted,6,505,505,55,6858.49
+Prdt-1,B,15 Months,ClubReminder15Control,Control,6,56,56,5,540.35
+Prdt-1,B,18 Months,CLClubInvite18,Targeted,6,329,329,21,5668.37
+Prdt-1,B,18 Months,CLClubInvite18Control,Control,6,37,37,0,0.0
+Prdt-1,B,18 Months,CLRecall18,Targeted,6,745,745,24,5317.64
+Prdt-1,B,18 Months,CLRecall18Control,Control,6,83,83,6,1290.72
+Prdt-1,B,18 Months,CLRecallTXandCA18,Targeted,6,72,72,6,1171.91
+Prdt-1,B,18 Months,CLRecallTXandCA18Control,Control,6,8,8,0,0.0
+Prdt-1,B,18 Months,ClubReminder18,Targeted,6,298,298,27,3178.72
+Prdt-1,B,18 Months,ClubReminder18Control,Control,6,33,33,2,385.9
+Prdt-1,B,21 Months,CLClubInvite21,Targeted,6,397,397,19,3833.3
+Prdt-1,B,21 Months,CLClubInvite21Control,Control,6,44,44,4,657.64
+Prdt-1,B,21 Months,CLRecall21,Targeted,6,1040,1040,31,6731.2
+Prdt-1,B,21 Months,CLRecall21Control,Control,6,116,116,5,875.37
+Prdt-1,B,21 Months,CLRecallTXandCA21,Targeted,6,104,104,3,749.41
+Prdt-1,B,21 Months,CLRecallTXandCA21Control,Control,6,11,11,0,0.0
+Prdt-1,B,21 Months,ClubReminder21,Targeted,6,304,304,27,2362.99
+Prdt-1,B,21 Months,ClubReminder21Control,Control,6,34,34,1,138.58
+Prdt-1,B,24 Months,CLClubInvite24,Targeted,6,421,421,17,4715.67
+Prdt-1,B,24 Months,CLClubInvite24Control,Control,6,47,47,3,620.16
+Prdt-1,B,24 Months,CLRecall24,Targeted,6,1066,1066,18,4772.64
+Prdt-1,B,24 Months,CLRecall24Control,Control,6,118,118,3,545.53
+Prdt-1,B,24 Months,CLRecallTXandCA24,Targeted,6,119,119,6,1469.47
+Prdt-1,B,24 Months,CLRecallTXandCA24Control,Control,6,13,13,1,229.95
+Prdt-1,B,24 Months,ClubReminder24,Targeted,6,266,266,24,2917.93
+Prdt-1,B,24 Months,ClubReminder24Control,Control,6,29,29,0,0.0
+Prdt-1,B,24 Months,ClubReminder27,Targeted,6,146,146,15,1935.57
+Prdt-1,B,24 Months,ClubReminder27Control,Control,6,16,16,0,0.0
+Prdt-1,B,12 Months,CLClubInvite12,Targeted,5,668,668,72,16029.83
+Prdt-1,B,12 Months,CLClubInvite12Control,Control,5,75,75,11,1969.59
+Prdt-1,B,12 Months,CLRecall12,Targeted,5,1332,1332,114,25596.59
+Prdt-1,B,12 Months,CLRecall12Control,Control,5,148,148,13,2297.28
+Prdt-1,B,12 Months,CLRecallTXandCA12,Targeted,5,129,129,14,2900.8
+Prdt-1,B,12 Months,CLRecallTXandCA12Control,Control,5,14,14,1,330.53
+Prdt-1,B,12 Months,ClubReminder12,Targeted,5,680,680,97,14163.16
+Prdt-1,B,12 Months,ClubReminder12Control,Control,5,75,75,9,693.16
+Prdt-1,B,15 Months,CLClubInvite15,Targeted,5,593,593,35,7980.92
+Prdt-1,B,15 Months,CLClubInvite15Control,Control,5,66,66,1,340.51
+Prdt-1,B,15 Months,CLRecall15,Targeted,5,1265,1265,82,17027.35
+Prdt-1,B,15 Months,CLRecall15Control,Control,5,140,140,11,3007.25
+Prdt-1,B,15 Months,CLRecallTXandCA15,Targeted,5,157,157,9,2075.83
+Prdt-1,B,15 Months,CLRecallTXandCA15Control,Control,5,17,17,1,355.07
+Prdt-1,B,15 Months,ClubReminder15,Targeted,5,592,592,77,7246.91
+Prdt-1,B,15 Months,ClubReminder15Control,Control,5,66,66,8,1150.89
+Prdt-1,B,18 Months,CLClubInvite18,Targeted,5,320,320,20,3661.61
+Prdt-1,B,18 Months,CLClubInvite18Control,Control,5,35,35,2,751.91
+Prdt-1,B,18 Months,CLRecall18,Targeted,5,740,740,29,5266.28
+Prdt-1,B,18 Months,CLRecall18Control,Control,5,82,82,5,813.22
+Prdt-1,B,18 Months,CLRecallTXandCA18,Targeted,5,61,61,3,580.99
+Prdt-1,B,18 Months,CLRecallTXandCA18Control,Control,5,7,7,0,0.0
+Prdt-1,B,18 Months,ClubReminder18,Targeted,5,252,252,25,2505.72
+Prdt-1,B,18 Months,ClubReminder18Control,Control,5,28,28,4,520.51
+Prdt-1,B,21 Months,CLClubInvite21,Targeted,5,411,411,19,4441.98
+Prdt-1,B,21 Months,CLClubInvite21Control,Control,5,46,46,0,0.0
+Prdt-1,B,21 Months,CLRecall21,Targeted,5,976,976,30,7345.32
+Prdt-1,B,21 Months,CLRecall21Control,Control,5,108,108,1,77.78
+Prdt-1,B,21 Months,CLRecallTXandCA21,Targeted,5,91,91,1,120.0
+Prdt-1,B,21 Months,CLRecallTXandCA21Control,Control,5,10,10,2,190.98
+Prdt-1,B,21 Months,ClubReminder21,Targeted,5,293,293,19,2171.71
+Prdt-1,B,21 Months,ClubReminder21Control,Control,5,33,33,3,110.67
+Prdt-1,B,24 Months,CLClubInvite24,Targeted,5,412,412,18,5600.28
+Prdt-1,B,24 Months,CLClubInvite24Control,Control,5,46,46,3,612.21
+Prdt-1,B,24 Months,CLRecall24,Targeted,5,1026,1026,34,8344.2
+Prdt-1,B,24 Months,CLRecall24Control,Control,5,114,114,4,401.23
+Prdt-1,B,24 Months,CLRecallTXandCA24,Targeted,5,96,96,5,1032.43
+Prdt-1,B,24 Months,CLRecallTXandCA24Control,Control,5,11,11,0,0.0
+Prdt-1,B,24 Months,ClubReminder24,Targeted,5,293,293,19,2753.94
+Prdt-1,B,24 Months,ClubReminder24Control,Control,5,33,33,0,0.0
+Prdt-1,B,24 Months,ClubReminder27,Targeted,5,284,284,13,1881.19
+Prdt-1,B,24 Months,ClubReminder27Control,Control,5,31,31,1,0.0
+Prdt-1,B,12 Months,NVIPC634-Recall-CG,Control,10,1059,72,7,1476.08
+Prdt-1,B,12 Months,NVIPC634-Recall-TG,Targeted,10,9597,791,84,18153.47
+Prdt-1,B,12 Months,NVIPC635-Recall-CG,Control,10,2517,189,13,2898.14
+Prdt-1,B,12 Months,NVIPC635-Recall-TG,Targeted,10,22692,1706,147,28556.75
+Prdt-1,B,12 Months,NVIPC636-Recall-CG,Control,10,192,29,2,379.94
+Prdt-1,B,12 Months,NVIPC636-Recall-TG,Targeted,10,2652,191,10,2426.08
+Prdt-1,B,12 Months,NVIPC637-Recall-CG,Control,10,670,83,10,1699.59
+Prdt-1,B,12 Months,NVIPC637-Recall-TG,Targeted,10,6066,631,78,8313.88
+Prdt-1,B,15 Months,NVIPC634-Recall-CG,Control,10,353,89,8,1763.79
+Prdt-1,B,15 Months,NVIPC634-Recall-TG,Targeted,10,6398,729,48,12833.0
+Prdt-1,B,15 Months,NVIPC635-Recall-CG,Control,10,839,181,13,2943.91
+Prdt-1,B,15 Months,NVIPC635-Recall-TG,Targeted,10,7564,1725,106,23313.13
+Prdt-1,B,15 Months,NVIPC636-Recall-CG,Control,10,96,20,3,692.19
+Prdt-1,B,15 Months,NVIPC636-Recall-TG,Targeted,10,884,224,8,1839.84
+Prdt-1,B,15 Months,NVIPC637-Recall-CG,Control,10,335,62,3,389.94
+Prdt-1,B,15 Months,NVIPC637-Recall-TG,Targeted,10,3033,669,67,10282.31
+Prdt-1,B,18 Months,NVIPC634-Recall-CG,Control,10,353,63,5,1196.7
+Prdt-1,B,18 Months,NVIPC634-Recall-TG,Targeted,10,3199,558,30,6895.7
+Prdt-1,B,18 Months,NVIPC635-Recall-CG,Control,10,839,167,6,1324.6
+Prdt-1,B,18 Months,NVIPC635-Recall-TG,Targeted,10,7564,1432,58,12161.43
+Prdt-1,B,18 Months,NVIPC636-Recall-CG,Control,10,96,13,0,0.0
+Prdt-1,B,18 Months,NVIPC636-Recall-TG,Targeted,10,884,163,1,78.0
+Prdt-1,B,18 Months,NVIPC637-Recall-CG,Control,10,335,57,4,345.11
+Prdt-1,B,18 Months,NVIPC637-Recall-TG,Targeted,10,3033,540,48,5728.43
+Prdt-1,B,21 Months,NVIPC634-Recall-CG,Control,10,353,82,4,614.46
+Prdt-1,B,21 Months,NVIPC634-Recall-TG,Targeted,10,3199,697,36,8617.73
+Prdt-1,B,21 Months,NVIPC635-Recall-CG,Control,10,839,185,4,1447.8
+Prdt-1,B,21 Months,NVIPC635-Recall-TG,Targeted,10,7564,1647,32,5625.5
+Prdt-1,B,21 Months,NVIPC636-Recall-CG,Control,10,96,26,2,84.0
+Prdt-1,B,21 Months,NVIPC636-Recall-TG,Targeted,10,884,178,7,1081.06
+Prdt-1,B,21 Months,NVIPC637-Recall-CG,Control,10,335,77,4,251.96
+Prdt-1,B,21 Months,NVIPC637-Recall-TG,Targeted,10,3033,601,52,5283.55
+Prdt-1,B,24 Months,NVIPC634-Recall-CG,Control,10,353,47,1,347.98
+Prdt-1,B,24 Months,NVIPC634-Recall-TG,Targeted,10,6398,411,15,4818.19
+Prdt-1,B,24 Months,NVIPC635-Recall-CG,Control,10,839,117,3,153.91
+Prdt-1,B,24 Months,NVIPC635-Recall-TG,Targeted,10,22692,1041,27,5511.14
+Prdt-1,B,24 Months,NVIPC636-Recall-CG,Control,10,96,8,0,0.0
+Prdt-1,B,24 Months,NVIPC636-Recall-TG,Targeted,10,884,115,3,1074.88
+Prdt-1,B,24 Months,NVIPC637-Recall-CG,Control,10,670,56,5,299.98
+Prdt-1,B,24 Months,NVIPC637-Recall-TG,Targeted,10,6066,579,37,2720.58
+Prdt-1,B,12 Months,NVIPC634-CL Invite,Control,9,1005,91,9,2504.37
+Prdt-1,B,12 Months,NVIPC634-CL Invite,Targeted,9,12120,839,114,30566.68
+Prdt-1,B,12 Months,NVIPC635-CL Recall,Control,9,3308,205,23,4421.3
+Prdt-1,B,12 Months,NVIPC635-CL Recall,Targeted,9,29836,1892,229,52088.49
+Prdt-1,B,12 Months,NVIPC636-CL Recall,Control,9,312,34,4,925.25
+Prdt-1,B,12 Months,NVIPC636-CL Recall,Targeted,9,2874,283,30,7226.53
+Prdt-1,B,12 Months,NVIPC637-CL Recall,Control,9,948,87,14,2638.42
+Prdt-1,B,12 Months,NVIPC637-CL Recall,Targeted,9,8589,796,148,20442.77
+Prdt-1,B,15 Months,NVIPC634-CL Invite,Control,9,335,91,6,795.62
+Prdt-1,B,15 Months,NVIPC634-CL Invite,Targeted,9,3030,653,33,6733.66
+Prdt-1,B,15 Months,NVIPC635-CL Recall,Control,9,827,173,3,437.74
+Prdt-1,B,15 Months,NVIPC635-CL Recall,Targeted,9,7459,1664,51,10084.81
+Prdt-1,B,15 Months,NVIPC636-CL Recall,Control,9,104,22,0,0.0
+Prdt-1,B,15 Months,NVIPC636-CL Recall,Targeted,9,958,198,6,831.32
+Prdt-1,B,15 Months,NVIPC637-CL Recall,Control,9,316,72,3,273.95
+Prdt-1,B,15 Months,NVIPC637-CL Recall,Targeted,9,2863,591,64,6867.68
+Prdt-1,B,18 Months,NVIPC634-CL Invite,Control,9,335,59,2,169.2
+Prdt-1,B,18 Months,NVIPC634-CL Invite,Targeted,9,3030,547,22,5529.71
+Prdt-1,B,18 Months,NVIPC635-CL Recall,Control,9,827,164,1,77.78
+Prdt-1,B,18 Months,NVIPC635-CL Recall,Targeted,9,7459,1451,34,5893.0
+Prdt-1,B,18 Months,NVIPC636-CL Recall,Control,9,104,15,1,129.0
+Prdt-1,B,18 Months,NVIPC636-CL Recall,Targeted,9,958,191,3,355.23
+Prdt-1,B,18 Months,NVIPC637-CL Recall,Control,9,316,59,5,410.15
+Prdt-1,B,18 Months,NVIPC637-CL Recall,Targeted,9,2863,496,37,4347.23
+Prdt-1,B,21 Months,NVIPC634-CL Invite,Control,9,335,55,1,198.98
+Prdt-1,B,21 Months,NVIPC634-CL Invite,Targeted,9,3030,562,20,5605.06
+Prdt-1,B,21 Months,NVIPC635-CL Recall,Control,9,827,154,5,550.28
+Prdt-1,B,21 Months,NVIPC635-CL Recall,Targeted,9,7459,1312,26,6021.56
+Prdt-1,B,21 Months,NVIPC636-CL Recall,Control,9,104,17,1,72.9
+Prdt-1,B,21 Months,NVIPC636-CL Recall,Targeted,9,958,154,1,257.43
+Prdt-1,B,21 Months,NVIPC637-CL Recall,Control,9,316,39,0,0.0
+Prdt-1,B,21 Months,NVIPC637-CL Recall,Targeted,9,2863,386,27,2254.21
+Prdt-1,B,24 Months,NVIPC634-CL Invite,Control,9,335,39,2,408.38
+Prdt-1,B,24 Months,NVIPC634-CL Invite,Targeted,9,3030,415,14,2806.01
+Prdt-1,B,24 Months,NVIPC635-CL Recall,Control,9,827,131,3,537.33
+Prdt-1,B,24 Months,NVIPC635-CL Recall,Targeted,9,7459,1126,24,5629.9
+Prdt-1,B,24 Months,NVIPC636-CL Recall,Control,9,104,16,0,0.0
+Prdt-1,B,24 Months,NVIPC636-CL Recall,Targeted,9,958,118,1,283.96
+Prdt-1,B,24 Months,NVIPC637-CL Recall,Control,9,632,59,3,304.05
+Prdt-1,B,24 Months,NVIPC637-CL Recall,Targeted,9,5726,580,32,4199.53
+Prdt-1,C,12 Months,Recall12CLExamOnly,Targeted,3,406,406,39,9203.06
+Prdt-1,C,12 Months,Recall12CLExamOnlyControl,Control,3,45,45,2,856.96
+Prdt-1,C,15 Months,Recall15CLExamOnly,Targeted,3,257,257,17,3506.16
+Prdt-1,C,15 Months,Recall15CLExamOnlyControl,Control,3,29,29,0,0.0
+Prdt-1,C,18 Months,Recall18CLExamOnly,Targeted,3,352,352,10,2259.79
+Prdt-1,C,18 Months,Recall18CLExamOnlyControl,Control,3,39,39,2,458.96
+Prdt-1,C,21 Months,Recall21CLExamOnly,Targeted,3,301,301,6,1040.56
+Prdt-1,C,21 Months,Recall21CLExamOnlyControl,Control,3,33,33,4,530.25
+Prdt-1,C,24 Months,Recall24CLExamOnly,Targeted,3,302,302,10,2561.55
+Prdt-1,C,24 Months,Recall24CLExamOnlyControl,Control,3,33,33,2,524.98
+Prdt-1,C,27 Months,Recall27CLExamOnly,Targeted,3,223,223,3,676.67
+Prdt-1,C,27 Months,Recall27CLExamOnlyControl,Control,3,25,25,0,0.0
+Prdt-1,C,12 Months,NVIPC764-Recall-CG,Control,11,1502,74,8,1752.42
+Prdt-1,C,12 Months,NVIPC764-Recall-TG,Targeted,11,13535,662,85,18395.8
+Prdt-1,C,15 Months,NVIPC764-Recall-CG,Control,11,1502,36,3,531.9
+Prdt-1,C,15 Months,NVIPC764-Recall-TG,Targeted,11,13535,335,15,2436.33
+Prdt-1,C,18 Months,NVIPC764-Recall-CG,Control,11,1502,39,0,0.0
+Prdt-1,C,18 Months,NVIPC764-Recall-TG,Targeted,11,13535,427,22,5854.04
+Prdt-1,C,21 Months,NVIPC764-Recall-CG,Control,11,1502,59,4,814.97
+Prdt-1,C,21 Months,NVIPC764-Recall-TG,Targeted,11,13535,455,9,3057.04
+Prdt-1,C,12 Months,NVIPC764-Recall-CG,Control,0,1403,53,7,1585.9
+Prdt-1,C,12 Months,NVIPC764-Recall-TG,Targeted,0,12651,549,60,13865.46
+Prdt-1,C,15 Months,NVIPC764-Recall-CG,Control,0,1403,31,3,515.3
+Prdt-1,C,15 Months,NVIPC764-Recall-TG,Targeted,0,12651,304,22,4445.02
+Prdt-1,C,18 Months,NVIPC764-Recall-CG,Control,0,1403,49,1,458.46
+Prdt-1,C,18 Months,NVIPC764-Recall-TG,Targeted,0,12651,451,17,3739.34
+Prdt-1,C,21 Months,NVIPC764-Recall-CG,Control,0,1403,45,0,0.0
+Prdt-1,C,21 Months,NVIPC764-Recall-TG,Targeted,0,12651,395,17,3770.61
+Prdt-1,C,12 Months,Recall12CLExamOnly,Targeted,6,503,503,57,14096.59
+Prdt-1,C,12 Months,Recall12CLExamOnlyControl,Control,6,56,56,4,1106.16
+Prdt-1,C,15 Months,Recall15CLExamOnly,Targeted,6,368,368,26,5663.98
+Prdt-1,C,15 Months,Recall15CLExamOnlyControl,Control,6,41,41,5,1065.48
+Prdt-1,C,18 Months,Recall18CLExamOnly,Targeted,6,247,247,12,2992.04
+Prdt-1,C,18 Months,Recall18CLExamOnlyControl,Control,6,27,27,0,0.0
+Prdt-1,C,21 Months,Recall21CLExamOnly,Targeted,6,340,340,17,4269.7
+Prdt-1,C,21 Months,Recall21CLExamOnlyControl,Control,6,38,38,2,475.92
+Prdt-1,C,24 Months,Recall24CLExamOnly,Targeted,6,314,314,8,2151.16
+Prdt-1,C,24 Months,Recall24CLExamOnlyControl,Control,6,35,35,0,0.0
+Prdt-1,C,27 Months,Recall27CLExamOnly,Targeted,6,245,245,6,1835.7
+Prdt-1,C,27 Months,Recall27CLExamOnlyControl,Control,6,27,27,1,601.96
+Prdt-1,C,12 Months,Recall12CLExamOnly,Targeted,5,386,386,36,9072.31
+Prdt-1,C,12 Months,Recall12CLExamOnlyControl,Control,5,43,43,4,916.52
+Prdt-1,C,15 Months,Recall15CLExamOnly,Targeted,5,386,386,20,5187.76
+Prdt-1,C,15 Months,Recall15CLExamOnlyControl,Control,5,43,43,3,556.92
+Prdt-1,C,18 Months,Recall18CLExamOnly,Targeted,5,220,220,3,475.8
+Prdt-1,C,18 Months,Recall18CLExamOnlyControl,Control,5,24,24,0,0.0
+Prdt-1,C,21 Months,Recall21CLExamOnly,Targeted,5,332,332,11,3198.06
+Prdt-1,C,21 Months,Recall21CLExamOnlyControl,Control,5,37,37,3,1468.86
+Prdt-1,C,24 Months,Recall24CLExamOnly,Targeted,5,339,339,9,1639.0
+Prdt-1,C,24 Months,Recall24CLExamOnlyControl,Control,5,38,38,2,524.5
+Prdt-1,C,27 Months,Recall27CLExamOnly,Targeted,5,332,332,8,1752.98
+Prdt-1,C,27 Months,Recall27CLExamOnlyControl,Control,5,37,37,0,0.0
+Prdt-1,C,12 Months,Recall12CLExamOnly,Targeted,4,482,482,47,10680.82
+Prdt-1,C,12 Months,Recall12CLExamOnlyControl,Control,4,53,53,7,2288.19
+Prdt-1,C,15 Months,Recall15CLExamOnly,Targeted,4,391,391,31,6522.81
+Prdt-1,C,15 Months,Recall15CLExamOnlyControl,Control,4,43,43,3,444.25
+Prdt-1,C,18 Months,Recall18CLExamOnly,Targeted,4,222,222,12,2121.49
+Prdt-1,C,18 Months,Recall18CLExamOnlyControl,Control,4,25,25,0,0.0
+Prdt-1,C,21 Months,Recall21CLExamOnly,Targeted,4,290,290,11,3072.77
+Prdt-1,C,21 Months,Recall21CLExamOnlyControl,Control,4,32,32,0,0.0
+Prdt-1,C,24 Months,Recall24CLExamOnly,Targeted,4,311,311,9,2404.05
+Prdt-1,C,24 Months,Recall24CLExamOnlyControl,Control,4,35,35,0,0.0
+Prdt-1,C,27 Months,Recall27CLExamOnly,Targeted,4,283,283,5,991.73
+Prdt-1,C,27 Months,Recall27CLExamOnlyControl,Control,4,31,31,0,0.0
+Prdt-1,C,12 Months,NVIPC764-Recall-CG,Control,10,1376,50,5,1328.91
+Prdt-1,C,12 Months,NVIPC764-Recall-TG,Targeted,10,12434,516,55,13520.51
+Prdt-1,C,15 Months,NVIPC764-Recall-CG,Control,10,1376,50,0,0.0
+Prdt-1,C,15 Months,NVIPC764-Recall-TG,Targeted,10,12434,353,20,3062.13
+Prdt-1,C,18 Months,NVIPC764-Recall-CG,Control,10,1376,46,2,358.5
+Prdt-1,C,18 Months,NVIPC764-Recall-TG,Targeted,10,12434,409,17,4557.75
+Prdt-1,C,21 Months,NVIPC764-Recall-CG,Control,10,1376,44,2,382.5
+Prdt-1,C,21 Months,NVIPC764-Recall-TG,Targeted,10,12434,422,11,2905.39
+Prdt-1,C,12 Months,NVIPC119-Combined-TG,Targeted,9,11266,589,81,17785.84
+Prdt-1,C,12 Months,NVIPC119-Recall-CG,Control,9,1250,56,3,596.23
+Prdt-1,C,15 Months,NVIPC119-Combined-TG,Targeted,9,11266,359,11,2868.11
+Prdt-1,C,15 Months,NVIPC119-Recall-CG,Control,9,1250,40,0,0.0
+Prdt-1,C,18 Months,NVIPC119-Combined-TG,Targeted,9,11266,418,13,1938.87
+Prdt-1,C,18 Months,NVIPC119-Recall-CG,Control,9,1250,50,0,0.0
+Prdt-1,C,21 Months,NVIPC119-Combined-TG,Targeted,9,11266,384,10,3136.95
+Prdt-1,C,21 Months,NVIPC119-Recall-CG,Control,9,1250,42,0,0.0
+Prdt-1,D,12 Months,CLRecall12Exam,Targeted,3,474,474,37,7050.55
+Prdt-1,D,12 Months,CLRecall12ExamControl,Control,3,53,53,4,578.91
+Prdt-1,D,12 Months,CLRecall12Promo,Targeted,3,118,118,8,1500.28
+Prdt-1,D,12 Months,CLRecall12PromoControl,Control,3,13,13,0,0.0
+Prdt-1,D,15 Months,CLRecall15Exam,Targeted,3,251,251,10,2008.6
+Prdt-1,D,15 Months,CLRecall15ExamControl,Control,3,28,28,1,117.98
+Prdt-1,D,15 Months,CLRecall15Promo,Targeted,3,60,60,6,575.88
+Prdt-1,D,15 Months,CLRecall15PromoControl,Control,3,7,7,0,0.0
+Prdt-1,D,18 Months,CLRecall18Exam,Targeted,3,453,453,23,3560.03
+Prdt-1,D,18 Months,CLRecall18ExamControl,Control,3,50,50,3,606.91
+Prdt-1,D,18 Months,CLRecall18Promo,Targeted,3,100,100,2,353.14
+Prdt-1,D,18 Months,CLRecall18PromoControl,Control,3,11,11,0,0.0
+Prdt-1,D,21 Months,CLRecall21Exam,Targeted,3,448,448,22,4106.53
+Prdt-1,D,21 Months,CLRecall21ExamControl,Control,3,50,50,1,85.98
+Prdt-1,D,21 Months,CLRecall21Promo,Targeted,3,115,115,3,331.42
+Prdt-1,D,21 Months,CLRecall21PromoControl,Control,3,13,13,1,210.98
+Prdt-1,D,24 Months,CLRecall24Exam,Targeted,3,402,402,6,1437.82
+Prdt-1,D,24 Months,CLRecall24ExamControl,Control,3,45,45,4,1738.91
+Prdt-1,D,24 Months,CLRecall24Promo,Targeted,3,81,81,2,274.93
+Prdt-1,D,24 Months,CLRecall24PromoControl,Control,3,9,9,0,0.0
+Prdt-1,D,27 Months,CLRecall27Exam,Targeted,3,273,273,6,1147.86
+Prdt-1,D,27 Months,CLRecall27ExamControl,Control,3,30,30,0,0.0
+Prdt-1,D,27 Months,CLRecall27Promo,Targeted,3,76,76,2,593.9
+Prdt-1,D,27 Months,CLRecall27PromoControl,Control,3,8,8,0,0.0
+Prdt-1,D,12 Months,CLRecall12Exam,Targeted,7,745,745,55,11476.18
+Prdt-1,D,12 Months,CLRecall12ExamControl,Control,7,83,83,5,987.84
+Prdt-1,D,12 Months,CLRecall12Promo,Targeted,7,179,179,13,3254.22
+Prdt-1,D,12 Months,CLRecall12PromoControl,Control,7,20,20,1,40.0
+Prdt-1,D,15 Months,CLRecall15Exam,Targeted,7,698,698,27,5116.15
+Prdt-1,D,15 Months,CLRecall15ExamControl,Control,7,77,77,4,1176.42
+Prdt-1,D,15 Months,CLRecall15Promo,Targeted,7,162,162,8,1495.26
+Prdt-1,D,15 Months,CLRecall15PromoControl,Control,7,18,18,2,316.94
+Prdt-1,D,18 Months,CLRecall18Exam,Targeted,7,535,535,10,1720.24
+Prdt-1,D,18 Months,CLRecall18ExamControl,Control,7,59,59,2,313.98
+Prdt-1,D,18 Months,CLRecall18Promo,Targeted,7,122,122,3,455.92
+Prdt-1,D,18 Months,CLRecall18PromoControl,Control,7,13,13,0,0.0
+Prdt-1,D,21 Months,CLRecall21Exam,Targeted,7,365,365,11,1952.02
+Prdt-1,D,21 Months,CLRecall21ExamControl,Control,7,41,41,0,0.0
+Prdt-1,D,21 Months,CLRecall21Promo,Targeted,7,74,74,0,0.0
+Prdt-1,D,21 Months,CLRecall21PromoControl,Control,7,8,8,1,255.94
+Prdt-1,D,24 Months,CLRecall24Exam,Targeted,7,549,549,11,3453.92
+Prdt-1,D,24 Months,CLRecall24ExamControl,Control,7,61,61,3,612.95
+Prdt-1,D,24 Months,CLRecall24Promo,Targeted,7,132,132,2,603.47
+Prdt-1,D,24 Months,CLRecall24PromoControl,Control,7,15,15,0,0.0
+Prdt-1,D,27 Months,CLRecall27Exam,Targeted,7,543,543,6,870.37
+Prdt-1,D,27 Months,CLRecall27ExamControl,Control,7,60,60,0,0.0
+Prdt-1,D,27 Months,CLRecall27Promo,Targeted,7,130,130,0,0.0
+Prdt-1,D,27 Months,CLRecall27PromoControl,Control,7,14,14,0,0.0
+Prdt-1,D,12 Months,Recall-CG,Control,11,3741,96,7,2487.73
+Prdt-1,D,12 Months,Recall-TG,Targeted,11,34668,893,66,16067.32
+Prdt-1,D,15 Months,Recall-CG,Control,11,1921,75,1,227.96
+Prdt-1,D,15 Months,Recall-TG,Targeted,11,17334,725,30,5224.39
+Prdt-1,D,18 Months,Recall-CG,Control,11,1921,109,2,187.97
+Prdt-1,D,18 Months,Recall-TG,Targeted,11,17334,922,22,5464.11
+Prdt-1,D,21 Months,Recall-CG,Control,11,1921,110,0,0.0
+Prdt-1,D,21 Months,Recall-TG,Targeted,11,17334,907,18,3342.12
+Prdt-1,D,24 Months,Recall-CG,Control,11,1921,70,1,488.98
+Prdt-1,D,24 Months,Recall-TG,Targeted,11,17334,666,13,2283.94
+Prdt-1,D,27 Months,Recall-CG,Control,11,101,11,0,0.0
+Prdt-1,D,27 Months,Recall-TG,Targeted,11,923,140,2,543.43
+Prdt-1,D,12 Months,Recall-CG,Control,0,3738,110,8,775.39
+Prdt-1,D,12 Months,Recall-TG,Targeted,0,33748,958,81,18222.87
+Prdt-1,D,15 Months,Recall-CG,Control,0,1869,97,7,1443.86
+Prdt-1,D,15 Months,Recall-TG,Targeted,0,16874,679,29,4919.71
+Prdt-1,D,18 Months,Recall-CG,Control,0,1869,91,3,657.39
+Prdt-1,D,18 Months,Recall-TG,Targeted,0,16874,810,27,4766.52
+Prdt-1,D,21 Months,Recall-CG,Control,0,1869,87,2,466.94
+Prdt-1,D,21 Months,Recall-TG,Targeted,0,16874,869,23,4496.04
+Prdt-1,D,24 Months,Recall-CG,Control,0,1869,76,2,128.96
+Prdt-1,D,24 Months,Recall-TG,Targeted,0,16874,716,13,2821.5
+Prdt-1,D,27 Months,Recall-CG,Control,0,95,10,1,38.99
+Prdt-1,D,27 Months,Recall-TG,Targeted,0,874,117,1,284.98
+Prdt-1,D,12 Months,CLRecall12Exam,Targeted,6,666,666,56,12838.19
+Prdt-1,D,12 Months,CLRecall12ExamControl,Control,6,74,74,8,1428.52
+Prdt-1,D,12 Months,CLRecall12Promo,Targeted,6,133,133,16,2381.76
+Prdt-1,D,12 Months,CLRecall12PromoControl,Control,6,15,15,1,77.98
+Prdt-1,D,15 Months,CLRecall15Exam,Targeted,6,573,573,26,5260.23
+Prdt-1,D,15 Months,CLRecall15ExamControl,Control,6,64,64,4,568.92
+Prdt-1,D,15 Months,CLRecall15Promo,Targeted,6,138,138,6,1190.18
+Prdt-1,D,15 Months,CLRecall15PromoControl,Control,6,15,15,1,129.98
+Prdt-1,D,18 Months,CLRecall18Exam,Targeted,6,343,343,10,1372.81
+Prdt-1,D,18 Months,CLRecall18ExamControl,Control,6,38,38,2,562.63
+Prdt-1,D,18 Months,CLRecall18Promo,Targeted,6,70,70,3,357.94
+Prdt-1,D,18 Months,CLRecall18PromoControl,Control,6,8,8,0,0.0
+Prdt-1,D,21 Months,CLRecall21Exam,Targeted,6,541,541,16,3599.46
+Prdt-1,D,21 Months,CLRecall21ExamControl,Control,6,60,60,1,4.98
+Prdt-1,D,21 Months,CLRecall21Promo,Targeted,6,118,118,4,372.42
+Prdt-1,D,21 Months,CLRecall21PromoControl,Control,6,13,13,0,0.0
+Prdt-1,D,24 Months,CLRecall24Exam,Targeted,6,582,582,16,2996.09
+Prdt-1,D,24 Months,CLRecall24ExamControl,Control,6,65,65,2,477.47
+Prdt-1,D,24 Months,CLRecall24Promo,Targeted,6,145,145,3,764.73
+Prdt-1,D,24 Months,CLRecall24PromoControl,Control,6,16,16,0,0.0
+Prdt-1,D,27 Months,CLRecall27Exam,Targeted,6,466,466,14,2135.18
+Prdt-1,D,27 Months,CLRecall27ExamControl,Control,6,52,52,1,97.98
+Prdt-1,D,27 Months,CLRecall27Promo,Targeted,6,115,115,0,0.0
+Prdt-1,D,27 Months,CLRecall27PromoControl,Control,6,13,13,0,0.0
+Prdt-1,D,12 Months,CLRecall12Exam,Targeted,5,612,612,45,8101.88
+Prdt-1,D,12 Months,CLRecall12ExamControl,Control,5,68,68,1,155.96
+Prdt-1,D,12 Months,CLRecall12Promo,Targeted,5,158,158,10,1499.88
+Prdt-1,D,12 Months,CLRecall12PromoControl,Control,5,17,17,1,92.99
+Prdt-1,D,15 Months,CLRecall15Exam,Targeted,5,558,558,23,3862.27
+Prdt-1,D,15 Months,CLRecall15ExamControl,Control,5,62,62,4,364.92
+Prdt-1,D,15 Months,CLRecall15Promo,Targeted,5,127,127,7,752.83
+Prdt-1,D,15 Months,CLRecall15PromoControl,Control,5,14,14,1,69.98
+Prdt-1,D,18 Months,CLRecall18Exam,Targeted,5,294,294,7,1185.84
+Prdt-1,D,18 Months,CLRecall18ExamControl,Control,5,33,33,2,10.99
+Prdt-1,D,18 Months,CLRecall18Promo,Targeted,5,54,54,2,317.2
+Prdt-1,D,18 Months,CLRecall18PromoControl,Control,5,6,6,0,0.0
+Prdt-1,D,21 Months,CLRecall21Exam,Targeted,5,512,512,15,2821.75
+Prdt-1,D,21 Months,CLRecall21ExamControl,Control,5,57,57,0,0.0
+Prdt-1,D,21 Months,CLRecall21Promo,Targeted,5,128,128,3,441.94
+Prdt-1,D,21 Months,CLRecall21PromoControl,Control,5,14,14,1,236.47
+Prdt-1,D,24 Months,CLRecall24Exam,Targeted,5,648,648,13,3277.65
+Prdt-1,D,24 Months,CLRecall24ExamControl,Control,5,72,72,3,469.91
+Prdt-1,D,24 Months,CLRecall24Promo,Targeted,5,161,161,3,255.94
+Prdt-1,D,24 Months,CLRecall24PromoControl,Control,5,18,18,0,0.0
+Prdt-1,D,27 Months,CLRecall27Exam,Targeted,5,578,578,13,2366.72
+Prdt-1,D,27 Months,CLRecall27ExamControl,Control,5,64,64,0,0.0
+Prdt-1,D,27 Months,CLRecall27Promo,Targeted,5,132,132,1,97.98
+Prdt-1,D,27 Months,CLRecall27PromoControl,Control,5,15,15,0,0.0
+Prdt-1,D,12 Months,CLRecall12Exam,Targeted,4,595,595,48,10678.04
+Prdt-1,D,12 Months,CLRecall12ExamControl,Control,4,66,66,5,867.88
+Prdt-1,D,12 Months,CLRecall12Promo,Targeted,4,134,134,8,1508.55
+Prdt-1,D,12 Months,CLRecall12PromoControl,Control,4,15,15,2,238.95
+Prdt-1,D,15 Months,CLRecall15Exam,Targeted,4,399,399,19,4168.82
+Prdt-1,D,15 Months,CLRecall15ExamControl,Control,4,44,44,0,0.0
+Prdt-1,D,15 Months,CLRecall15Promo,Targeted,4,95,95,6,1297.9
+Prdt-1,D,15 Months,CLRecall15PromoControl,Control,4,10,10,0,0.0
+Prdt-1,D,18 Months,CLRecall18Exam,Targeted,4,294,294,12,2588.64
+Prdt-1,D,18 Months,CLRecall18ExamControl,Control,4,33,33,3,303.0
+Prdt-1,D,18 Months,CLRecall18Promo,Targeted,4,52,52,2,310.97
+Prdt-1,D,18 Months,CLRecall18PromoControl,Control,4,6,6,0,0.0
+Prdt-1,D,21 Months,CLRecall21Exam,Targeted,4,422,422,12,2344.45
+Prdt-1,D,21 Months,CLRecall21ExamControl,Control,4,47,47,2,199.99
+Prdt-1,D,21 Months,CLRecall21Promo,Targeted,4,118,118,4,578.91
+Prdt-1,D,21 Months,CLRecall21PromoControl,Control,4,13,13,1,115.98
+Prdt-1,D,24 Months,CLRecall24Exam,Targeted,4,356,356,6,1411.3
+Prdt-1,D,24 Months,CLRecall24ExamControl,Control,4,40,40,0,0.0
+Prdt-1,D,24 Months,CLRecall24Promo,Targeted,4,87,87,0,0.0
+Prdt-1,D,24 Months,CLRecall24PromoControl,Control,4,10,10,0,0.0
+Prdt-1,D,27 Months,CLRecall27Exam,Targeted,4,379,379,7,1637.76
+Prdt-1,D,27 Months,CLRecall27ExamControl,Control,4,42,42,1,66.99
+Prdt-1,D,27 Months,CLRecall27Promo,Targeted,4,92,92,0,0.0
+Prdt-1,D,27 Months,CLRecall27PromoControl,Control,4,10,10,0,0.0
+Prdt-1,D,12 Months,Recall-CG,Control,10,3709,90,7,1030.01
+Prdt-1,D,12 Months,Recall-TG,Targeted,10,34332,870,43,7087.39
+Prdt-1,D,15 Months,Recall-CG,Control,10,1903,83,2,339.43
+Prdt-1,D,15 Months,Recall-TG,Targeted,10,17166,740,34,5632.28
+Prdt-1,D,18 Months,Recall-CG,Control,10,1903,107,2,229.97
+Prdt-1,D,18 Months,Recall-TG,Targeted,10,17166,898,23,4612.49
+Prdt-1,D,21 Months,Recall-CG,Control,10,1903,106,2,193.96
+Prdt-1,D,21 Months,Recall-TG,Targeted,10,17166,857,19,3222.38
+Prdt-1,D,24 Months,Recall-CG,Control,10,1903,66,0,0.0
+Prdt-1,D,24 Months,Recall-TG,Targeted,10,17166,645,6,1848.26
+Prdt-1,D,27 Months,Recall-CG,Control,10,97,12,0,0.0
+Prdt-1,D,27 Months,Recall-TG,Targeted,10,891,136,1,490.98
+Prdt-1,D,12 Months,DrStoreRecall-CG,Control,9,4773,99,10,1766.78
+Prdt-1,D,12 Months,DrStoreRecall-TG,Targeted,9,42999,863,84,15393.2
+Prdt-1,D,12 Months,NoDr. CL Recall CG,Control,9,306,21,1,671.92
+Prdt-1,D,12 Months,NoDr. CL Recall TG,Targeted,9,2805,187,13,3147.77
+Prdt-1,D,15 Months,DrStoreRecall-CG,Control,9,1591,53,2,579.43
+Prdt-1,D,15 Months,DrStoreRecall-TG,Targeted,9,14333,587,6,832.52
+Prdt-1,D,15 Months,NoDr. CL Recall CG,Control,9,102,14,1,283.96
+Prdt-1,D,15 Months,NoDr. CL Recall TG,Targeted,9,935,127,2,249.16
+Prdt-1,D,18 Months,DrStoreRecall-CG,Control,9,1591,89,5,879.84
+Prdt-1,D,18 Months,DrStoreRecall-TG,Targeted,9,14333,720,9,1753.79
+Prdt-1,D,18 Months,NoDr. CL Recall CG,Control,9,102,25,0,0.0
+Prdt-1,D,18 Months,NoDr. CL Recall TG,Targeted,9,935,166,2,306.88
+Prdt-1,D,21 Months,DrStoreRecall-CG,Control,9,1591,65,1,165.44
+Prdt-1,D,21 Months,DrStoreRecall-TG,Targeted,9,14333,611,10,2133.69
+Prdt-1,D,21 Months,NoDr. CL Recall CG,Control,9,102,12,1,205.99
+Prdt-1,D,21 Months,NoDr. CL Recall TG,Targeted,9,935,142,2,366.94
+Prdt-1,D,24 Months,DrStoreRecall-CG,Control,9,1591,68,0,0.0
+Prdt-1,D,24 Months,DrStoreRecall-TG,Targeted,9,14333,621,7,1632.86
+Prdt-1,D,24 Months,NoDr. CL Recall CG,Control,9,102,16,0,0.0
+Prdt-1,D,24 Months,NoDr. CL Recall TG,Targeted,9,935,127,2,209.97
+Prdt-1,D,27 Months,NoDr. CL Recall CG,Control,9,102,14,0,0.0
+Prdt-1,D,27 Months,NoDr. CL Recall TG,Targeted,9,935,172,0,0.0
+Prdt-1,E,12 Months,CLRecall12-Employed,Targeted,7,2248,2248,221,45318.35
+Prdt-1,E,12 Months,CLRecall12-EmployedControl,Control,7,250,250,21,4871.43
+Prdt-1,E,12 Months,CLRecall12Leased,Targeted,7,3838,3838,314,53688.83
+Prdt-1,E,12 Months,CLRecall12LeasedControl,Control,7,426,426,35,6399.18
+Prdt-1,E,15 Months,CLRecall15-Employed,Targeted,7,1620,1620,93,17345.51
+Prdt-1,E,15 Months,CLRecall15-EmployedControl,Control,7,180,180,10,2472.87
+Prdt-1,E,15 Months,CLRecall15Leased,Targeted,7,3375,3375,155,25288.96
+Prdt-1,E,15 Months,CLRecall15LeasedControl,Control,7,375,375,18,3593.2
+Prdt-1,E,18 Months,CLRecall18-Employed,Targeted,7,1435,1435,73,14766.61
+Prdt-1,E,18 Months,CLRecall18-EmployedControl,Control,7,159,159,0,0.0
+Prdt-1,E,18 Months,CLRecall18Leased,Targeted,7,2462,2462,80,12619.16
+Prdt-1,E,18 Months,CLRecall18LeasedControl,Control,7,273,273,8,881.44
+Prdt-1,E,21 Months,CLRecall21-Employed,Targeted,7,941,941,35,5486.53
+Prdt-1,E,21 Months,CLRecall21-EmployedControl,Control,7,111,111,2,294.0
+Prdt-1,E,21 Months,CLRecall21Leased,Targeted,7,1999,1999,70,13381.27
+Prdt-1,E,21 Months,CLRecall21LeasedControl,Control,7,222,222,10,1872.04
+Prdt-1,E,24 Months,CLRecall24-Employed,Targeted,7,1406,1406,39,8931.64
+Prdt-1,E,24 Months,CLRecall24-EmployedControl,Control,7,156,156,4,852.92
+Prdt-1,E,24 Months,CLRecall24Leased,Targeted,7,2561,2561,66,11509.94
+Prdt-1,E,24 Months,CLRecall24LeasedControl,Control,7,284,284,12,1730.96
+Prdt-1,E,27 Months,CLRecall27-Employed,Targeted,7,1319,1319,33,7060.35
+Prdt-1,E,27 Months,CLRecall27-EmployedControl,Control,7,146,146,2,744.91
+Prdt-1,E,27 Months,CLRecall27Leased,Targeted,7,2823,2823,60,9206.61
+Prdt-1,E,27 Months,CLRecall27LeasedControl,Control,7,313,313,4,745.83
+Prdt-1,E,12 Months,Recall-CG,Control,11,4540,381,37,7535.35
+Prdt-1,E,12 Months,Recall-CG,Control,11,2496,289,35,6393.63
+Prdt-1,E,12 Months,Recall-TG,Targeted,11,40908,3892,427,79790.09
+Prdt-1,E,12 Months,Recall-TG,Targeted,11,22514,2485,325,70252.19
+Prdt-1,E,15 Months,Recall-CG,Control,11,2270,411,20,4363.83
+Prdt-1,E,15 Months,Recall-CG,Control,11,1248,197,13,2142.72
+Prdt-1,E,15 Months,Recall-TG,Targeted,11,20454,3570,159,28605.42
+Prdt-1,E,15 Months,Recall-TG,Targeted,11,11257,1717,80,15587.77
+Prdt-1,E,18 Months,Recall-CG,Control,11,1248,217,19,4439.07
+Prdt-1,E,18 Months,Recall-CG,Control,11,2270,382,22,3627.51
+Prdt-1,E,18 Months,Recall-TG,Targeted,11,11257,1928,100,20826.58
+Prdt-1,E,18 Months,Recall-TG,Targeted,11,20454,3191,121,21696.27
+Prdt-1,E,21 Months,Recall-CG,Control,11,1248,203,6,1137.02
+Prdt-1,E,21 Months,Recall-CG,Control,11,2270,457,16,3225.44
+Prdt-1,E,21 Months,Recall-TG,Targeted,11,11257,2000,75,13562.8
+Prdt-1,E,21 Months,Recall-TG,Targeted,11,20454,4180,118,18504.48
+Prdt-1,E,24 Months,Recall-CG,Control,11,1248,186,9,1774.86
+Prdt-1,E,24 Months,Recall-CG,Control,11,2270,321,15,1874.72
+Prdt-1,E,24 Months,Recall-TG,Targeted,11,20454,2677,83,15183.7
+Prdt-1,E,24 Months,Recall-TG,Targeted,11,11257,1627,69,15090.95
+Prdt-1,E,27 Months,Recall-CG,Control,11,2270,318,7,2070.9
+Prdt-1,E,27 Months,Recall-CG,Control,11,1248,156,1,174.0
+Prdt-1,E,27 Months,Recall-TG,Targeted,11,20454,2928,57,10500.1
+Prdt-1,E,27 Months,Recall-TG,Targeted,11,11257,1484,37,7092.93
+Prdt-1,E,12 Months,Recall-CG,Control,0,3116,326,29,4298.9
+Prdt-1,E,12 Months,Recall-CG,Control,0,2308,221,19,5256.85
+Prdt-1,E,12 Months,Recall-TG,Targeted,0,28076,2751,238,41007.01
+Prdt-1,E,12 Months,Recall-TG,Targeted,0,20812,2260,284,61629.71
+Prdt-1,E,15 Months,Recall-CG,Control,0,1154,210,13,2080.46
+Prdt-1,E,15 Months,Recall-CG,Control,0,1558,266,13,2014.04
+Prdt-1,E,15 Months,Recall-TG,Targeted,0,14038,2501,108,17291.53
+Prdt-1,E,15 Months,Recall-TG,Targeted,0,10406,1716,94,20765.19
+Prdt-1,E,18 Months,Recall-CG,Control,0,1154,182,8,1548.94
+Prdt-1,E,18 Months,Recall-CG,Control,0,1558,252,13,3082.77
+Prdt-1,E,18 Months,Recall-TG,Targeted,0,14038,2274,92,12669.88
+Prdt-1,E,18 Months,Recall-TG,Targeted,0,10406,1764,78,16514.25
+Prdt-1,E,21 Months,Recall-CG,Control,0,1154,191,7,1537.91
+Prdt-1,E,21 Months,Recall-CG,Control,0,1558,260,6,1472.98
+Prdt-1,E,21 Months,Recall-TG,Targeted,0,14038,2386,58,11086.5
+Prdt-1,E,21 Months,Recall-TG,Targeted,0,10406,1656,56,10773.83
+Prdt-1,E,24 Months,Recall-CG,Control,0,1154,181,5,784.98
+Prdt-1,E,24 Months,Recall-CG,Control,0,1558,210,9,1365.66
+Prdt-1,E,24 Months,Recall-TG,Targeted,0,10406,1458,48,9567.8
+Prdt-1,E,24 Months,Recall-TG,Targeted,0,14038,1955,46,7361.19
+Prdt-1,E,27 Months,Recall-CG,Control,0,1154,169,2,481.99
+Prdt-1,E,27 Months,Recall-CG,Control,0,1558,244,4,650.1
+Prdt-1,E,27 Months,Recall-TG,Targeted,0,10406,1536,33,7327.85
+Prdt-1,E,27 Months,Recall-TG,Targeted,0,14038,2155,33,6999.5
+Prdt-1,E,12 Months,CLRecall12-Employed,Targeted,6,1669,1669,182,38943.27
+Prdt-1,E,12 Months,CLRecall12-EmployedControl,Control,6,188,188,22,5175.36
+Prdt-1,E,12 Months,CLRecall12Leased,Targeted,6,2967,2967,284,50367.9
+Prdt-1,E,12 Months,CLRecall12LeasedControl,Control,6,330,330,31,5082.91
+Prdt-1,E,15 Months,CLRecall15-Employed,Targeted,6,1402,1402,98,20033.78
+Prdt-1,E,15 Months,CLRecall15-EmployedControl,Control,6,158,158,12,2770.49
+Prdt-1,E,15 Months,CLRecall15Leased,Targeted,6,3088,3088,168,30269.21
+Prdt-1,E,15 Months,CLRecall15LeasedControl,Control,6,343,343,21,4147.76
+Prdt-1,E,18 Months,CLRecall18-Employed,Targeted,6,819,819,35,6799.04
+Prdt-1,E,18 Months,CLRecall18-EmployedControl,Control,6,92,92,5,1067.48
+Prdt-1,E,18 Months,CLRecall18Leased,Targeted,6,1396,1396,58,9765.49
+Prdt-1,E,18 Months,CLRecall18LeasedControl,Control,6,155,155,5,602.77
+Prdt-1,E,21 Months,CLRecall21-Employed,Targeted,6,1399,1399,47,8012.75
+Prdt-1,E,21 Months,CLRecall21-EmployedControl,Control,6,157,157,3,463.25
+Prdt-1,E,21 Months,CLRecall21Leased,Targeted,6,3023,3023,92,16213.93
+Prdt-1,E,21 Months,CLRecall21LeasedControl,Control,6,336,336,7,1373.74
+Prdt-1,E,24 Months,CLRecall24-Employed,Targeted,6,1423,1423,55,9314.63
+Prdt-1,E,24 Months,CLRecall24-EmployedControl,Control,6,159,159,3,819.99
+Prdt-1,E,24 Months,CLRecall24Leased,Targeted,6,2786,2786,72,11368.13
+Prdt-1,E,24 Months,CLRecall24LeasedControl,Control,6,310,310,10,1405.4
+Prdt-1,E,27 Months,CLRecall27-Employed,Targeted,6,1254,1254,30,5401.26
+Prdt-1,E,27 Months,CLRecall27-EmployedControl,Control,6,140,140,4,663.27
+Prdt-1,E,27 Months,CLRecall27Leased,Targeted,6,2372,2372,39,6408.56
+Prdt-1,E,27 Months,CLRecall27LeasedControl,Control,6,263,263,2,187.55
+Prdt-1,E,12 Months,CLRecall12-Employed,Targeted,5,1871,1871,206,43926.86
+Prdt-1,E,12 Months,CLRecall12-EmployedControl,Control,5,208,208,20,4646.82
+Prdt-1,E,12 Months,CLRecall12Leased,Targeted,5,2979,2979,243,44007.94
+Prdt-1,E,12 Months,CLRecall12LeasedControl,Control,5,331,331,29,5518.56
+Prdt-1,E,15 Months,CLRecall15-Employed,Targeted,5,1562,1562,87,19115.88
+Prdt-1,E,15 Months,CLRecall15-EmployedControl,Control,5,173,173,7,2184.61
+Prdt-1,E,15 Months,CLRecall15Leased,Targeted,5,3362,3362,167,28423.95
+Prdt-1,E,15 Months,CLRecall15LeasedControl,Control,5,373,373,13,2332.43
+Prdt-1,E,18 Months,CLRecall18-Employed,Targeted,5,958,958,37,7968.34
+Prdt-1,E,18 Months,CLRecall18-EmployedControl,Control,5,106,106,6,1574.96
+Prdt-1,E,18 Months,CLRecall18Leased,Targeted,5,1425,1425,56,11046.32
+Prdt-1,E,18 Months,CLRecall18LeasedControl,Control,5,158,158,8,1163.23
+Prdt-1,E,21 Months,CLRecall21-Employed,Targeted,5,1373,1373,47,10695.78
+Prdt-1,E,21 Months,CLRecall21-EmployedControl,Control,5,152,152,4,630.08
+Prdt-1,E,21 Months,CLRecall21Leased,Targeted,5,2866,2866,103,16950.32
+Prdt-1,E,21 Months,CLRecall21LeasedControl,Control,5,318,318,10,1821.41
+Prdt-1,E,24 Months,CLRecall24-Employed,Targeted,5,1461,1461,43,10314.37
+Prdt-1,E,24 Months,CLRecall24-EmployedControl,Control,5,162,162,8,1115.38
+Prdt-1,E,24 Months,CLRecall24Leased,Targeted,5,2605,2605,80,13566.87
+Prdt-1,E,24 Months,CLRecall24LeasedControl,Control,5,289,289,11,1862.9
+Prdt-1,E,27 Months,CLRecall27-Employed,Targeted,5,1432,1432,34,5732.92
+Prdt-1,E,27 Months,CLRecall27-EmployedControl,Control,5,159,159,6,1091.6
+Prdt-1,E,27 Months,CLRecall27Leased,Targeted,5,3186,3186,57,9648.7
+Prdt-1,E,27 Months,CLRecall27LeasedControl,Control,5,354,354,9,1082.09
+Prdt-1,E,12 Months,CLRecall12-Employed,Targeted,4,1854,1854,176,36760.42
+Prdt-1,E,12 Months,CLRecall12-EmployedControl,Control,4,206,206,17,2908.94
+Prdt-1,E,12 Months,CLRecall12LeasedControl,Control,4,353,353,27,4651.37
+Prdt-1,E,12 Months,CLRecall12Leaseded,Targeted,4,3092,3092,277,49996.51
+Prdt-1,E,15 Months,CLRecall15-Employed,Targeted,4,1530,1530,93,17774.25
+Prdt-1,E,15 Months,CLRecall15-EmployedControl,Control,4,170,170,4,298.49
+Prdt-1,E,15 Months,CLRecall15LeasedControl,Control,4,379,379,18,3195.85
+Prdt-1,E,15 Months,CLRecall15Leaseded,Targeted,4,3325,3325,177,28545.61
+Prdt-1,E,18 Months,CLRecall18-Employed,Targeted,4,949,949,52,9520.45
+Prdt-1,E,18 Months,CLRecall18-EmployedControl,Control,4,105,105,6,1923.24
+Prdt-1,E,18 Months,CLRecall18LeasedControl,Control,4,185,185,6,500.35
+Prdt-1,E,18 Months,CLRecall18Leaseded,Targeted,4,1581,1581,61,10945.5
+Prdt-1,E,21 Months,CLRecall21-Employed,Targeted,4,1390,1390,57,13050.6
+Prdt-1,E,21 Months,CLRecall21-EmployedControl,Control,4,154,154,8,2569.67
+Prdt-1,E,21 Months,CLRecall21LeasedControl,Control,4,340,340,4,487.32
+Prdt-1,E,21 Months,CLRecall21Leaseded,Targeted,4,2975,2975,95,15067.19
+Prdt-1,E,24 Months,CLRecall24-Employed,Targeted,4,1246,1246,44,9251.37
+Prdt-1,E,24 Months,CLRecall24-EmployedControl,Control,4,138,138,5,1678.32
+Prdt-1,E,24 Months,CLRecall24LeasedControl,Control,4,256,256,7,940.29
+Prdt-1,E,24 Months,CLRecall24Leaseded,Targeted,4,2228,2228,65,11065.04
+Prdt-1,E,27 Months,CLRecall27-Employed,Targeted,4,1296,1296,33,7104.25
+Prdt-1,E,27 Months,CLRecall27-EmployedControl,Control,4,144,144,0,0.0
+Prdt-1,E,27 Months,CLRecall27LeasedControl,Control,4,328,328,6,854.72
+Prdt-1,E,27 Months,CLRecall27Leaseded,Targeted,4,2867,2867,73,11579.0
+Prdt-1,E,12 Months,Recall-CG,Control,10,4464,379,24,4037.93
+Prdt-1,E,12 Months,Recall-CG,Control,10,3486,219,16,3631.28
+Prdt-1,E,12 Months,Recall-TG,Targeted,10,31449,2011,204,42750.99
+Prdt-1,E,12 Months,Recall-TG,Targeted,10,60369,3342,276,47590.08
+Prdt-1,E,15 Months,Recall-CG,Control,10,1162,220,10,2696.63
+Prdt-1,E,15 Months,Recall-CG,Control,10,2232,487,15,1737.21
+Prdt-1,E,15 Months,Recall-TG,Targeted,10,10483,1973,122,24032.83
+Prdt-1,E,15 Months,Recall-TG,Targeted,10,20123,4286,218,36158.44
+Prdt-1,E,18 Months,Recall-CG,Control,10,2232,317,8,913.08
+Prdt-1,E,18 Months,Recall-CG,Control,10,1162,201,7,902.75
+Prdt-1,E,18 Months,Recall-TG,Targeted,10,10483,1717,78,16225.54
+Prdt-1,E,18 Months,Recall-TG,Targeted,10,20123,2811,89,15260.53
+Prdt-1,E,21 Months,Recall-CG,Control,10,1162,209,2,250.2
+Prdt-1,E,21 Months,Recall-CG,Control,10,2232,458,14,2554.77
+Prdt-1,E,21 Months,Recall-TG,Targeted,10,20123,4071,108,15225.58
+Prdt-1,E,21 Months,Recall-TG,Targeted,10,20966,1844,46,9178.47
+Prdt-1,E,24 Months,Recall-CG,Control,10,1162,137,4,1034.98
+Prdt-1,E,24 Months,Recall-CG,Control,10,2232,229,4,581.5
+Prdt-1,E,24 Months,Recall-TG,Targeted,10,20123,2322,58,9323.11
+Prdt-1,E,24 Months,Recall-TG,Targeted,10,20966,1332,38,7715.57
+Prdt-1,E,27 Months,Recall-CG,Control,10,2324,176,3,730.38
+Prdt-1,E,27 Months,Recall-CG,Control,10,2232,362,6,1376.69
+Prdt-1,E,27 Months,Recall-TG,Targeted,10,31449,1590,21,4217.64
+Prdt-1,E,27 Months,Recall-TG,Targeted,10,20123,3275,61,9395.14
+Prdt-1,E,12 Months,CL Recall Leased-CG,Control,9,6420,398,45,8406.98
+Prdt-1,E,12 Months,CL Recall Leased-CG,Control,9,11445,471,82,14121.55
+Prdt-1,E,12 Months,CL Recall Leased-TG,Targeted,9,57828,3793,428,76028.81
+Prdt-1,E,12 Months,CL Recall Leased-TG,Targeted,9,82480,4039,672,116173.38
+Prdt-1,E,12 Months,-Recall Employed CL-CG,Control,9,6245,268,45,9087.93
+Prdt-1,E,12 Months,-Recall Employed CL-CG,Control,9,4728,252,42,8158.08
+Prdt-1,E,12 Months,-Recall Employed CL-TG,Targeted,9,53285,2302,285,58538.41
+Prdt-1,E,12 Months,-Recall Employed CL-TG,Targeted,9,56290,2370,426,92768.42
+Prdt-1,E,15 Months,CL Recall Leased-CG,Control,9,2289,428,1,623.2
+Prdt-1,E,15 Months,CL Recall Leased-CG,Control,9,2140,412,8,1921.71
+Prdt-1,E,15 Months,CL Recall Leased-TG,Targeted,9,20620,4196,19,3468.52
+Prdt-1,E,15 Months,CL Recall Leased-TG,Targeted,9,19276,3850,122,21773.82
+Prdt-1,E,15 Months,-Recall Employed CL-CG,Control,9,1182,225,8,1530.4
+Prdt-1,E,15 Months,-Recall Employed CL-CG,Control,9,1249,222,4,411.4
+Prdt-1,E,15 Months,-Recall Employed CL-TG,Targeted,9,10657,1860,91,18562.88
+Prdt-1,E,15 Months,-Recall Employed CL-TG,Targeted,9,11258,2001,34,3333.81
+Prdt-1,E,18 Months,CL Recall Leased-CG,Control,9,2289,391,2,326.21
+Prdt-1,E,18 Months,CL Recall Leased-CG,Control,9,2140,336,11,1711.2
+Prdt-1,E,18 Months,CL Recall Leased-TG,Targeted,9,19276,2962,93,16798.99
+Prdt-1,E,18 Months,CL Recall Leased-TG,Targeted,9,20620,3251,19,2924.78
+Prdt-1,E,18 Months,-Recall Employed CL-CG,Control,9,1249,229,5,446.0
+Prdt-1,E,18 Months,-Recall Employed CL-CG,Control,9,1182,200,3,722.35
+Prdt-1,E,18 Months,-Recall Employed CL-TG,Targeted,9,10657,1743,56,11230.98
+Prdt-1,E,18 Months,-Recall Employed CL-TG,Targeted,9,11258,2019,24,3177.36
+Prdt-1,E,21 Months,CL Recall Leased-CG,Control,9,2140,372,13,2077.59
+Prdt-1,E,21 Months,CL Recall Leased-CG,Control,9,2289,396,4,967.98
+Prdt-1,E,21 Months,CL Recall Leased-TG,Targeted,9,19276,3219,72,11941.16
+Prdt-1,E,21 Months,CL Recall Leased-TG,Targeted,9,20620,3350,14,3003.97
+Prdt-1,E,21 Months,-Recall Employed CL-CG,Control,9,1249,174,2,297.95
+Prdt-1,E,21 Months,-Recall Employed CL-CG,Control,9,1182,168,3,685.1
+Prdt-1,E,21 Months,-Recall Employed CL-TG,Targeted,9,11258,1661,13,1105.01
+Prdt-1,E,21 Months,-Recall Employed CL-TG,Targeted,9,10657,1525,40,7445.06
+Prdt-1,E,24 Months,CL Recall Leased-CG,Control,9,2289,233,2,171.6
+Prdt-1,E,24 Months,CL Recall Leased-CG,Control,9,2140,281,6,1249.46
+Prdt-1,E,24 Months,CL Recall Leased-TG,Targeted,9,19276,2554,31,4444.6
+Prdt-1,E,24 Months,CL Recall Leased-TG,Targeted,9,20620,2473,7,1042.43
+Prdt-1,E,24 Months,-Recall Employed CL-CG,Control,9,1249,177,0,0.0
+Prdt-1,E,24 Months,-Recall Employed CL-CG,Control,9,1182,168,3,705.22
+Prdt-1,E,24 Months,-Recall Employed CL-TG,Targeted,9,10657,1590,38,6260.19
+Prdt-1,E,24 Months,-Recall Employed CL-TG,Targeted,9,11258,1496,18,2198.74
+Prdt-1,E,27 Months,CL Recall Leased-CG,Control,9,2140,341,2,215.1
+Prdt-1,E,27 Months,CL Recall Leased-CG,Control,9,2289,370,3,578.2
+Prdt-1,E,27 Months,CL Recall Leased-TG,Targeted,9,19276,2883,32,5316.25
+Prdt-1,E,27 Months,CL Recall Leased-TG,Targeted,9,20620,3296,15,1680.01
+Prdt-1,E,27 Months,-Recall Employed CL-CG,Control,9,1249,179,0,0.0
+Prdt-1,E,27 Months,-Recall Employed CL-CG,Control,9,1182,169,6,819.35
+Prdt-1,E,27 Months,-Recall Employed CL-TG,Targeted,9,31971,1622,33,6483.83
+Prdt-1,E,27 Months,-Recall Employed CL-TG,Targeted,9,45032,1696,9,955.54
+Prdt-2,B,12 Months,EGRecallMV12,Targeted,7,6979,6979,211,60136.13
+Prdt-2,B,12 Months,EGRecallMV12CA,Targeted,7,671,671,14,2897.33
+Prdt-2,B,12 Months,EGRecallMV12CAControl,Control,7,74,74,2,883.23
+Prdt-2,B,12 Months,EGRecallMV12Control,Control,7,775,775,20,5228.58
+Prdt-2,B,12 Months,EGRecallMV12TXNV,Targeted,7,927,927,25,10397.17
+Prdt-2,B,12 Months,EGRecallMV12TXNVControl,Control,7,103,103,0,0.0
+Prdt-2,B,12 Months,EGRecallSV12,Targeted,7,10407,10407,387,79188.29
+Prdt-2,B,12 Months,EGRecallSV12Control,Control,7,1156,1156,43,7813.66
+Prdt-2,B,12 Months,EGRecallSV12TXNVCA,Targeted,7,2800,2800,86,16621.44
+Prdt-2,B,12 Months,EGRecallSV12TXNVCAControl,Control,7,311,311,13,2475.39
+Prdt-2,B,15 Months,EGRecallMV14,Targeted,7,4611,4611,102,31891.75
+Prdt-2,B,15 Months,EGRecallMV14CA,Targeted,7,371,371,12,3095.89
+Prdt-2,B,15 Months,EGRecallMV14CAControl,Control,7,41,41,2,479.92
+Prdt-2,B,15 Months,EGRecallMV14Control,Control,7,512,512,10,4379.69
+Prdt-2,B,15 Months,EGRecallMV14TXNV,Targeted,7,620,620,13,3792.55
+Prdt-2,B,15 Months,EGRecallMV14TXNVControl,Control,7,69,69,2,189.99
+Prdt-2,B,15 Months,EGRecallSV14,Targeted,7,6376,6376,197,42788.65
+Prdt-2,B,15 Months,EGRecallSV14Control,Control,7,709,709,17,3934.91
+Prdt-2,B,15 Months,EGRecallSV14TXNVCA,Targeted,7,1559,1559,36,7670.47
+Prdt-2,B,15 Months,EGRecallSV14TXNVCAControl,Control,7,173,173,5,843.38
+Prdt-2,B,18 Months,EGRecallMV16,Targeted,7,5159,5159,116,35057.75
+Prdt-2,B,18 Months,EGRecallMV16CA,Targeted,7,352,352,9,1783.57
+Prdt-2,B,18 Months,EGRecallMV16CAControl,Control,7,39,39,0,0.0
+Prdt-2,B,18 Months,EGRecallMV16Control,Control,7,573,573,10,3609.61
+Prdt-2,B,18 Months,EGRecallMV16TXNV,Targeted,7,618,618,18,3838.22
+Prdt-2,B,18 Months,EGRecallMV16TXNVControl,Control,7,69,69,1,158.0
+Prdt-2,B,18 Months,EGRecallMV18,Targeted,7,5510,5510,95,31809.77
+Prdt-2,B,18 Months,EGRecallMV18CA,Targeted,7,329,329,11,1960.87
+Prdt-2,B,18 Months,EGRecallMV18CAControl,Control,7,37,37,1,168.0
+Prdt-2,B,18 Months,EGRecallMV18Control,Control,7,613,613,10,4636.79
+Prdt-2,B,18 Months,EGRecallMV18TXNV,Targeted,7,713,713,15,4910.46
+Prdt-2,B,18 Months,EGRecallMV18TXNVControl,Control,7,79,79,0,0.0
+Prdt-2,B,18 Months,EGRecallSV16,Targeted,7,7188,7188,175,35284.37
+Prdt-2,B,18 Months,EGRecallSV16Control,Control,7,799,799,17,4361.94
+Prdt-2,B,18 Months,EGRecallSV16TXNVCA,Targeted,7,1563,1563,35,5298.28
+Prdt-2,B,18 Months,EGRecallSV16TXNVCAControl,Control,7,174,174,1,353.26
+Prdt-2,B,18 Months,EGRecallSV18,Targeted,7,8189,8189,177,35457.43
+Prdt-2,B,18 Months,EGRecallSV18Control,Control,7,910,910,18,3759.18
+Prdt-2,B,18 Months,EGRecallSV18TXNVCA,Targeted,7,1922,1922,41,6689.39
+Prdt-2,B,18 Months,EGRecallSV18TXNVCAControl,Control,7,213,213,2,466.11
+Prdt-2,B,21 Months,EGRecallMV20,Targeted,7,2924,2924,53,19277.49
+Prdt-2,B,21 Months,EGRecallMV20CA,Targeted,7,131,131,2,454.98
+Prdt-2,B,21 Months,EGRecallMV20CAControl,Control,7,14,14,0,0.0
+Prdt-2,B,21 Months,EGRecallMV20Control,Control,7,325,325,9,2541.06
+Prdt-2,B,21 Months,EGRecallMV20TXNV,Targeted,7,368,368,6,1942.47
+Prdt-2,B,21 Months,EGRecallMV20TXNVControl,Control,7,41,41,0,0.0
+Prdt-2,B,21 Months,EGRecallSV20,Targeted,7,4379,4379,105,19699.6
+Prdt-2,B,21 Months,EGRecallSV20Control,Control,7,486,486,8,1454.19
+Prdt-2,B,21 Months,EGRecallSV20TXNVCA,Targeted,7,865,865,15,2029.99
+Prdt-2,B,21 Months,EGRecallSV20TXNVCAControl,Control,7,96,96,3,466.85
+Prdt-2,B,24 Months,EGRecallMV22,Targeted,7,4936,4936,108,28333.03
+Prdt-2,B,24 Months,EGRecallMV22CA,Targeted,7,248,248,2,1045.49
+Prdt-2,B,24 Months,EGRecallMV22CAControl,Control,7,28,28,0,0.0
+Prdt-2,B,24 Months,EGRecallMV22Control,Control,7,548,548,12,3407.78
+Prdt-2,B,24 Months,EGRecallMV22TXNV,Targeted,7,680,680,13,4211.25
+Prdt-2,B,24 Months,EGRecallMV22TXNVControl,Control,7,75,75,2,278.65
+Prdt-2,B,24 Months,EGRecallMV24,Targeted,7,5120,5120,108,37590.36
+Prdt-2,B,24 Months,EGRecallMV24CA,Targeted,7,252,252,2,659.68
+Prdt-2,B,24 Months,EGRecallMV24CAControl,Control,7,28,28,0,0.0
+Prdt-2,B,24 Months,EGRecallMV24Control,Control,7,569,569,18,5310.47
+Prdt-2,B,24 Months,EGRecallMV24TXNV,Targeted,7,637,637,12,3662.14
+Prdt-2,B,24 Months,EGRecallMV24TXNVControl,Control,7,71,71,3,1114.89
+Prdt-2,B,24 Months,EGRecallSV22,Targeted,7,6843,6843,152,32213.76
+Prdt-2,B,24 Months,EGRecallSV22Control,Control,7,761,761,10,2323.32
+Prdt-2,B,24 Months,EGRecallSV22TXNVCA,Targeted,7,1478,1478,29,5317.67
+Prdt-2,B,24 Months,EGRecallSV22TXNVCAControl,Control,7,164,164,6,820.8
+Prdt-2,B,24 Months,EGRecallSV24,Targeted,7,7626,7626,189,36590.23
+Prdt-2,B,24 Months,EGRecallSV24Control,Control,7,848,848,15,3339.76
+Prdt-2,B,24 Months,EGRecallSV24TXNVCA,Targeted,7,1559,1559,36,6129.46
+Prdt-2,B,24 Months,EGRecallSV24TXNVCAControl,Control,7,173,173,5,1091.52
+Prdt-2,B,27 Months,EGRecallMV26,Targeted,7,4672,4672,113,38206.49
+Prdt-2,B,27 Months,EGRecallMV26CA,Targeted,7,149,149,2,454.01
+Prdt-2,B,27 Months,EGRecallMV26CAControl,Control,7,16,16,0,0.0
+Prdt-2,B,27 Months,EGRecallMV26Control,Control,7,519,519,9,2488.25
+Prdt-2,B,27 Months,EGRecallMV26TXNV,Targeted,7,556,556,10,2453.84
+Prdt-2,B,27 Months,EGRecallMV26TXNVControl,Control,7,62,62,0,0.0
+Prdt-2,B,27 Months,EGRecallSV26,Targeted,7,6348,6348,133,26226.18
+Prdt-2,B,27 Months,EGRecallSV26Control,Control,7,705,705,15,2724.7
+Prdt-2,B,27 Months,EGRecallSV26TXNVCA,Targeted,7,1154,1154,19,3759.28
+Prdt-2,B,27 Months,EGRecallSV26TXNVCAControl,Control,7,128,128,2,589.88
+Prdt-2,B,27 Months,EGW_Pre_RecallEM,Targeted,7,24066,24066,457,52457.25
+Prdt-2,B,27 Months,EGW_Pre_RecallEM_Control,Control,7,1267,1267,28,4730.39
+Prdt-2,B,12 Months,NVIPC640-Recall-CG,Control,11,4944,345,26,4991.96
+Prdt-2,B,12 Months,NVIPC640-Recall-TG,Targeted,11,44596,3426,256,50290.75
+Prdt-2,B,12 Months,NVIPC644-Recall-CG,Control,11,974,145,13,4789.01
+Prdt-2,B,12 Months,NVIPC644-Recall-TG,Targeted,11,17558,1575,138,51256.94
+Prdt-2,B,12 Months,NVIPC645-Recall-CG,Control,11,1000,155,13,4168.01
+Prdt-2,B,12 Months,NVIPC645-Recall-TG,Targeted,11,18032,1466,153,51326.98
+Prdt-2,B,12 Months,NVIPC646-Recall-CG,Control,11,1470,92,5,1508.56
+Prdt-2,B,12 Months,NVIPC646-Recall-TG,Targeted,11,13258,880,39,10863.74
+Prdt-2,B,12 Months,NVIPC647-Recall-CG,Control,11,439,61,3,961.85
+Prdt-2,B,12 Months,NVIPC647-Recall-TG,Targeted,11,7944,660,34,10295.91
+Prdt-2,B,12 Months,NVIPC650-Recall-CG,Control,11,3784,278,23,5416.61
+Prdt-2,B,12 Months,NVIPC650-Recall-TG,Targeted,11,34130,2677,217,46095.77
+Prdt-2,B,12 Months,NVIPC651-Recall-CG,Control,11,3886,333,7,1086.49
+Prdt-2,B,12 Months,NVIPC651-Recall-TG,Targeted,11,35008,2673,141,30606.04
+Prdt-2,B,15 Months,NVIPC640-Recall-CG,Control,11,2472,314,8,2197.41
+Prdt-2,B,15 Months,NVIPC640-Recall-TG,Targeted,11,22298,2879,124,25521.7
+Prdt-2,B,15 Months,NVIPC644-Recall-CG,Control,11,974,110,5,2174.91
+Prdt-2,B,15 Months,NVIPC644-Recall-TG,Targeted,11,8779,1228,40,10706.05
+Prdt-2,B,15 Months,NVIPC645-Recall-CG,Control,11,1000,137,4,1227.97
+Prdt-2,B,15 Months,NVIPC645-Recall-TG,Targeted,11,9016,1165,39,10495.1
+Prdt-2,B,15 Months,NVIPC646-Recall-CG,Control,11,735,94,4,779.2
+Prdt-2,B,15 Months,NVIPC646-Recall-TG,Targeted,11,6629,853,23,6394.31
+Prdt-2,B,15 Months,NVIPC647-Recall-CG,Control,11,439,68,1,360.5
+Prdt-2,B,15 Months,NVIPC647-Recall-TG,Targeted,11,3972,626,12,3391.49
+Prdt-2,B,15 Months,NVIPC650-Recall-CG,Control,11,1892,234,14,2999.47
+Prdt-2,B,15 Months,NVIPC650-Recall-TG,Targeted,11,17065,2100,83,17103.78
+Prdt-2,B,15 Months,NVIPC651-Recall-CG,Control,11,1943,269,5,736.37
+Prdt-2,B,15 Months,NVIPC651-Recall-TG,Targeted,11,17504,2466,70,13799.47
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,11,2472,270,8,2079.35
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,11,2472,418,19,3136.61
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,11,22298,2295,66,13919.23
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,11,22298,3440,128,29158.65
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,11,974,151,4,1251.8
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,11,974,131,1,164.0
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,11,8779,1173,33,11383.46
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,11,8779,1016,40,13509.31
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,11,1000,112,5,1211.65
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,11,1000,130,6,2330.05
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,11,9016,1249,40,12151.25
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,11,9016,1031,26,7388.53
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,11,735,111,1,214.97
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,11,735,97,1,259.97
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,11,6629,785,19,6479.93
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,11,6629,941,25,7072.86
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,11,439,75,1,408.3
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,11,439,68,2,741.93
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,11,3972,484,18,5008.14
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,11,3972,716,9,1379.25
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,11,1892,292,12,2433.8
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,11,1892,222,5,581.07
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,11,17065,1897,59,12635.31
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,11,17065,2601,98,19200.91
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,11,1943,296,6,1160.86
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,11,1943,221,4,727.42
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,11,17504,1937,51,10128.94
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,11,17504,2869,70,15436.04
+Prdt-2,B,21 Months,NVIPC640-Recall-CG,Control,11,2472,300,12,3228.22
+Prdt-2,B,21 Months,NVIPC640-Recall-TG,Targeted,11,22298,2761,79,17808.63
+Prdt-2,B,21 Months,NVIPC644-Recall-CG,Control,11,974,121,2,160.0
+Prdt-2,B,21 Months,NVIPC644-Recall-TG,Targeted,11,8779,1035,27,8303.63
+Prdt-2,B,21 Months,NVIPC645-Recall-CG,Control,11,1000,102,1,664.95
+Prdt-2,B,21 Months,NVIPC645-Recall-TG,Targeted,11,9016,1087,39,11851.67
+Prdt-2,B,21 Months,NVIPC646-Recall-CG,Control,11,735,87,2,973.97
+Prdt-2,B,21 Months,NVIPC646-Recall-TG,Targeted,11,6629,799,17,5482.14
+Prdt-2,B,21 Months,NVIPC647-Recall-CG,Control,11,439,60,3,662.22
+Prdt-2,B,21 Months,NVIPC647-Recall-TG,Targeted,11,3972,490,16,4608.8
+Prdt-2,B,21 Months,NVIPC650-Recall-CG,Control,11,1892,255,6,1230.77
+Prdt-2,B,21 Months,NVIPC650-Recall-TG,Targeted,11,17065,2057,69,16765.57
+Prdt-2,B,21 Months,NVIPC651-Recall-CG,Control,11,1943,212,6,944.4
+Prdt-2,B,21 Months,NVIPC651-Recall-TG,Targeted,11,17504,2033,43,8680.29
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,11,2472,341,13,2855.65
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,11,2472,261,13,3066.14
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,11,22298,3126,85,18427.81
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,11,22298,2263,99,24249.3
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,11,974,106,2,364.9
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,11,974,110,4,1413.4
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,11,8779,959,61,19400.71
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,11,8779,928,40,11880.23
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,11,1000,126,4,1222.45
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,11,1000,128,2,785.87
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,11,9016,1026,57,20805.87
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,11,9016,1116,39,13101.4
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,11,735,88,4,1410.23
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,11,735,82,0,0.0
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,11,6629,682,29,11186.26
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,11,6629,947,9,2182.8
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,11,439,33,1,99.14
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,11,439,46,1,973.85
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,11,3972,261,9,1805.36
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,11,3972,445,5,531.95
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,11,1892,233,6,1622.61
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,11,1892,198,7,1303.09
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,11,17065,1761,62,15935.58
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,11,17065,2326,77,18267.15
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,11,1943,282,4,654.73
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,11,1943,147,4,765.09
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,11,17504,2490,51,10256.17
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,11,17504,1458,38,8027.5
+Prdt-2,B,27 Months,NVIPC640-Recall-CG,Control,11,2472,223,5,1133.89
+Prdt-2,B,27 Months,NVIPC640-Recall-TG,Targeted,11,22298,2095,58,13278.97
+Prdt-2,B,27 Months,NVIPC644-Recall-CG,Control,11,974,100,1,465.96
+Prdt-2,B,27 Months,NVIPC644-Recall-TG,Targeted,11,8779,852,24,8085.37
+Prdt-2,B,27 Months,NVIPC645-Recall-CG,Control,11,1000,110,1,193.97
+Prdt-2,B,27 Months,NVIPC645-Recall-TG,Targeted,11,9016,863,30,10174.45
+Prdt-2,B,27 Months,NVIPC646-Recall-CG,Control,11,735,84,3,73.53
+Prdt-2,B,27 Months,NVIPC646-Recall-TG,Targeted,11,6629,729,12,3835.82
+Prdt-2,B,27 Months,NVIPC647-Recall-CG,Control,11,439,28,0,0.0
+Prdt-2,B,27 Months,NVIPC647-Recall-TG,Targeted,11,3972,277,4,1489.57
+Prdt-2,B,27 Months,NVIPC650-Recall-CG,Control,11,1892,180,6,1508.85
+Prdt-2,B,27 Months,NVIPC650-Recall-TG,Targeted,11,17065,1633,51,12349.31
+Prdt-2,B,27 Months,NVIPC651-Recall-CG,Control,11,1943,183,0,0.0
+Prdt-2,B,27 Months,NVIPC651-Recall-TG,Targeted,11,17504,1565,33,6725.8
+Prdt-2,B,12 Months,NVIPC640-Recall-CG,Control,0,4034,296,20,3801.93
+Prdt-2,B,12 Months,NVIPC640-Recall-TG,Targeted,0,36350,2933,228,45456.87
+Prdt-2,B,12 Months,NVIPC644-Recall-CG,Control,0,2896,248,12,4497.74
+Prdt-2,B,12 Months,NVIPC644-Recall-TG,Targeted,0,26098,2153,133,45105.7
+Prdt-2,B,12 Months,NVIPC645-Recall-CG,Control,0,2948,201,6,2345.18
+Prdt-2,B,12 Months,NVIPC645-Recall-TG,Targeted,0,26560,2180,151,40349.01
+Prdt-2,B,12 Months,NVIPC646-Recall-CG,Control,0,358,57,2,721.38
+Prdt-2,B,12 Months,NVIPC646-Recall-TG,Targeted,0,6470,489,29,10182.79
+Prdt-2,B,12 Months,NVIPC647-Recall-CG,Control,0,458,41,1,371.42
+Prdt-2,B,12 Months,NVIPC647-Recall-TG,Targeted,0,4154,295,15,5785.05
+Prdt-2,B,12 Months,NVIPC650-Recall-CG,Control,0,3638,289,17,3383.67
+Prdt-2,B,12 Months,NVIPC650-Recall-TG,Targeted,0,32780,2675,152,32212.36
+Prdt-2,B,12 Months,NVIPC651-Recall-CG,Control,0,1798,139,11,1790.74
+Prdt-2,B,12 Months,NVIPC651-Recall-TG,Targeted,0,16212,1288,67,11884.77
+Prdt-2,B,15 Months,NVIPC640-Recall-CG,Control,0,2017,257,18,3702.45
+Prdt-2,B,15 Months,NVIPC640-Recall-TG,Targeted,0,18175,2271,102,21162.72
+Prdt-2,B,15 Months,NVIPC644-Recall-CG,Control,0,1448,200,12,5299.43
+Prdt-2,B,15 Months,NVIPC644-Recall-TG,Targeted,0,13049,1619,48,17241.68
+Prdt-2,B,15 Months,NVIPC645-Recall-CG,Control,0,1474,183,3,1072.42
+Prdt-2,B,15 Months,NVIPC645-Recall-TG,Targeted,0,13280,1653,47,16819.6
+Prdt-2,B,15 Months,NVIPC646-Recall-CG,Control,0,358,42,4,1847.68
+Prdt-2,B,15 Months,NVIPC646-Recall-TG,Targeted,0,3235,435,16,5396.54
+Prdt-2,B,15 Months,NVIPC647-Recall-CG,Control,0,229,26,1,336.99
+Prdt-2,B,15 Months,NVIPC647-Recall-TG,Targeted,0,2077,322,10,3046.53
+Prdt-2,B,15 Months,NVIPC650-Recall-CG,Control,0,1819,233,7,1427.45
+Prdt-2,B,15 Months,NVIPC650-Recall-TG,Targeted,0,16390,2191,84,16328.59
+Prdt-2,B,15 Months,NVIPC651-Recall-CG,Control,0,899,121,1,90.1
+Prdt-2,B,15 Months,NVIPC651-Recall-TG,Targeted,0,8106,1046,31,6047.74
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,0,2017,256,7,1605.36
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,0,2017,273,8,2364.64
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,0,18175,2274,80,17989.9
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,0,18175,2318,74,15855.32
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,0,1448,186,7,2381.75
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,0,1448,194,5,2135.07
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,0,13049,1725,47,17517.74
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,0,13049,1689,42,15940.67
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,0,1474,189,5,864.91
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,0,1474,205,2,369.98
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,0,13280,1688,53,17037.17
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,0,13280,1740,50,17309.08
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,0,358,58,0,0.0
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,0,358,52,3,1234.54
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,0,3235,416,11,3862.07
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,0,3235,418,14,4454.29
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,0,229,44,0,0.0
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,0,229,35,0,0.0
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,0,2077,315,8,2314.72
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,0,2077,364,9,3461.01
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,0,1819,242,8,1452.33
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,0,1819,228,12,2352.86
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,0,16390,2171,81,16715.05
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,0,16390,2145,65,12707.45
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,0,899,144,5,539.72
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,0,899,140,6,1051.87
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,0,8106,1170,43,10073.76
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,0,8106,1248,28,5797.76
+Prdt-2,B,21 Months,NVIPC640-Recall-CG,Control,0,2017,215,7,1421.8
+Prdt-2,B,21 Months,NVIPC640-Recall-TG,Targeted,0,18175,2075,67,14592.01
+Prdt-2,B,21 Months,NVIPC644-Recall-CG,Control,0,1448,154,2,979.93
+Prdt-2,B,21 Months,NVIPC644-Recall-TG,Targeted,0,13049,1512,39,14215.72
+Prdt-2,B,21 Months,NVIPC645-Recall-CG,Control,0,1474,173,9,2511.73
+Prdt-2,B,21 Months,NVIPC645-Recall-TG,Targeted,0,13280,1566,58,17585.43
+Prdt-2,B,21 Months,NVIPC646-Recall-CG,Control,0,358,43,2,576.0
+Prdt-2,B,21 Months,NVIPC646-Recall-TG,Targeted,0,3235,407,9,2552.52
+Prdt-2,B,21 Months,NVIPC647-Recall-CG,Control,0,229,29,0,0.0
+Prdt-2,B,21 Months,NVIPC647-Recall-TG,Targeted,0,2077,222,9,3157.28
+Prdt-2,B,21 Months,NVIPC650-Recall-CG,Control,0,1819,200,5,1254.88
+Prdt-2,B,21 Months,NVIPC650-Recall-TG,Targeted,0,16390,1824,67,13877.24
+Prdt-2,B,21 Months,NVIPC651-Recall-CG,Control,0,899,98,3,487.58
+Prdt-2,B,21 Months,NVIPC651-Recall-TG,Targeted,0,8106,825,20,4513.81
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,0,2017,317,15,3006.91
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,0,2017,220,5,1075.48
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,0,18175,1904,77,18739.06
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,0,18175,2742,115,25735.91
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,0,1448,186,7,3738.24
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,0,1448,165,8,3359.15
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,0,13049,1785,54,20256.48
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,0,13049,1437,64,25266.65
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,0,1474,209,7,2137.57
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,0,1474,169,10,3236.13
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,0,13280,1821,49,17641.91
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,0,13280,1456,59,24118.47
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,0,358,43,1,234.95
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,0,358,37,0,0.0
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,0,3235,436,11,3129.44
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,0,3235,331,6,3180.97
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,0,229,31,0,0.0
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,0,229,16,1,313.75
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,0,2077,233,2,700.12
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,0,2077,173,7,2575.8
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,0,1819,186,9,1328.92
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,0,1819,258,12,2916.94
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,0,16390,2170,63,12996.0
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,0,16390,1733,72,16343.8
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,0,899,112,3,618.09
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,0,899,73,1,199.95
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,0,8106,795,29,6074.16
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,0,8106,1070,33,6254.37
+Prdt-2,B,27 Months,NVIPC640-Recall-CG,Control,0,2017,183,10,1364.7
+Prdt-2,B,27 Months,NVIPC640-Recall-TG,Targeted,0,18175,1645,53,12285.58
+Prdt-2,B,27 Months,NVIPC644-Recall-CG,Control,0,1448,115,4,1591.73
+Prdt-2,B,27 Months,NVIPC644-Recall-TG,Targeted,0,13049,1116,29,10572.3
+Prdt-2,B,27 Months,NVIPC645-Recall-CG,Control,0,1474,145,4,995.47
+Prdt-2,B,27 Months,NVIPC645-Recall-TG,Targeted,0,13280,1163,41,15641.7
+Prdt-2,B,27 Months,NVIPC646-Recall-CG,Control,0,358,26,0,0.0
+Prdt-2,B,27 Months,NVIPC646-Recall-TG,Targeted,0,3235,290,11,3025.4
+Prdt-2,B,27 Months,NVIPC647-Recall-CG,Control,0,229,7,0,0.0
+Prdt-2,B,27 Months,NVIPC647-Recall-TG,Targeted,0,2077,140,2,617.92
+Prdt-2,B,27 Months,NVIPC650-Recall-CG,Control,0,1819,183,6,1476.91
+Prdt-2,B,27 Months,NVIPC650-Recall-TG,Targeted,0,16390,1468,41,8181.46
+Prdt-2,B,27 Months,NVIPC651-Recall-CG,Control,0,899,72,0,0.0
+Prdt-2,B,27 Months,NVIPC651-Recall-TG,Targeted,0,8106,651,16,3453.05
+Prdt-2,B,12 Months,EGRecallMV12,Targeted,6,5446,5446,174,56771.02
+Prdt-2,B,12 Months,EGRecallMV12CA,Targeted,6,508,508,9,2235.22
+Prdt-2,B,12 Months,EGRecallMV12CAControl,Control,6,56,56,5,1462.1
+Prdt-2,B,12 Months,EGRecallMV12Control,Control,6,605,605,19,5931.0
+Prdt-2,B,12 Months,EGRecallMV12TXNV,Targeted,6,690,690,21,5885.29
+Prdt-2,B,12 Months,EGRecallMV12TXNVControl,Control,6,77,77,0,0.0
+Prdt-2,B,12 Months,EGRecallSV12,Targeted,6,7589,7589,320,64954.08
+Prdt-2,B,12 Months,EGRecallSV12Control,Control,6,843,843,31,6248.62
+Prdt-2,B,12 Months,EGRecallSV12TXNVCA,Targeted,6,1972,1972,72,15534.79
+Prdt-2,B,12 Months,EGRecallSV12TXNVCAControl,Control,6,219,219,6,695.58
+Prdt-2,B,15 Months,EGRecallMV14,Targeted,6,5428,5428,150,39689.49
+Prdt-2,B,15 Months,EGRecallMV14CA,Targeted,6,403,403,13,4359.06
+Prdt-2,B,15 Months,EGRecallMV14CAControl,Control,6,45,45,0,0.0
+Prdt-2,B,15 Months,EGRecallMV14Control,Control,6,603,603,18,4470.65
+Prdt-2,B,15 Months,EGRecallMV14TXNV,Targeted,6,727,727,23,6931.82
+Prdt-2,B,15 Months,EGRecallMV14TXNVControl,Control,6,81,81,1,507.66
+Prdt-2,B,15 Months,EGRecallSV14,Targeted,6,7589,7589,246,48640.91
+Prdt-2,B,15 Months,EGRecallSV14Control,Control,6,843,843,22,4762.18
+Prdt-2,B,15 Months,EGRecallSV14TXNVCA,Targeted,6,1768,1768,52,9835.65
+Prdt-2,B,15 Months,EGRecallSV14TXNVCAControl,Control,6,196,196,4,520.21
+Prdt-2,B,18 Months,EGRecallMV16,Targeted,6,5402,5402,103,28755.06
+Prdt-2,B,18 Months,EGRecallMV16CA,Targeted,6,332,332,6,2580.77
+Prdt-2,B,18 Months,EGRecallMV16CAControl,Control,6,37,37,0,0.0
+Prdt-2,B,18 Months,EGRecallMV16Control,Control,6,601,601,7,1621.6
+Prdt-2,B,18 Months,EGRecallMV16TXNV,Targeted,6,734,734,14,2717.22
+Prdt-2,B,18 Months,EGRecallMV16TXNVControl,Control,6,82,82,2,417.89
+Prdt-2,B,18 Months,EGRecallMV18,Targeted,6,3567,3567,95,28422.58
+Prdt-2,B,18 Months,EGRecallMV18CA,Targeted,6,219,219,4,1435.7
+Prdt-2,B,18 Months,EGRecallMV18CAControl,Control,6,24,24,1,205.0
+Prdt-2,B,18 Months,EGRecallMV18Control,Control,6,396,396,7,2104.25
+Prdt-2,B,18 Months,EGRecallMV18TXNV,Targeted,6,428,428,9,2239.62
+Prdt-2,B,18 Months,EGRecallMV18TXNVControl,Control,6,47,47,0,0.0
+Prdt-2,B,18 Months,EGRecallSV16,Targeted,6,8052,8052,262,57117.56
+Prdt-2,B,18 Months,EGRecallSV16Control,Control,6,894,894,17,4366.72
+Prdt-2,B,18 Months,EGRecallSV16TXNVCA,Targeted,6,1872,1872,45,7173.65
+Prdt-2,B,18 Months,EGRecallSV16TXNVCAControl,Control,6,208,208,1,184.95
+Prdt-2,B,18 Months,EGRecallSV18,Targeted,6,4944,4944,133,26283.4
+Prdt-2,B,18 Months,EGRecallSV18Control,Control,6,549,549,11,2808.61
+Prdt-2,B,18 Months,EGRecallSV18TXNVCA,Targeted,6,1072,1072,23,5221.75
+Prdt-2,B,18 Months,EGRecallSV18TXNVCAControl,Control,6,119,119,3,659.27
+Prdt-2,B,21 Months,EGRecallMV20,Targeted,6,3299,3299,71,23553.42
+Prdt-2,B,21 Months,EGRecallMV20CA,Targeted,6,168,168,4,1377.06
+Prdt-2,B,21 Months,EGRecallMV20CAControl,Control,6,19,19,1,525.7
+Prdt-2,B,21 Months,EGRecallMV20Control,Control,6,366,366,10,1929.12
+Prdt-2,B,21 Months,EGRecallMV20TXNV,Targeted,6,416,416,18,5615.23
+Prdt-2,B,21 Months,EGRecallMV20TXNVControl,Control,6,46,46,1,382.0
+Prdt-2,B,21 Months,EGRecallSV20,Targeted,6,4791,4791,129,25527.02
+Prdt-2,B,21 Months,EGRecallSV20Control,Control,6,533,533,15,2548.03
+Prdt-2,B,21 Months,EGRecallSV20TXNVCA,Targeted,6,948,948,22,3383.55
+Prdt-2,B,21 Months,EGRecallSV20TXNVCAControl,Control,6,105,105,2,534.92
+Prdt-2,B,24 Months,EGRecallMV22,Targeted,6,5040,5040,97,32787.43
+Prdt-2,B,24 Months,EGRecallMV22CA,Targeted,6,264,264,4,631.59
+Prdt-2,B,24 Months,EGRecallMV22CAControl,Control,6,29,29,1,515.03
+Prdt-2,B,24 Months,EGRecallMV22Control,Control,6,560,560,9,3626.03
+Prdt-2,B,24 Months,EGRecallMV22TXNV,Targeted,6,697,697,25,7162.08
+Prdt-2,B,24 Months,EGRecallMV22TXNVControl,Control,6,77,77,2,449.47
+Prdt-2,B,24 Months,EGRecallMV24,Targeted,6,5052,5052,124,42028.44
+Prdt-2,B,24 Months,EGRecallMV24CA,Targeted,6,225,225,6,1208.47
+Prdt-2,B,24 Months,EGRecallMV24CAControl,Control,6,25,25,2,1047.86
+Prdt-2,B,24 Months,EGRecallMV24Control,Control,6,561,561,15,5665.82
+Prdt-2,B,24 Months,EGRecallMV24TXNV,Targeted,6,705,705,21,6326.71
+Prdt-2,B,24 Months,EGRecallMV24TXNVControl,Control,6,78,78,2,550.45
+Prdt-2,B,24 Months,EGRecallSV22,Targeted,6,6658,6658,149,31959.58
+Prdt-2,B,24 Months,EGRecallSV22Control,Control,6,739,739,17,3149.29
+Prdt-2,B,24 Months,EGRecallSV22TXNVCA,Targeted,6,1407,1407,26,6328.38
+Prdt-2,B,24 Months,EGRecallSV22TXNVCAControl,Control,6,156,156,5,1354.76
+Prdt-2,B,24 Months,EGRecallSV24,Targeted,6,6798,6798,179,41685.39
+Prdt-2,B,24 Months,EGRecallSV24Control,Control,6,756,756,29,6887.23
+Prdt-2,B,24 Months,EGRecallSV24TXNVCA,Targeted,6,1370,1370,43,8649.26
+Prdt-2,B,24 Months,EGRecallSV24TXNVCAControl,Control,6,152,152,4,1123.75
+Prdt-2,B,27 Months,EGRecallMV26,Targeted,6,4763,4763,113,37516.97
+Prdt-2,B,27 Months,EGRecallMV26CA,Targeted,6,121,121,5,1122.59
+Prdt-2,B,27 Months,EGRecallMV26CAControl,Control,6,13,13,0,0.0
+Prdt-2,B,27 Months,EGRecallMV26Control,Control,6,530,530,7,3214.33
+Prdt-2,B,27 Months,EGRecallMV26TXNV,Targeted,6,628,628,12,5072.89
+Prdt-2,B,27 Months,EGRecallMV26TXNVControl,Control,6,70,70,1,229.0
+Prdt-2,B,27 Months,EGRecallSV26,Targeted,6,6253,6253,135,30927.56
+Prdt-2,B,27 Months,EGRecallSV26Control,Control,6,694,694,9,2082.35
+Prdt-2,B,27 Months,EGRecallSV26TXNVCA,Targeted,6,1073,1073,14,3486.08
+Prdt-2,B,27 Months,EGRecallSV26TXNVCAControl,Control,6,119,119,0,0.0
+Prdt-2,B,27 Months,EGW_Pre_RecallEM,Targeted,6,21053,21053,445,62009.66
+Prdt-2,B,27 Months,EGW_Pre_RecallEM_Control,Control,6,1108,1108,23,3268.21
+Prdt-2,B,12 Months,EGRecallMV12,Targeted,5,4701,4701,151,41278.08
+Prdt-2,B,12 Months,EGRecallMV12CA,Targeted,5,384,384,8,1641.15
+Prdt-2,B,12 Months,EGRecallMV12CAControl,Control,5,43,43,4,443.48
+Prdt-2,B,12 Months,EGRecallMV12Control,Control,5,522,522,15,3926.4
+Prdt-2,B,12 Months,EGRecallMV12TXNV,Targeted,5,633,633,28,7837.96
+Prdt-2,B,12 Months,EGRecallMV12TXNVControl,Control,5,70,70,2,706.75
+Prdt-2,B,12 Months,EGRecallSV12,Targeted,5,6258,6258,259,53420.91
+Prdt-2,B,12 Months,EGRecallSV12Control,Control,5,695,695,25,5235.07
+Prdt-2,B,12 Months,EGRecallSV12TXNVCA,Targeted,5,1556,1556,48,10792.45
+Prdt-2,B,12 Months,EGRecallSV12TXNVCAControl,Control,5,173,173,5,1179.3
+Prdt-2,B,15 Months,EGRecallMV14,Targeted,5,5323,5323,129,35375.75
+Prdt-2,B,15 Months,EGRecallMV14CA,Targeted,5,365,365,13,1999.07
+Prdt-2,B,15 Months,EGRecallMV14CAControl,Control,5,40,40,1,6.98
+Prdt-2,B,15 Months,EGRecallMV14Control,Control,5,591,591,11,3651.42
+Prdt-2,B,15 Months,EGRecallMV14TXNV,Targeted,5,627,627,15,4119.39
+Prdt-2,B,15 Months,EGRecallMV14TXNVControl,Control,5,70,70,1,5.99
+Prdt-2,B,15 Months,EGRecallSV14,Targeted,5,7409,7409,209,40561.94
+Prdt-2,B,15 Months,EGRecallSV14Control,Control,5,823,823,19,3900.36
+Prdt-2,B,15 Months,EGRecallSV14TXNVCA,Targeted,5,1616,1616,43,7271.25
+Prdt-2,B,15 Months,EGRecallSV14TXNVCAControl,Control,5,179,179,4,605.14
+Prdt-2,B,18 Months,EGRecallMV16,Targeted,5,5722,5722,133,39991.62
+Prdt-2,B,18 Months,EGRecallMV16CA,Targeted,5,338,338,8,1390.41
+Prdt-2,B,18 Months,EGRecallMV16CAControl,Control,5,38,38,2,443.97
+Prdt-2,B,18 Months,EGRecallMV16Control,Control,5,636,636,13,4554.02
+Prdt-2,B,18 Months,EGRecallMV16TXNV,Targeted,5,733,733,20,4837.73
+Prdt-2,B,18 Months,EGRecallMV16TXNVControl,Control,5,81,81,1,273.0
+Prdt-2,B,18 Months,EGRecallMV18,Targeted,5,2963,2963,73,21343.0
+Prdt-2,B,18 Months,EGRecallMV18CA,Targeted,5,134,134,4,1323.36
+Prdt-2,B,18 Months,EGRecallMV18CAControl,Control,5,15,15,0,0.0
+Prdt-2,B,18 Months,EGRecallMV18Control,Control,5,329,329,4,1002.87
+Prdt-2,B,18 Months,EGRecallMV18TXNV,Targeted,5,377,377,7,1853.48
+Prdt-2,B,18 Months,EGRecallMV18TXNVControl,Control,5,42,42,2,871.94
+Prdt-2,B,18 Months,EGRecallSV16,Targeted,5,8821,8821,219,44082.71
+Prdt-2,B,18 Months,EGRecallSV16Control,Control,5,980,980,21,4559.29
+Prdt-2,B,18 Months,EGRecallSV16TXNVCA,Targeted,5,2005,2005,44,8749.17
+Prdt-2,B,18 Months,EGRecallSV16TXNVCAControl,Control,5,223,223,4,564.42
+Prdt-2,B,18 Months,EGRecallSV18,Targeted,5,4223,4223,110,22511.14
+Prdt-2,B,18 Months,EGRecallSV18Control,Control,5,469,469,8,1788.23
+Prdt-2,B,18 Months,EGRecallSV18TXNVCA,Targeted,5,855,855,20,4396.68
+Prdt-2,B,18 Months,EGRecallSV18TXNVCAControl,Control,5,95,95,3,454.05
+Prdt-2,B,21 Months,EGRecallMV20,Targeted,5,5060,5060,111,40176.77
+Prdt-2,B,21 Months,EGRecallMV20CA,Targeted,5,256,256,5,891.94
+Prdt-2,B,21 Months,EGRecallMV20CAControl,Control,5,28,28,0,0.0
+Prdt-2,B,21 Months,EGRecallMV20Control,Control,5,562,562,11,4266.3
+Prdt-2,B,21 Months,EGRecallMV20TXNV,Targeted,5,701,701,17,3901.92
+Prdt-2,B,21 Months,EGRecallMV20TXNVControl,Control,5,78,78,0,0.0
+Prdt-2,B,21 Months,EGRecallSV20,Targeted,5,7009,7009,157,33733.91
+Prdt-2,B,21 Months,EGRecallSV20Control,Control,5,779,779,16,2564.29
+Prdt-2,B,21 Months,EGRecallSV20TXNVCA,Targeted,5,1512,1512,33,6964.12
+Prdt-2,B,21 Months,EGRecallSV20TXNVCAControl,Control,5,168,168,3,879.99
+Prdt-2,B,24 Months,EGRecallMV22,Targeted,5,5344,5344,159,52203.2
+Prdt-2,B,24 Months,EGRecallMV22CA,Targeted,5,260,260,7,1886.7
+Prdt-2,B,24 Months,EGRecallMV22CAControl,Control,5,29,29,1,395.0
+Prdt-2,B,24 Months,EGRecallMV22Control,Control,5,594,594,8,2156.85
+Prdt-2,B,24 Months,EGRecallMV22TXNV,Targeted,5,665,665,15,5125.23
+Prdt-2,B,24 Months,EGRecallMV22TXNVControl,Control,5,74,74,2,662.92
+Prdt-2,B,24 Months,EGRecallMV24,Targeted,5,4799,4799,143,48580.33
+Prdt-2,B,24 Months,EGRecallMV24CA,Targeted,5,155,155,6,1115.93
+Prdt-2,B,24 Months,EGRecallMV24CAControl,Control,5,17,17,0,0.0
+Prdt-2,B,24 Months,EGRecallMV24Control,Control,5,533,533,12,5494.53
+Prdt-2,B,24 Months,EGRecallMV24TXNV,Targeted,5,574,574,14,5557.63
+Prdt-2,B,24 Months,EGRecallMV24TXNVControl,Control,5,64,64,2,597.92
+Prdt-2,B,24 Months,EGRecallSV22,Targeted,5,8138,8138,208,46574.46
+Prdt-2,B,24 Months,EGRecallSV22Control,Control,5,904,904,17,3715.82
+Prdt-2,B,24 Months,EGRecallSV22TXNVCA,Targeted,5,1605,1605,28,5450.2
+Prdt-2,B,24 Months,EGRecallSV22TXNVCAControl,Control,5,178,178,1,55.0
+Prdt-2,B,24 Months,EGRecallSV24,Targeted,5,6266,6266,148,34609.73
+Prdt-2,B,24 Months,EGRecallSV24Control,Control,5,696,696,15,3651.86
+Prdt-2,B,24 Months,EGRecallSV24TXNVCA,Targeted,5,1160,1160,22,4477.65
+Prdt-2,B,24 Months,EGRecallSV24TXNVCAControl,Control,5,129,129,5,1374.26
+Prdt-2,B,27 Months,EGRecallMV26,Targeted,5,5025,5025,94,32188.83
+Prdt-2,B,27 Months,EGRecallMV26CA,Targeted,5,132,132,1,179.95
+Prdt-2,B,27 Months,EGRecallMV26CAControl,Control,5,15,15,0,0.0
+Prdt-2,B,27 Months,EGRecallMV26Control,Control,5,558,558,9,2997.09
+Prdt-2,B,27 Months,EGRecallMV26TXNV,Targeted,5,698,698,10,3707.72
+Prdt-2,B,27 Months,EGRecallMV26TXNVControl,Control,5,78,78,3,723.95
+Prdt-2,B,27 Months,EGRecallSV26,Targeted,5,6694,6694,117,24803.45
+Prdt-2,B,27 Months,EGRecallSV26Control,Control,5,743,743,17,4307.47
+Prdt-2,B,27 Months,EGRecallSV26TXNVCA,Targeted,5,1150,1150,18,4367.07
+Prdt-2,B,27 Months,EGRecallSV26TXNVCAControl,Control,5,128,128,3,277.9
+Prdt-2,B,27 Months,EGW_Pre_RecallEM,Targeted,5,24341,24341,398,46418.56
+Prdt-2,B,27 Months,EGW_Pre_RecallEM_Control,Control,5,1281,1281,26,3800.29
+Prdt-2,B,12 Months,NVIPC640-Recall-CG,Control,10,5558,363,9,1439.95
+Prdt-2,B,12 Months,NVIPC640-Recall-TG,Targeted,10,50066,3277,156,32333.37
+Prdt-2,B,12 Months,NVIPC644-Recall-CG,Control,10,2736,215,13,2974.4
+Prdt-2,B,12 Months,NVIPC644-Recall-TG,Targeted,10,24652,1687,76,24236.94
+Prdt-2,B,12 Months,NVIPC645-Recall-CG,Control,10,2688,188,8,2088.34
+Prdt-2,B,12 Months,NVIPC645-Recall-TG,Targeted,10,24220,1744,91,27325.24
+Prdt-2,B,12 Months,NVIPC646-Recall-CG,Control,10,1426,99,1,315.98
+Prdt-2,B,12 Months,NVIPC646-Recall-TG,Targeted,10,12868,876,34,12205.86
+Prdt-2,B,12 Months,NVIPC647-Recall-CG,Control,10,844,59,2,552.95
+Prdt-2,B,12 Months,NVIPC647-Recall-TG,Targeted,10,7626,642,22,5985.38
+Prdt-2,B,12 Months,NVIPC650-Recall-CG,Control,10,4636,345,13,2318.71
+Prdt-2,B,12 Months,NVIPC650-Recall-TG,Targeted,10,62631,3011,109,20325.14
+Prdt-2,B,12 Months,NVIPC651-Recall-CG,Control,10,3632,254,11,2034.68
+Prdt-2,B,12 Months,NVIPC651-Recall-TG,Targeted,10,32732,2208,64,11440.19
+Prdt-2,B,15 Months,NVIPC640-Recall-CG,Control,10,2779,395,13,2183.1
+Prdt-2,B,15 Months,NVIPC640-Recall-TG,Targeted,10,25033,3604,118,24902.67
+Prdt-2,B,15 Months,NVIPC644-Recall-CG,Control,10,1368,207,6,2554.69
+Prdt-2,B,15 Months,NVIPC644-Recall-TG,Targeted,10,12326,1678,36,10272.15
+Prdt-2,B,15 Months,NVIPC645-Recall-CG,Control,10,1344,167,5,1890.21
+Prdt-2,B,15 Months,NVIPC645-Recall-TG,Targeted,10,12110,1689,58,16649.53
+Prdt-2,B,15 Months,NVIPC646-Recall-CG,Control,10,713,111,1,802.95
+Prdt-2,B,15 Months,NVIPC646-Recall-TG,Targeted,10,6434,862,21,5945.21
+Prdt-2,B,15 Months,NVIPC647-Recall-CG,Control,10,422,94,3,1203.98
+Prdt-2,B,15 Months,NVIPC647-Recall-TG,Targeted,10,3813,686,7,2648.16
+Prdt-2,B,15 Months,NVIPC650-Recall-CG,Control,10,2318,316,9,1666.46
+Prdt-2,B,15 Months,NVIPC650-Recall-TG,Targeted,10,20877,2875,94,17855.17
+Prdt-2,B,15 Months,NVIPC651-Recall-CG,Control,10,1816,275,4,562.97
+Prdt-2,B,15 Months,NVIPC651-Recall-TG,Targeted,10,16366,2559,66,11988.72
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,10,2779,321,4,735.41
+Prdt-2,B,18 Months,NVIPC640-Recall-CG,Control,10,2779,407,12,1471.28
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,10,25033,2733,64,11771.6
+Prdt-2,B,18 Months,NVIPC640-Recall-TG,Targeted,10,25033,3710,87,17292.06
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,10,1368,196,8,1742.79
+Prdt-2,B,18 Months,NVIPC644-Recall-CG,Control,10,1368,154,4,1173.09
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,10,12326,1784,57,20061.93
+Prdt-2,B,18 Months,NVIPC644-Recall-TG,Targeted,10,12326,1504,44,14683.84
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,10,1344,208,3,1050.98
+Prdt-2,B,18 Months,NVIPC645-Recall-CG,Control,10,1344,155,9,3481.52
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,10,12110,1537,39,14267.73
+Prdt-2,B,18 Months,NVIPC645-Recall-TG,Targeted,10,12110,1726,48,15386.17
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,10,713,77,0,0.0
+Prdt-2,B,18 Months,NVIPC646-Recall-CG,Control,10,713,90,3,974.31
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,10,6434,783,20,5438.63
+Prdt-2,B,18 Months,NVIPC646-Recall-TG,Targeted,10,6434,826,24,6992.56
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,10,422,50,3,946.43
+Prdt-2,B,18 Months,NVIPC647-Recall-CG,Control,10,422,63,5,1512.9
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,10,3813,433,6,1615.31
+Prdt-2,B,18 Months,NVIPC647-Recall-TG,Targeted,10,3813,627,14,5132.45
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,10,2318,258,8,1603.84
+Prdt-2,B,18 Months,NVIPC650-Recall-CG,Control,10,2318,343,11,1972.89
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,10,20877,3102,98,23209.31
+Prdt-2,B,18 Months,NVIPC650-Recall-TG,Targeted,10,20877,2311,53,10436.32
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,10,1816,203,2,295.0
+Prdt-2,B,18 Months,NVIPC651-Recall-CG,Control,10,1816,253,13,3607.86
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,10,16366,2419,41,7183.77
+Prdt-2,B,18 Months,NVIPC651-Recall-TG,Targeted,10,16366,1863,29,6398.65
+Prdt-2,B,21 Months,NVIPC640-Recall-CG,Control,10,2779,402,15,3196.13
+Prdt-2,B,21 Months,NVIPC640-Recall-TG,Targeted,10,25033,3938,110,25577.43
+Prdt-2,B,21 Months,NVIPC644-Recall-CG,Control,10,1368,182,5,1115.03
+Prdt-2,B,21 Months,NVIPC644-Recall-TG,Targeted,10,12326,1766,47,15331.39
+Prdt-2,B,21 Months,NVIPC645-Recall-CG,Control,10,1344,193,4,1065.87
+Prdt-2,B,21 Months,NVIPC645-Recall-TG,Targeted,10,12110,1738,45,15733.6
+Prdt-2,B,21 Months,NVIPC646-Recall-CG,Control,10,713,120,0,0.0
+Prdt-2,B,21 Months,NVIPC646-Recall-TG,Targeted,10,6434,999,17,5640.21
+Prdt-2,B,21 Months,NVIPC647-Recall-CG,Control,10,422,60,0,0.0
+Prdt-2,B,21 Months,NVIPC647-Recall-TG,Targeted,10,3813,486,9,2489.08
+Prdt-2,B,21 Months,NVIPC650-Recall-CG,Control,10,2318,297,6,971.15
+Prdt-2,B,21 Months,NVIPC650-Recall-TG,Targeted,10,20877,2974,65,11874.47
+Prdt-2,B,21 Months,NVIPC651-Recall-CG,Control,10,1816,271,6,1151.48
+Prdt-2,B,21 Months,NVIPC651-Recall-TG,Targeted,10,16366,2510,41,8058.83
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,10,2779,266,6,1910.28
+Prdt-2,B,24 Months,NVIPC640-Recall-CG,Control,10,2779,351,9,1986.15
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,10,25033,2317,56,13245.67
+Prdt-2,B,24 Months,NVIPC640-Recall-TG,Targeted,10,25033,3000,77,16793.98
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,10,1368,120,2,583.77
+Prdt-2,B,24 Months,NVIPC644-Recall-CG,Control,10,1368,166,6,1305.69
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,10,12326,1104,37,14938.95
+Prdt-2,B,24 Months,NVIPC644-Recall-TG,Targeted,10,12326,1473,40,13731.89
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,10,1344,170,5,1427.1
+Prdt-2,B,24 Months,NVIPC645-Recall-CG,Control,10,1344,126,9,2333.36
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,10,12110,1113,37,14350.86
+Prdt-2,B,24 Months,NVIPC645-Recall-TG,Targeted,10,12110,1382,43,14750.95
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,10,713,59,1,228.62
+Prdt-2,B,24 Months,NVIPC646-Recall-CG,Control,10,713,86,0,0.0
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,10,6434,770,14,5434.86
+Prdt-2,B,24 Months,NVIPC646-Recall-TG,Targeted,10,6434,582,14,3831.5
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,10,422,27,1,2.99
+Prdt-2,B,24 Months,NVIPC647-Recall-CG,Control,10,422,38,1,30.0
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,10,3813,424,7,1535.85
+Prdt-2,B,24 Months,NVIPC647-Recall-TG,Targeted,10,3813,228,5,1461.97
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,10,2318,294,7,1807.03
+Prdt-2,B,24 Months,NVIPC650-Recall-CG,Control,10,2318,233,3,414.92
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,10,20877,2505,65,12433.07
+Prdt-2,B,24 Months,NVIPC650-Recall-TG,Targeted,10,20877,2074,37,7995.57
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,10,1816,236,5,1633.72
+Prdt-2,B,24 Months,NVIPC651-Recall-CG,Control,10,1816,154,3,584.63
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,10,16366,1282,27,4800.53
+Prdt-2,B,24 Months,NVIPC651-Recall-TG,Targeted,10,16366,2006,35,7735.85
+Prdt-2,B,27 Months,NVIPC640-Recall-CG,Control,10,2779,274,2,84.0
+Prdt-2,B,27 Months,NVIPC640-Recall-TG,Targeted,10,25033,2441,50,12217.03
+Prdt-2,B,27 Months,NVIPC644-Recall-CG,Control,10,1368,128,3,1383.5
+Prdt-2,B,27 Months,NVIPC644-Recall-TG,Targeted,10,12326,1317,36,14856.15
+Prdt-2,B,27 Months,NVIPC645-Recall-CG,Control,10,1344,137,5,1566.06
+Prdt-2,B,27 Months,NVIPC645-Recall-TG,Targeted,10,12110,1168,31,10531.25
+Prdt-2,B,27 Months,NVIPC646-Recall-CG,Control,10,713,71,1,349.5
+Prdt-2,B,27 Months,NVIPC646-Recall-TG,Targeted,10,6434,723,8,3144.3
+Prdt-2,B,27 Months,NVIPC647-Recall-CG,Control,10,422,31,0,0.0
+Prdt-2,B,27 Months,NVIPC647-Recall-TG,Targeted,10,3813,274,4,1330.79
+Prdt-2,B,27 Months,NVIPC650-Recall-CG,Control,10,2318,232,4,559.38
+Prdt-2,B,27 Months,NVIPC650-Recall-TG,Targeted,10,20877,2012,47,9361.94
+Prdt-2,B,27 Months,NVIPC651-Recall-CG,Control,10,1816,170,2,688.87
+Prdt-2,B,27 Months,NVIPC651-Recall-TG,Targeted,10,16366,1506,33,5665.08
+Prdt-2,B,12 Months,NVIPC640-EG SV Rec,Control,9,8985,442,50,9588.36
+Prdt-2,B,12 Months,NVIPC640-EG SV Rec,Targeted,9,80934,3845,371,79811.4
+Prdt-2,B,12 Months,NVIPC644-EG MV Rec,Control,9,4629,215,21,5455.96
+Prdt-2,B,12 Months,NVIPC644-EG MV Rec,Targeted,9,41727,2075,213,71674.96
+Prdt-2,B,12 Months,NVIPC645-EG MV Rec,Control,9,4860,224,24,8491.73
+Prdt-2,B,12 Months,NVIPC645-EG MV Rec,Targeted,9,43794,2181,215,75193.92
+Prdt-2,B,12 Months,NVIPC646-TX/NV EG,Control,9,2196,123,8,1536.77
+Prdt-2,B,12 Months,NVIPC646-TX/NV EG,Targeted,9,19821,975,77,24177.57
+Prdt-2,B,12 Months,NVIPC647-CA EG MV,Control,9,1224,70,5,2055.83
+Prdt-2,B,12 Months,NVIPC647-CA EG MV,Targeted,9,11058,684,27,7506.21
+Prdt-2,B,12 Months,NVIPC650-EG SV Rec,Control,9,7557,359,35,7052.93
+Prdt-2,B,12 Months,NVIPC650-EG SV Rec,Targeted,9,68064,3114,267,52157.85
+Prdt-2,B,12 Months,NVIPC651-TX/NV/CA,Control,9,5604,309,20,3209.34
+Prdt-2,B,12 Months,NVIPC651-TX/NV/CA,Targeted,9,50496,2710,179,34939.27
+Prdt-2,B,15 Months,NVIPC640-EG SV Rec,Control,9,2995,500,15,2645.35
+Prdt-2,B,15 Months,NVIPC640-EG SV Rec,Targeted,9,26978,4251,102,22539.41
+Prdt-2,B,15 Months,NVIPC644-EG MV Rec,Control,9,1543,218,8,2442.39
+Prdt-2,B,15 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1974,56,15733.59
+Prdt-2,B,15 Months,NVIPC645-EG MV Rec,Control,9,1620,250,6,2239.02
+Prdt-2,B,15 Months,NVIPC645-EG MV Rec,Targeted,9,14598,2119,62,17629.61
+Prdt-2,B,15 Months,NVIPC646-TX/NV EG,Control,9,732,98,2,518.8
+Prdt-2,B,15 Months,NVIPC646-TX/NV EG,Targeted,9,6607,965,20,7121.5
+Prdt-2,B,15 Months,NVIPC647-CA EG MV,Control,9,408,85,1,671.37
+Prdt-2,B,15 Months,NVIPC647-CA EG MV,Targeted,9,3686,718,9,1979.78
+Prdt-2,B,15 Months,NVIPC650-EG SV Rec,Control,9,2519,352,10,2385.49
+Prdt-2,B,15 Months,NVIPC650-EG SV Rec,Targeted,9,22688,3376,81,17594.43
+Prdt-2,B,15 Months,NVIPC651-TX/NV/CA,Control,9,1868,310,2,187.95
+Prdt-2,B,15 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,2885,55,8471.78
+Prdt-2,B,18 Months,NVIPC640-EG SV Rec,Control,9,2995,358,10,1922.44
+Prdt-2,B,18 Months,NVIPC640-EG SV Rec,Control,9,2995,329,9,1697.69
+Prdt-2,B,18 Months,NVIPC640-EG SV Rec,Targeted,9,26978,3180,72,14350.28
+Prdt-2,B,18 Months,NVIPC640-EG SV Rec,Targeted,9,26978,3256,72,15039.62
+Prdt-2,B,18 Months,NVIPC644-EG MV Rec,Control,9,1543,202,5,1041.9
+Prdt-2,B,18 Months,NVIPC644-EG MV Rec,Control,9,1543,196,8,2393.82
+Prdt-2,B,18 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1876,37,11911.1
+Prdt-2,B,18 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1825,51,17978.96
+Prdt-2,B,18 Months,NVIPC645-EG MV Rec,Control,9,1620,214,5,1222.67
+Prdt-2,B,18 Months,NVIPC645-EG MV Rec,Control,9,1620,198,3,1491.39
+Prdt-2,B,18 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1854,38,8394.31
+Prdt-2,B,18 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1912,35,11290.05
+Prdt-2,B,18 Months,NVIPC646-TX/NV EG,Control,9,732,81,0,0.0
+Prdt-2,B,18 Months,NVIPC646-TX/NV EG,Control,9,732,81,2,541.28
+Prdt-2,B,18 Months,NVIPC646-TX/NV EG,Targeted,9,6607,811,9,2314.58
+Prdt-2,B,18 Months,NVIPC646-TX/NV EG,Targeted,9,6607,805,10,2577.92
+Prdt-2,B,18 Months,NVIPC647-CA EG MV,Control,9,408,53,1,138.0
+Prdt-2,B,18 Months,NVIPC647-CA EG MV,Control,9,408,47,0,0.0
+Prdt-2,B,18 Months,NVIPC647-CA EG MV,Targeted,9,3686,500,3,648.62
+Prdt-2,B,18 Months,NVIPC647-CA EG MV,Targeted,9,3686,516,12,4159.53
+Prdt-2,B,18 Months,NVIPC650-EG SV Rec,Control,9,2519,306,5,693.48
+Prdt-2,B,18 Months,NVIPC650-EG SV Rec,Control,9,2519,296,7,1624.41
+Prdt-2,B,18 Months,NVIPC650-EG SV Rec,Targeted,9,22688,2739,56,11868.64
+Prdt-2,B,18 Months,NVIPC650-EG SV Rec,Targeted,9,22688,2709,46,10108.28
+Prdt-2,B,18 Months,NVIPC651-TX/NV/CA,Control,9,1868,210,4,645.22
+Prdt-2,B,18 Months,NVIPC651-TX/NV/CA,Control,9,1868,227,7,829.01
+Prdt-2,B,18 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,1996,30,6707.7
+Prdt-2,B,18 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,2017,37,7347.58
+Prdt-2,B,21 Months,NVIPC640-EG SV Rec,Control,9,2995,401,6,1235.26
+Prdt-2,B,21 Months,NVIPC640-EG SV Rec,Targeted,9,26978,3874,71,14503.83
+Prdt-2,B,21 Months,NVIPC644-EG MV Rec,Control,9,1543,177,2,403.27
+Prdt-2,B,21 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1686,27,7788.95
+Prdt-2,B,21 Months,NVIPC645-EG MV Rec,Control,9,1620,186,6,1825.18
+Prdt-2,B,21 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1958,34,9806.67
+Prdt-2,B,21 Months,NVIPC646-TX/NV EG,Control,9,732,110,2,895.26
+Prdt-2,B,21 Months,NVIPC646-TX/NV EG,Targeted,9,6607,933,17,5266.71
+Prdt-2,B,21 Months,NVIPC647-CA EG MV,Control,9,408,57,0,0.0
+Prdt-2,B,21 Months,NVIPC647-CA EG MV,Targeted,9,3686,441,5,1355.96
+Prdt-2,B,21 Months,NVIPC650-EG SV Rec,Control,9,2519,334,2,397.96
+Prdt-2,B,21 Months,NVIPC650-EG SV Rec,Targeted,9,22688,2898,55,12992.11
+Prdt-2,B,21 Months,NVIPC651-TX/NV/CA,Control,9,1868,288,5,1028.93
+Prdt-2,B,21 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,2515,31,6555.57
+Prdt-2,B,24 Months,NVIPC640-EG SV Rec,Control,9,2995,276,6,1870.92
+Prdt-2,B,24 Months,NVIPC640-EG SV Rec,Control,9,2995,359,4,1200.85
+Prdt-2,B,24 Months,NVIPC640-EG SV Rec,Targeted,9,26978,3078,54,12054.4
+Prdt-2,B,24 Months,NVIPC640-EG SV Rec,Targeted,9,26978,2460,40,8578.35
+Prdt-2,B,24 Months,NVIPC644-EG MV Rec,Control,9,1543,145,7,2451.4
+Prdt-2,B,24 Months,NVIPC644-EG MV Rec,Control,9,1543,201,5,824.0
+Prdt-2,B,24 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1693,37,12931.4
+Prdt-2,B,24 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1348,20,11121.72
+Prdt-2,B,24 Months,NVIPC645-EG MV Rec,Control,9,1620,173,1,543.95
+Prdt-2,B,24 Months,NVIPC645-EG MV Rec,Control,9,1620,199,2,324.9
+Prdt-2,B,24 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1702,43,11676.03
+Prdt-2,B,24 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1437,49,15541.65
+Prdt-2,B,24 Months,NVIPC646-TX/NV EG,Control,9,732,78,1,285.99
+Prdt-2,B,24 Months,NVIPC646-TX/NV EG,Control,9,732,73,2,797.92
+Prdt-2,B,24 Months,NVIPC646-TX/NV EG,Targeted,9,6607,708,17,6360.81
+Prdt-2,B,24 Months,NVIPC646-TX/NV EG,Targeted,9,6607,735,16,5738.81
+Prdt-2,B,24 Months,NVIPC647-CA EG MV,Control,9,408,26,0,0.0
+Prdt-2,B,24 Months,NVIPC647-CA EG MV,Control,9,408,36,0,0.0
+Prdt-2,B,24 Months,NVIPC647-CA EG MV,Targeted,9,3686,282,3,624.76
+Prdt-2,B,24 Months,NVIPC647-CA EG MV,Targeted,9,3686,260,2,625.95
+Prdt-2,B,24 Months,NVIPC650-EG SV Rec,Control,9,2519,247,5,1803.32
+Prdt-2,B,24 Months,NVIPC650-EG SV Rec,Control,9,2519,329,7,935.88
+Prdt-2,B,24 Months,NVIPC650-EG SV Rec,Targeted,9,22688,2151,25,5697.93
+Prdt-2,B,24 Months,NVIPC650-EG SV Rec,Targeted,9,22688,3147,57,13949.05
+Prdt-2,B,24 Months,NVIPC651-TX/NV/CA,Control,9,1868,180,3,587.9
+Prdt-2,B,24 Months,NVIPC651-TX/NV/CA,Control,9,1868,172,4,478.27
+Prdt-2,B,24 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,1541,22,4851.59
+Prdt-2,B,24 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,1474,17,4924.18
+Prdt-2,B,27 Months,NVIPC640-EG SV Rec,Control,9,2995,330,7,1348.81
+Prdt-2,B,27 Months,NVIPC640-EG SV Rec,Targeted,9,26978,3020,64,13438.27
+Prdt-2,B,27 Months,NVIPC644-EG MV Rec,Control,9,1543,189,1,168.96
+Prdt-2,B,27 Months,NVIPC644-EG MV Rec,Targeted,9,13909,1418,32,11043.9
+Prdt-2,B,27 Months,NVIPC645-EG MV Rec,Control,9,1620,176,3,1261.52
+Prdt-2,B,27 Months,NVIPC645-EG MV Rec,Targeted,9,14598,1421,26,9047.92
+Prdt-2,B,27 Months,NVIPC646-TX/NV EG,Control,9,732,88,2,135.9
+Prdt-2,B,27 Months,NVIPC646-TX/NV EG,Targeted,9,6607,661,14,4114.09
+Prdt-2,B,27 Months,NVIPC647-CA EG MV,Control,9,408,34,0,0.0
+Prdt-2,B,27 Months,NVIPC647-CA EG MV,Targeted,9,3686,271,0,0.0
+Prdt-2,B,27 Months,NVIPC650-EG SV Rec,Control,9,2519,296,3,1446.86
+Prdt-2,B,27 Months,NVIPC650-EG SV Rec,Targeted,9,22688,2540,34,9302.22
+Prdt-2,B,27 Months,NVIPC651-TX/NV/CA,Control,9,1868,172,1,197.46
+Prdt-2,B,27 Months,NVIPC651-TX/NV/CA,Targeted,9,16832,1680,13,2804.01
+Prdt-2,C,12 Months,Recall12EGExamOnly,Targeted,3,1473,1473,69,18521.24
+Prdt-2,C,12 Months,Recall12EGExamOnlyControl,Control,3,164,164,3,935.98
+Prdt-2,C,15 Months,Recall15EGExamOnly,Targeted,3,1112,1112,33,8242.53
+Prdt-2,C,15 Months,Recall15EGExamOnlyControl,Control,3,123,123,3,918.0
+Prdt-2,C,18 Months,Recall18EGExamOnly,Targeted,3,1652,1652,37,10068.4
+Prdt-2,C,18 Months,Recall18EGExamOnlyControl,Control,3,184,184,6,1135.37
+Prdt-2,C,21 Months,Recall21EGExamOnly,Targeted,3,1403,1403,27,9176.41
+Prdt-2,C,21 Months,Recall21EGExamOnlyControl,Control,3,156,156,5,1208.49
+Prdt-2,C,24 Months,Recall24EGExamOnly,Targeted,3,1405,1405,54,15283.93
+Prdt-2,C,24 Months,Recall24EGExamOnlyControl,Control,3,156,156,1,366.85
+Prdt-2,C,12 Months,NVIPC764-Recall-CG,Control,11,1502,282,22,5698.35
+Prdt-2,C,12 Months,NVIPC764-Recall-TG,Targeted,11,13535,2624,202,53860.61
+Prdt-2,C,15 Months,NVIPC764-Recall-CG,Control,11,1502,200,1,122.0
+Prdt-2,C,15 Months,NVIPC764-Recall-TG,Targeted,11,13535,1803,73,20330.03
+Prdt-2,C,18 Months,NVIPC764-Recall-CG,Control,11,1502,169,3,1084.2
+Prdt-2,C,18 Months,NVIPC764-Recall-TG,Targeted,11,13535,1621,43,12532.71
+Prdt-2,C,21 Months,NVIPC764-Recall-CG,Control,11,1502,209,7,1875.77
+Prdt-2,C,21 Months,NVIPC764-Recall-TG,Targeted,11,13535,1916,50,13520.22
+Prdt-2,C,24 Months,NVIPC764-Recall-CG,Control,11,1502,229,11,3323.61
+Prdt-2,C,24 Months,NVIPC764-Recall-TG,Targeted,11,13535,1934,109,32144.02
+Prdt-2,C,27 Months,NVIPC764-Recall-CG,Control,11,1502,205,8,1964.79
+Prdt-2,C,27 Months,NVIPC764-Recall-TG,Targeted,11,13535,1745,64,16065.3
+Prdt-2,C,12 Months,NVIPC764-Recall-CG,Control,0,1403,250,8,1723.74
+Prdt-2,C,12 Months,NVIPC764-Recall-TG,Targeted,0,12651,2231,99,26701.45
+Prdt-2,C,15 Months,NVIPC764-Recall-CG,Control,0,1403,185,4,1552.57
+Prdt-2,C,15 Months,NVIPC764-Recall-TG,Targeted,0,12651,1693,46,13790.27
+Prdt-2,C,18 Months,NVIPC764-Recall-CG,Control,0,1403,183,6,1316.6
+Prdt-2,C,18 Months,NVIPC764-Recall-TG,Targeted,0,12651,1601,46,11385.33
+Prdt-2,C,21 Months,NVIPC764-Recall-CG,Control,0,1403,206,4,985.85
+Prdt-2,C,21 Months,NVIPC764-Recall-TG,Targeted,0,12651,1726,61,19713.44
+Prdt-2,C,24 Months,NVIPC764-Recall-CG,Control,0,1403,186,7,2019.34
+Prdt-2,C,24 Months,NVIPC764-Recall-TG,Targeted,0,12651,1736,58,14789.79
+Prdt-2,C,27 Months,NVIPC764-Recall-CG,Control,0,1403,215,7,2166.2
+Prdt-2,C,27 Months,NVIPC764-Recall-TG,Targeted,0,12651,1952,48,15169.51
+Prdt-2,C,12 Months,Recall12EGExamOnly,Targeted,6,1525,1525,74,19407.8
+Prdt-2,C,12 Months,Recall12EGExamOnlyControl,Control,6,169,169,4,867.5
+Prdt-2,C,15 Months,Recall15EGExamOnly,Targeted,6,1416,1416,37,11473.05
+Prdt-2,C,15 Months,Recall15EGExamOnlyControl,Control,6,157,157,3,391.79
+Prdt-2,C,18 Months,Recall18EGExamOnly,Targeted,6,1085,1085,26,5510.29
+Prdt-2,C,18 Months,Recall18EGExamOnlyControl,Control,6,121,121,4,738.53
+Prdt-2,C,21 Months,Recall21EGExamOnly,Targeted,6,1619,1619,36,12290.89
+Prdt-2,C,21 Months,Recall21EGExamOnlyControl,Control,6,180,180,3,825.45
+Prdt-2,C,24 Months,Recall24EGExamOnly,Targeted,6,1409,1409,49,15100.45
+Prdt-2,C,24 Months,Recall24EGExamOnlyControl,Control,6,157,157,6,1256.65
+Prdt-2,C,12 Months,Recall12EGExamOnly,Targeted,5,1276,1276,67,19642.05
+Prdt-2,C,12 Months,Recall12EGExamOnlyControl,Control,5,142,142,8,2773.06
+Prdt-2,C,15 Months,Recall15EGExamOnly,Targeted,5,1414,1414,25,7338.95
+Prdt-2,C,15 Months,Recall15EGExamOnlyControl,Control,5,157,157,2,803.75
+Prdt-2,C,18 Months,Recall18EGExamOnly,Targeted,5,966,966,27,8172.3
+Prdt-2,C,18 Months,Recall18EGExamOnlyControl,Control,5,107,107,2,727.0
+Prdt-2,C,21 Months,Recall21EGExamOnly,Targeted,5,1458,1458,31,8491.91
+Prdt-2,C,21 Months,Recall21EGExamOnlyControl,Control,5,162,162,3,889.99
+Prdt-2,C,24 Months,Recall24EGExamOnly,Targeted,5,1462,1462,43,13484.3
+Prdt-2,C,24 Months,Recall24EGExamOnlyControl,Control,5,162,162,4,1016.54
+Prdt-2,C,27 Months,Recall27EGExamOnly,Targeted,5,1593,1593,40,10866.66
+Prdt-2,C,27 Months,Recall27EGExamOnlyControl,Control,5,177,177,3,984.0
+Prdt-2,C,12 Months,Recall12EGExamOnly,Targeted,4,1661,1661,60,17906.93
+Prdt-2,C,12 Months,Recall12EGExamOnlyControl,Control,4,184,184,7,2247.38
+Prdt-2,C,15 Months,Recall15EGExamOnly,Targeted,4,1270,1270,33,7741.2
+Prdt-2,C,15 Months,Recall15EGExamOnlyControl,Control,4,141,141,3,1255.6
+Prdt-2,C,18 Months,Recall18EGExamOnly,Targeted,4,1010,1010,25,6063.58
+Prdt-2,C,18 Months,Recall18EGExamOnlyControl,Control,4,112,112,5,1892.79
+Prdt-2,C,21 Months,Recall21EGExamOnly,Targeted,4,1469,1469,40,10468.16
+Prdt-2,C,21 Months,Recall21EGExamOnlyControl,Control,4,163,163,1,293.6
+Prdt-2,C,24 Months,Recall24EGExamOnly,Targeted,4,1363,1363,44,13280.59
+Prdt-2,C,24 Months,Recall24EGExamOnlyControl,Control,4,151,151,3,1437.5
+Prdt-2,C,27 Months,Recall27EGExamOnly,Targeted,4,1423,1423,22,7685.59
+Prdt-2,C,27 Months,Recall27EGExamOnlyControl,Control,4,158,158,4,588.86
+Prdt-2,C,12 Months,NVIPC764-Recall-CG,Control,10,1376,250,11,3247.57
+Prdt-2,C,12 Months,NVIPC764-Recall-TG,Targeted,10,12434,2199,102,29049.86
+Prdt-2,C,15 Months,NVIPC764-Recall-CG,Control,10,1376,213,10,2996.96
+Prdt-2,C,15 Months,NVIPC764-Recall-TG,Targeted,10,12434,1837,48,15162.25
+Prdt-2,C,18 Months,NVIPC764-Recall-CG,Control,10,1376,164,4,868.73
+Prdt-2,C,18 Months,NVIPC764-Recall-TG,Targeted,10,12434,1672,35,12178.64
+Prdt-2,C,21 Months,NVIPC764-Recall-CG,Control,10,1376,188,8,2671.12
+Prdt-2,C,21 Months,NVIPC764-Recall-TG,Targeted,10,12434,1733,28,7184.47
+Prdt-2,C,24 Months,NVIPC764-Recall-CG,Control,10,1376,166,8,1628.98
+Prdt-2,C,24 Months,NVIPC764-Recall-TG,Targeted,10,12434,1518,70,22301.62
+Prdt-2,C,27 Months,NVIPC764-Recall-CG,Control,10,1376,205,7,1672.5
+Prdt-2,C,27 Months,NVIPC764-Recall-TG,Targeted,10,12434,1762,39,10414.43
+Prdt-2,C,12 Months,NVIPC119-Combined-TG,Targeted,9,11266,2329,148,43821.12
+Prdt-2,C,12 Months,NVIPC119-Recall-CG,Control,9,1250,273,14,5201.92
+Prdt-2,C,15 Months,NVIPC119-Combined-TG,Targeted,9,11266,1687,45,11697.46
+Prdt-2,C,15 Months,NVIPC119-Recall-CG,Control,9,1250,180,3,418.5
+Prdt-2,C,18 Months,NVIPC119-Combined-TG,Targeted,9,11266,1776,25,7633.94
+Prdt-2,C,18 Months,NVIPC119-Recall-CG,Control,9,1250,207,3,872.88
+Prdt-2,C,21 Months,NVIPC119-Combined-TG,Targeted,9,11266,1693,32,8764.25
+Prdt-2,C,21 Months,NVIPC119-Recall-CG,Control,9,1250,196,5,572.95
+Prdt-2,C,24 Months,NVIPC119-Combined-TG,Targeted,9,11266,1798,36,11525.62
+Prdt-2,C,24 Months,NVIPC119-Recall-CG,Control,9,1250,181,2,436.27
+Prdt-2,C,27 Months,NVIPC119-Combined-TG,Targeted,9,11266,219,5,1379.99
+Prdt-2,C,27 Months,NVIPC119-Recall-CG,Control,9,1250,25,0,0.0
+Prdt-2,D,12 Months,EGRecall12Exam,Targeted,3,1531,1531,63,12430.85
+Prdt-2,D,12 Months,EGRecall12ExamControl,Control,3,170,170,7,2326.37
+Prdt-2,D,12 Months,EGRecall12Promo,Targeted,3,507,507,18,3675.03
+Prdt-2,D,12 Months,EGRecall12PromoControl,Control,3,56,56,2,570.98
+Prdt-2,D,15 Months,EGRecall15Exam,Targeted,3,1058,1058,40,11673.26
+Prdt-2,D,15 Months,EGRecall15ExamControl,Control,3,118,118,2,477.95
+Prdt-2,D,15 Months,EGRecall15Promo,Targeted,3,318,318,6,1446.84
+Prdt-2,D,15 Months,EGRecall15PromoControl,Control,3,35,35,1,615.88
+Prdt-2,D,18 Months,EGRecall18Exam,Targeted,3,1628,1628,41,12509.6
+Prdt-2,D,18 Months,EGRecall18ExamControl,Control,3,181,181,1,229.0
+Prdt-2,D,18 Months,EGRecall18Promo,Targeted,3,446,446,7,2317.45
+Prdt-2,D,18 Months,EGRecall18PromoControl,Control,3,49,49,0,0.0
+Prdt-2,D,21 Months,EGRecall21Exam,Targeted,3,1624,1624,42,12146.14
+Prdt-2,D,21 Months,EGRecall21ExamControl,Control,3,180,180,3,1033.43
+Prdt-2,D,21 Months,EGRecall21Promo,Targeted,3,486,486,15,3499.65
+Prdt-2,D,21 Months,EGRecall21PromoControl,Control,3,54,54,1,132.0
+Prdt-2,D,24 Months,EGRecall24Exam,Targeted,3,1518,1518,50,17059.72
+Prdt-2,D,24 Months,EGRecall24ExamControl,Control,3,169,169,6,1530.91
+Prdt-2,D,24 Months,EGRecall24Promo,Targeted,3,460,460,17,6128.28
+Prdt-2,D,24 Months,EGRecall24PromoControl,Control,3,51,51,1,314.98
+Prdt-2,D,12 Months,EGRecall12Exam,Targeted,7,2627,2627,94,24228.22
+Prdt-2,D,12 Months,EGRecall12ExamControl,Control,7,292,292,8,2451.66
+Prdt-2,D,12 Months,EGRecall12Promo,Targeted,7,839,839,34,7873.52
+Prdt-2,D,12 Months,EGRecall12PromoControl,Control,7,93,93,2,404.0
+Prdt-2,D,15 Months,EGRecall15Exam,Targeted,7,1808,1808,51,14483.44
+Prdt-2,D,15 Months,EGRecall15ExamControl,Control,7,201,201,8,2232.01
+Prdt-2,D,15 Months,EGRecall15Promo,Targeted,7,599,599,3,676.44
+Prdt-2,D,15 Months,EGRecall15PromoControl,Control,7,67,67,1,469.0
+Prdt-2,D,18 Months,EGRecall18Exam,Targeted,7,1623,1623,22,6875.09
+Prdt-2,D,18 Months,EGRecall18ExamControl,Control,7,180,180,5,1477.38
+Prdt-2,D,18 Months,EGRecall18Promo,Targeted,7,546,546,14,2754.3
+Prdt-2,D,18 Months,EGRecall18PromoControl,Control,7,61,61,2,533.98
+Prdt-2,D,21 Months,EGRecall21Exam,Targeted,7,1189,1189,35,10387.34
+Prdt-2,D,21 Months,EGRecall21ExamControl,Control,7,132,132,2,922.46
+Prdt-2,D,21 Months,EGRecall21Promo,Targeted,7,335,335,8,1938.87
+Prdt-2,D,21 Months,EGRecall21PromoControl,Control,7,37,37,1,328.49
+Prdt-2,D,24 Months,EGRecall24Exam,Targeted,7,1818,1818,51,15592.16
+Prdt-2,D,24 Months,EGRecall24ExamControl,Control,7,202,202,7,2020.59
+Prdt-2,D,24 Months,EGRecall24Promo,Targeted,7,618,618,22,5515.41
+Prdt-2,D,24 Months,EGRecall24PromoControl,Control,7,69,69,1,83.69
+Prdt-2,D,27 Months,EGRecall27Exam,Targeted,7,1609,1609,26,5683.62
+Prdt-2,D,27 Months,EGRecall27ExamControl,Control,7,179,179,2,289.88
+Prdt-2,D,27 Months,EGRecall27Promo,Targeted,7,529,529,15,4793.85
+Prdt-2,D,27 Months,EGRecall27PromoControl,Control,7,59,59,0,0.0
+Prdt-2,D,12 Months,Recall-CG,Control,11,4482,342,20,4679.97
+Prdt-2,D,12 Months,Recall-TG,Targeted,11,40442,2807,170,55565.31
+Prdt-2,D,15 Months,Recall-CG,Control,11,2241,347,9,1764.27
+Prdt-2,D,15 Months,Recall-TG,Targeted,11,20221,3107,57,16476.5
+Prdt-2,D,18 Months,Recall-CG,Control,11,2241,323,6,1691.88
+Prdt-2,D,18 Months,Recall-TG,Targeted,11,20221,2711,60,20054.92
+Prdt-2,D,21 Months,Recall-CG,Control,11,2241,249,4,1248.24
+Prdt-2,D,21 Months,Recall-TG,Targeted,11,20221,2918,56,16355.48
+Prdt-2,D,24 Months,Recall-CG,Control,11,2241,304,10,3543.78
+Prdt-2,D,24 Months,Recall-TG,Targeted,11,20221,2547,81,24435.72
+Prdt-2,D,27 Months,Recall-CG,Control,11,2241,306,5,1569.39
+Prdt-2,D,27 Months,Recall-TG,Targeted,11,20221,2762,51,16849.98
+Prdt-2,D,12 Months,Recall-CG,Control,0,4364,329,16,5604.77
+Prdt-2,D,12 Months,Recall-TG,Targeted,0,39370,2945,127,34390.81
+Prdt-2,D,15 Months,Recall-CG,Control,0,2182,277,5,1170.94
+Prdt-2,D,15 Months,Recall-TG,Targeted,0,19685,2553,71,17662.25
+Prdt-2,D,18 Months,Recall-CG,Control,0,2182,348,8,3156.62
+Prdt-2,D,18 Months,Recall-TG,Targeted,0,19685,2815,65,17597.89
+Prdt-2,D,21 Months,Recall-CG,Control,0,2182,306,7,3462.33
+Prdt-2,D,21 Months,Recall-TG,Targeted,0,19685,2805,65,23509.01
+Prdt-2,D,24 Months,Recall-CG,Control,0,2182,248,7,2916.4
+Prdt-2,D,24 Months,Recall-TG,Targeted,0,19685,2412,58,17398.32
+Prdt-2,D,27 Months,Recall-CG,Control,0,2182,298,2,539.96
+Prdt-2,D,27 Months,Recall-TG,Targeted,0,19685,2841,61,19464.31
+Prdt-2,D,12 Months,EGRecall12Exam,Targeted,6,1924,1924,82,24101.88
+Prdt-2,D,12 Months,EGRecall12ExamControl,Control,6,214,214,2,886.38
+Prdt-2,D,12 Months,EGRecall12Promo,Targeted,6,576,576,24,6714.6
+Prdt-2,D,12 Months,EGRecall12PromoControl,Control,6,64,64,0,0.0
+Prdt-2,D,15 Months,EGRecall15Exam,Targeted,6,1655,1655,46,11780.24
+Prdt-2,D,15 Months,EGRecall15ExamControl,Control,6,184,184,4,1305.91
+Prdt-2,D,15 Months,EGRecall15Promo,Targeted,6,590,590,19,5738.42
+Prdt-2,D,15 Months,EGRecall15PromoControl,Control,6,65,65,1,376.49
+Prdt-2,D,18 Months,EGRecall18Exam,Targeted,6,1198,1198,25,7287.27
+Prdt-2,D,18 Months,EGRecall18ExamControl,Control,6,133,133,1,221.6
+Prdt-2,D,18 Months,EGRecall18Promo,Targeted,6,369,369,12,3066.87
+Prdt-2,D,18 Months,EGRecall18PromoControl,Control,6,41,41,1,189.91
+Prdt-2,D,21 Months,EGRecall21Exam,Targeted,6,1749,1749,31,11205.26
+Prdt-2,D,21 Months,EGRecall21ExamControl,Control,6,194,194,2,368.47
+Prdt-2,D,21 Months,EGRecall21Promo,Targeted,6,493,493,13,4706.14
+Prdt-2,D,21 Months,EGRecall21PromoControl,Control,6,55,55,2,514.0
+Prdt-2,D,24 Months,EGRecall24Exam,Targeted,6,1798,1798,64,19279.51
+Prdt-2,D,24 Months,EGRecall24ExamControl,Control,6,200,200,8,1999.17
+Prdt-2,D,24 Months,EGRecall24Promo,Targeted,6,570,570,16,4953.82
+Prdt-2,D,24 Months,EGRecall24PromoControl,Control,6,63,63,1,511.49
+Prdt-2,D,12 Months,EGRecall12Exam,Targeted,5,1604,1604,73,19812.95
+Prdt-2,D,12 Months,EGRecall12ExamControl,Control,5,178,178,4,1041.89
+Prdt-2,D,12 Months,EGRecall12Promo,Targeted,5,496,496,20,4437.35
+Prdt-2,D,12 Months,EGRecall12PromoControl,Control,5,55,55,3,938.3
+Prdt-2,D,15 Months,EGRecall15Exam,Targeted,5,1598,1598,46,15024.38
+Prdt-2,D,15 Months,EGRecall15ExamControl,Control,5,177,177,3,1747.23
+Prdt-2,D,15 Months,EGRecall15Promo,Targeted,5,572,572,17,2803.21
+Prdt-2,D,15 Months,EGRecall15PromoControl,Control,5,63,63,3,544.76
+Prdt-2,D,18 Months,EGRecall18Exam,Targeted,5,1036,1036,25,6993.05
+Prdt-2,D,18 Months,EGRecall18ExamControl,Control,5,115,115,0,0.0
+Prdt-2,D,18 Months,EGRecall18Promo,Targeted,5,290,290,7,1666.58
+Prdt-2,D,18 Months,EGRecall18PromoControl,Control,5,32,32,1,374.98
+Prdt-2,D,21 Months,EGRecall21Exam,Targeted,5,1737,1737,40,12771.9
+Prdt-2,D,21 Months,EGRecall21ExamControl,Control,5,193,193,8,2212.66
+Prdt-2,D,21 Months,EGRecall21Promo,Targeted,5,491,491,15,3985.34
+Prdt-2,D,21 Months,EGRecall21PromoControl,Control,5,55,55,1,779.97
+Prdt-2,D,24 Months,EGRecall24Exam,Targeted,5,1804,1804,59,19423.47
+Prdt-2,D,24 Months,EGRecall24ExamControl,Control,5,200,200,9,2846.64
+Prdt-2,D,24 Months,EGRecall24Promo,Targeted,5,588,588,19,5742.9
+Prdt-2,D,24 Months,EGRecall24PromoControl,Control,5,65,65,3,555.47
+Prdt-2,D,27 Months,EGRecall27Exam,Targeted,5,1877,1877,41,12485.63
+Prdt-2,D,27 Months,EGRecall27ExamControl,Control,5,209,209,4,1065.2
+Prdt-2,D,27 Months,EGRecall27Promo,Targeted,5,581,581,19,4576.36
+Prdt-2,D,27 Months,EGRecall27PromoControl,Control,5,65,65,1,104.78
+Prdt-2,D,12 Months,EGRecall12Exam,Targeted,4,1688,1688,63,15105.18
+Prdt-2,D,12 Months,EGRecall12ExamControl,Control,4,188,188,4,929.93
+Prdt-2,D,12 Months,EGRecall12Promo,Targeted,4,545,545,26,5886.99
+Prdt-2,D,12 Months,EGRecall12PromoControl,Control,4,61,61,2,339.94
+Prdt-2,D,15 Months,EGRecall15Exam,Targeted,4,1452,1452,38,9371.56
+Prdt-2,D,15 Months,EGRecall15ExamControl,Control,4,161,161,1,95.0
+Prdt-2,D,15 Months,EGRecall15Promo,Targeted,4,470,470,12,2927.0
+Prdt-2,D,15 Months,EGRecall15PromoControl,Control,4,52,52,2,393.98
+Prdt-2,D,18 Months,EGRecall18Exam,Targeted,4,1061,1061,36,8859.17
+Prdt-2,D,18 Months,EGRecall18ExamControl,Control,4,118,118,3,1014.96
+Prdt-2,D,18 Months,EGRecall18Promo,Targeted,4,285,285,5,1131.45
+Prdt-2,D,18 Months,EGRecall18PromoControl,Control,4,32,32,0,0.0
+Prdt-2,D,21 Months,EGRecall21Exam,Targeted,4,1659,1659,40,12568.15
+Prdt-2,D,21 Months,EGRecall21ExamControl,Control,4,184,184,1,99.0
+Prdt-2,D,21 Months,EGRecall21Promo,Targeted,4,538,538,10,1765.09
+Prdt-2,D,21 Months,EGRecall21PromoControl,Control,4,60,60,4,1529.57
+Prdt-2,D,24 Months,EGRecall24Exam,Targeted,4,1396,1396,53,20729.05
+Prdt-2,D,24 Months,EGRecall24ExamControl,Control,4,155,155,4,939.79
+Prdt-2,D,24 Months,EGRecall24Promo,Targeted,4,438,438,10,3483.07
+Prdt-2,D,24 Months,EGRecall24PromoControl,Control,4,49,49,1,343.98
+Prdt-2,D,27 Months,EGRecall27Exam,Targeted,4,1319,1319,27,9075.08
+Prdt-2,D,27 Months,EGRecall27ExamControl,Control,4,147,147,4,1062.32
+Prdt-2,D,27 Months,EGRecall27Promo,Targeted,4,398,398,11,2862.05
+Prdt-2,D,27 Months,EGRecall27PromoControl,Control,4,44,44,0,0.0
+Prdt-2,D,12 Months,Recall-CG,Control,10,4500,289,10,2440.21
+Prdt-2,D,12 Months,Recall-TG,Targeted,10,40576,2713,102,29273.77
+Prdt-2,D,15 Months,Recall-CG,Control,10,2250,383,12,4202.83
+Prdt-2,D,15 Months,Recall-TG,Targeted,10,20288,3448,96,28614.37
+Prdt-2,D,18 Months,Recall-CG,Control,10,2250,312,4,969.73
+Prdt-2,D,18 Months,Recall-TG,Targeted,10,20288,2538,53,16247.73
+Prdt-2,D,21 Months,Recall-CG,Control,10,2250,311,6,2317.31
+Prdt-2,D,21 Months,Recall-TG,Targeted,10,20288,2915,66,19188.23
+Prdt-2,D,24 Months,Recall-CG,Control,10,2250,244,7,1642.64
+Prdt-2,D,24 Months,Recall-TG,Targeted,10,20288,2224,69,24999.64
+Prdt-2,D,27 Months,Recall-CG,Control,10,2250,344,4,1543.73
+Prdt-2,D,27 Months,Recall-TG,Targeted,10,20288,3156,63,18851.34
+Prdt-2,D,12 Months,DrStoreRecall-CG,Control,9,4773,265,28,7243.6
+Prdt-2,D,12 Months,DrStoreRecall-TG,Targeted,9,42999,2294,161,42293.92
+Prdt-2,D,12 Months,NoDrStoreRecall EG-CG,Control,9,1068,84,6,2167.64
+Prdt-2,D,12 Months,NoDrStoreRecall EG-TG,Targeted,9,9660,684,42,10877.53
+Prdt-2,D,15 Months,DrStoreRecall-CG,Control,9,1591,235,4,1380.45
+Prdt-2,D,15 Months,DrStoreRecall-TG,Targeted,9,14333,2241,25,9037.64
+Prdt-2,D,15 Months,NoDrStoreRecall EG-CG,Control,9,356,74,0,0.0
+Prdt-2,D,15 Months,NoDrStoreRecall EG-TG,Targeted,9,3220,683,14,3616.39
+Prdt-2,D,18 Months,DrStoreRecall-CG,Control,9,1591,237,2,233.97
+Prdt-2,D,18 Months,DrStoreRecall-TG,Targeted,9,14333,2170,41,11938.84
+Prdt-2,D,18 Months,NoDrStoreRecall EG-CG,Control,9,356,86,2,272.99
+Prdt-2,D,18 Months,NoDrStoreRecall EG-TG,Targeted,9,3220,741,7,989.69
+Prdt-2,D,21 Months,DrStoreRecall-CG,Control,9,1591,227,1,686.77
+Prdt-2,D,21 Months,DrStoreRecall-TG,Targeted,9,14333,1876,21,6258.03
+Prdt-2,D,21 Months,NoDrStoreRecall EG-CG,Control,9,356,63,3,906.95
+Prdt-2,D,21 Months,NoDrStoreRecall EG-TG,Targeted,9,3220,574,9,3230.03
+Prdt-2,D,24 Months,DrStoreRecall-CG,Control,9,1591,192,2,977.56
+Prdt-2,D,24 Months,DrStoreRecall-TG,Targeted,9,14333,1801,49,14974.61
+Prdt-2,D,24 Months,NoDrStoreRecall EG-CG,Control,9,356,49,2,401.55
+Prdt-2,D,24 Months,NoDrStoreRecall EG-TG,Targeted,9,3220,524,9,3447.5
+Prdt-2,D,27 Months,DrStoreRecall-CG,Control,9,1591,61,0,0.0
+Prdt-2,D,27 Months,DrStoreRecall-TG,Targeted,9,14333,535,4,880.87
+Prdt-2,E,12 Months,EGRecall12Employed,Targeted,7,9149,9149,544,100573.89
+Prdt-2,E,12 Months,EGRecall12EmployedControl,Control,7,1016,1016,56,10744.39
+Prdt-2,E,12 Months,EGRecall12FS,Targeted,7,4150,4150,227,42403.86
+Prdt-2,E,12 Months,EGRecall12FSControl,Control,7,464,464,31,3928.23
+Prdt-2,E,12 Months,EGRecall12Leased,Targeted,7,16960,16960,739,148828.51
+Prdt-2,E,12 Months,EGRecall12LeasedControl,Control,7,1883,1883,83,15058.84
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,7,2071,2071,86,18205.13
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,7,2046,2046,95,18054.71
+Prdt-2,E,12 Months,EGRecall12NONFSControl,Control,7,227,227,11,1582.21
+Prdt-2,E,12 Months,EGRecall12NONFS-Control,Control,7,231,231,13,2184.39
+Prdt-2,E,12 Months,EGRecall12NV,Targeted,7,357,357,10,1922.28
+Prdt-2,E,12 Months,EGRecall12NVControl,Control,7,41,41,1,138.02
+Prdt-2,E,15 Months,EGRecall14Leased,Targeted,7,10841,10841,399,77691.64
+Prdt-2,E,15 Months,EGRecall14LeasedControl,Control,7,1203,1203,37,7798.82
+Prdt-2,E,15 Months,EGRecall15Employed,Targeted,7,6711,6711,231,44225.21
+Prdt-2,E,15 Months,EGRecall15EmployedControl,Control,7,745,745,28,3766.12
+Prdt-2,E,15 Months,EGRecall15FS,Targeted,7,3061,3061,106,25531.0
+Prdt-2,E,15 Months,EGRecall15FSControl,Control,7,341,341,7,420.6
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,7,1618,1618,54,10784.83
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,7,1594,1594,51,9346.89
+Prdt-2,E,15 Months,EGRecall15NONFSControl,Control,7,180,180,6,1247.44
+Prdt-2,E,15 Months,EGRecall15NONFS-Control,Control,7,177,177,5,645.3
+Prdt-2,E,15 Months,EGRecall15NV,Targeted,7,271,271,8,1392.99
+Prdt-2,E,15 Months,EGRecall15NVControl,Control,7,31,31,0,0.0
+Prdt-2,E,18 Months,EGRecall16Leased,Targeted,7,11220,11220,347,67017.01
+Prdt-2,E,18 Months,EGRecall16LeasedControl,Control,7,1245,1245,36,6699.69
+Prdt-2,E,18 Months,EGRecall18Employed,Targeted,7,6726,6726,206,43021.52
+Prdt-2,E,18 Months,EGRecall18EmployedControl,Control,7,746,746,16,3166.32
+Prdt-2,E,18 Months,EGRecall18FS,Targeted,7,2958,2958,51,10143.1
+Prdt-2,E,18 Months,EGRecall18FSControl,Control,7,331,331,10,2538.72
+Prdt-2,E,18 Months,EGRecall18Leased,Targeted,7,12269,12269,321,62997.11
+Prdt-2,E,18 Months,EGRecall18LeasedControl,Control,7,1362,1362,30,5143.57
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,7,1409,1409,34,7263.94
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,7,1398,1398,43,10559.57
+Prdt-2,E,18 Months,EGRecall18NONFSControl,Control,7,155,155,10,2018.85
+Prdt-2,E,18 Months,EGRecall18NONFS-Control,Control,7,156,156,2,299.2
+Prdt-2,E,18 Months,EGRecall18NV,Targeted,7,247,247,11,1958.04
+Prdt-2,E,18 Months,EGRecall18NVControl,Control,7,31,31,0,0.0
+Prdt-2,E,21 Months,EGRecall20Leased,Targeted,7,6851,6851,156,32574.99
+Prdt-2,E,21 Months,EGRecall20LeasedControl,Control,7,760,760,14,3485.3
+Prdt-2,E,21 Months,EGRecall21Employed,Targeted,7,4702,4702,137,30294.55
+Prdt-2,E,21 Months,EGRecall21EmployedControl,Control,7,522,522,9,2530.87
+Prdt-2,E,21 Months,EGRecall21FS,Targeted,7,2077,2077,48,8139.31
+Prdt-2,E,21 Months,EGRecall21FSControl,Control,7,231,231,4,550.84
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,7,1098,1098,21,3749.02
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,7,1080,1080,25,4497.13
+Prdt-2,E,21 Months,EGRecall21NONFSControl,Control,7,122,122,3,660.7
+Prdt-2,E,21 Months,EGRecall21NONFS-Control,Control,7,121,121,1,347.0
+Prdt-2,E,21 Months,EGRecall21NV,Targeted,7,152,152,6,1287.17
+Prdt-2,E,21 Months,EGRecall21NVControl,Control,7,21,21,0,0.0
+Prdt-2,E,24 Months,EGRecall22Leased,Targeted,7,12962,12962,334,68595.88
+Prdt-2,E,24 Months,EGRecall22LeasedControl,Control,7,1441,1441,26,5653.94
+Prdt-2,E,24 Months,EGRecall24Employed,Targeted,7,6674,6674,195,42285.26
+Prdt-2,E,24 Months,EGRecall24EmployedControl,Control,7,741,741,28,6967.32
+Prdt-2,E,24 Months,EGRecall24FS,Targeted,7,3033,3033,97,23027.01
+Prdt-2,E,24 Months,EGRecall24FSControl,Control,7,337,337,10,2445.47
+Prdt-2,E,24 Months,EGRecall24Leased,Targeted,7,13224,13224,420,86596.38
+Prdt-2,E,24 Months,EGRecall24LeasedControl,Control,7,1468,1468,57,11070.69
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,7,1573,1573,35,6998.82
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,7,1594,1594,37,8135.56
+Prdt-2,E,24 Months,EGRecall24NONFSControl,Control,7,175,175,3,1086.45
+Prdt-2,E,24 Months,EGRecall24NONFS-Control,Control,7,177,177,3,449.0
+Prdt-2,E,24 Months,EGRecall24NV,Targeted,7,281,281,2,623.49
+Prdt-2,E,24 Months,EGRecall24NVControl,Control,7,32,32,0,0.0
+Prdt-2,E,27 Months,EGRecall26Leased,Targeted,7,12285,12285,297,64093.41
+Prdt-2,E,27 Months,EGRecall26LeasedControl,Control,7,1365,1365,21,4256.73
+Prdt-2,E,27 Months,EGRecall27Employed,Targeted,7,5693,5693,129,26481.77
+Prdt-2,E,27 Months,EGRecall27EmployedControl,Control,7,632,632,16,3102.57
+Prdt-2,E,27 Months,EGRecall27FS,Targeted,7,2644,2644,52,10160.59
+Prdt-2,E,27 Months,EGRecall27FSControl,Control,7,292,292,5,1092.69
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,7,1410,1410,20,5160.09
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,7,1399,1399,29,5325.26
+Prdt-2,E,27 Months,EGRecall27NONFSControl,Control,7,155,155,3,193.98
+Prdt-2,E,27 Months,EGRecall27NONFS-Control,Control,7,157,157,2,778.2
+Prdt-2,E,27 Months,EGRecall27NV,Targeted,7,203,203,2,286.99
+Prdt-2,E,27 Months,EGRecall27NVControl,Control,7,23,23,0,0.0
+Prdt-2,E,12 Months,Recall-CG,Control,11,10398,1021,97,20751.02
+Prdt-2,E,12 Months,Recall-CG,Control,11,173,23,1,215.0
+Prdt-2,E,12 Months,Recall-CG,Control,11,23364,1779,122,24281.45
+Prdt-2,E,12 Months,Recall-CG,Control,11,6870,639,36,6784.68
+Prdt-2,E,12 Months,Recall-CG,Control,11,7528,346,22,4485.88
+Prdt-2,E,12 Months,Recall-TG,Targeted,11,84845,3236,196,37821.67
+Prdt-2,E,12 Months,Recall-TG,Targeted,11,103135,5258,352,73368.54
+Prdt-2,E,12 Months,Recall-TG,Targeted,11,3154,315,15,3816.43
+Prdt-2,E,12 Months,Recall-TG,Targeted,11,210346,15846,1184,253719.21
+Prdt-2,E,12 Months,Recall-TG,Targeted,11,93628,9530,936,205547.4
+Prdt-2,E,15 Months,Recall-CG,Control,11,4580,307,13,2289.7
+Prdt-2,E,15 Months,Recall-CG,Control,11,173,33,2,632.45
+Prdt-2,E,15 Months,Recall-CG,Control,11,5199,829,35,5882.69
+Prdt-2,E,15 Months,Recall-CG,Control,11,11682,1498,42,7204.47
+Prdt-2,E,15 Months,Recall-CG,Control,11,3764,298,12,2045.69
+Prdt-2,E,15 Months,Recall-TG,Targeted,11,1577,221,6,858.0
+Prdt-2,E,15 Months,Recall-TG,Targeted,11,105173,12951,456,89922.67
+Prdt-2,E,15 Months,Recall-TG,Targeted,11,46814,7442,313,61186.33
+Prdt-2,E,15 Months,Recall-TG,Targeted,11,50907,2658,73,16802.56
+Prdt-2,E,15 Months,Recall-TG,Targeted,11,61881,2841,77,14488.68
+Prdt-2,E,18 Months,Recall-CG,Control,11,11682,1582,39,7802.99
+Prdt-2,E,18 Months,Recall-CG,Control,11,5646,333,9,1480.19
+Prdt-2,E,18 Months,Recall-CG,Control,11,173,34,0,0.0
+Prdt-2,E,18 Months,Recall-CG,Control,11,2290,263,9,1139.3
+Prdt-2,E,18 Months,Recall-CG,Control,11,5199,847,22,6008.08
+Prdt-2,E,18 Months,Recall-CG,Control,11,11682,1350,40,7299.27
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,50907,2821,76,15148.17
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,1577,258,8,1366.97
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,61881,2774,87,17574.98
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,105173,14210,461,93495.37
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,46814,7740,292,64616.65
+Prdt-2,E,18 Months,Recall-TG,Targeted,11,105173,12483,355,73026.45
+Prdt-2,E,21 Months,Recall-CG,Control,11,4580,400,3,275.0
+Prdt-2,E,21 Months,Recall-CG,Control,11,173,34,0,0.0
+Prdt-2,E,21 Months,Recall-CG,Control,11,11682,1358,42,8173.8
+Prdt-2,E,21 Months,Recall-CG,Control,11,5199,1027,26,4958.51
+Prdt-2,E,21 Months,Recall-CG,Control,11,5646,342,4,999.39
+Prdt-2,E,21 Months,Recall-TG,Targeted,11,46814,8858,278,59029.11
+Prdt-2,E,21 Months,Recall-TG,Targeted,11,105173,12391,283,62811.65
+Prdt-2,E,21 Months,Recall-TG,Targeted,11,50907,3079,61,12970.73
+Prdt-2,E,21 Months,Recall-TG,Targeted,11,61881,3377,73,15212.47
+Prdt-2,E,21 Months,Recall-TG,Targeted,11,1577,308,4,776.79
+Prdt-2,E,24 Months,Recall-CG,Control,11,6870,286,12,2552.18
+Prdt-2,E,24 Months,Recall-CG,Control,11,5199,804,41,11358.2
+Prdt-2,E,24 Months,Recall-CG,Control,11,11682,1432,46,9718.67
+Prdt-2,E,24 Months,Recall-CG,Control,11,3764,299,7,2271.31
+Prdt-2,E,24 Months,Recall-CG,Control,11,173,23,0,0.0
+Prdt-2,E,24 Months,Recall-CG,Control,11,11682,1406,40,9145.77
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,50907,2681,88,17910.22
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,46814,7105,325,76557.45
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,61881,2783,113,23234.21
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,1577,220,5,1123.97
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,105173,13063,322,67450.21
+Prdt-2,E,24 Months,Recall-TG,Targeted,11,105173,12569,499,117110.69
+Prdt-2,E,27 Months,Recall-CG,Control,11,11682,1277,30,4388.04
+Prdt-2,E,27 Months,Recall-CG,Control,11,173,26,0,0.0
+Prdt-2,E,27 Months,Recall-CG,Control,11,5199,671,18,2688.52
+Prdt-2,E,27 Months,Recall-CG,Control,11,132820,395,14,2301.73
+Prdt-2,E,27 Months,Recall-CG,Control,11,9410,264,6,2173.2
+Prdt-2,E,27 Months,Recall-TG,Targeted,11,1577,239,3,820.6
+Prdt-2,E,27 Months,Recall-TG,Targeted,11,2599002,3578,140,28929.52
+Prdt-2,E,27 Months,Recall-TG,Targeted,11,105173,11647,258,53478.02
+Prdt-2,E,27 Months,Recall-TG,Targeted,11,271504,2478,49,11176.77
+Prdt-2,E,27 Months,Recall-TG,Targeted,11,46814,6123,141,30610.73
+Prdt-2,E,12 Months,Recall-CG,Control,0,12514,999,65,12597.55
+Prdt-2,E,12 Months,Recall-CG,Control,0,6843,569,24,4711.99
+Prdt-2,E,12 Months,Recall-CG,Control,0,9150,350,22,4008.17
+Prdt-2,E,12 Months,Recall-CG,Control,0,176,24,1,374.9
+Prdt-2,E,12 Months,Recall-CG,Control,0,5760,624,58,11746.54
+Prdt-2,E,12 Months,Recall-TG,Targeted,0,3200,252,13,2643.79
+Prdt-2,E,12 Months,Recall-TG,Targeted,0,102745,5241,264,52430.68
+Prdt-2,E,12 Months,Recall-TG,Targeted,0,51880,5892,598,136347.84
+Prdt-2,E,12 Months,Recall-TG,Targeted,0,112660,9368,689,149191.18
+Prdt-2,E,12 Months,Recall-TG,Targeted,0,82430,2972,148,29232.64
+Prdt-2,E,15 Months,Recall-CG,Control,0,2880,489,21,4652.96
+Prdt-2,E,15 Months,Recall-CG,Control,0,6257,846,40,10015.15
+Prdt-2,E,15 Months,Recall-CG,Control,0,176,29,1,9.0
+Prdt-2,E,15 Months,Recall-CG,Control,0,1830,301,7,1505.27
+Prdt-2,E,15 Months,Recall-CG,Control,0,4562,336,12,2034.2
+Prdt-2,E,15 Months,Recall-TG,Targeted,0,25940,4352,248,52343.25
+Prdt-2,E,15 Months,Recall-TG,Targeted,0,61647,2854,91,19701.01
+Prdt-2,E,15 Months,Recall-TG,Targeted,0,49458,2647,83,17065.4
+Prdt-2,E,15 Months,Recall-TG,Targeted,0,1600,273,9,1994.67
+Prdt-2,E,15 Months,Recall-TG,Targeted,0,56330,7860,359,75988.1
+Prdt-2,E,18 Months,Recall-CG,Control,0,4562,319,5,1349.41
+Prdt-2,E,18 Months,Recall-CG,Control,0,6257,748,26,5375.95
+Prdt-2,E,18 Months,Recall-CG,Control,0,2880,499,21,4211.73
+Prdt-2,E,18 Months,Recall-CG,Control,0,6257,808,29,5808.25
+Prdt-2,E,18 Months,Recall-CG,Control,0,3660,309,12,2739.65
+Prdt-2,E,18 Months,Recall-CG,Control,0,176,39,0,0.0
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,49458,2784,80,17779.79
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,25940,4271,217,46151.21
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,56330,7117,253,53504.43
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,56330,6938,254,58028.82
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,61647,2741,71,16004.72
+Prdt-2,E,18 Months,Recall-TG,Targeted,0,1600,273,3,566.92
+Prdt-2,E,21 Months,Recall-CG,Control,0,2880,495,11,1734.59
+Prdt-2,E,21 Months,Recall-CG,Control,0,5490,299,4,848.53
+Prdt-2,E,21 Months,Recall-CG,Control,0,6257,709,16,3395.04
+Prdt-2,E,21 Months,Recall-CG,Control,0,6843,332,9,1529.43
+Prdt-2,E,21 Months,Recall-CG,Control,0,176,36,0,0.0
+Prdt-2,E,21 Months,Recall-TG,Targeted,0,49458,2852,65,14074.71
+Prdt-2,E,21 Months,Recall-TG,Targeted,0,25940,4327,219,46480.79
+Prdt-2,E,21 Months,Recall-TG,Targeted,0,1600,282,8,1767.3
+Prdt-2,E,21 Months,Recall-TG,Targeted,0,56330,6225,213,48229.92
+Prdt-2,E,21 Months,Recall-TG,Targeted,0,61647,2976,75,16298.26
+Prdt-2,E,24 Months,Recall-CG,Control,0,6843,309,11,2855.37
+Prdt-2,E,24 Months,Recall-CG,Control,0,6257,880,32,7092.01
+Prdt-2,E,24 Months,Recall-CG,Control,0,3660,288,5,1158.1
+Prdt-2,E,24 Months,Recall-CG,Control,0,176,25,1,153.0
+Prdt-2,E,24 Months,Recall-CG,Control,0,6257,648,30,5884.8
+Prdt-2,E,24 Months,Recall-CG,Control,0,2880,419,19,3304.15
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,1600,257,8,1866.99
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,25940,3624,180,44077.73
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,56330,7493,283,63281.35
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,61647,2940,89,19076.45
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,49458,2576,72,15818.46
+Prdt-2,E,24 Months,Recall-TG,Targeted,0,56330,5825,256,58778.61
+Prdt-2,E,27 Months,Recall-CG,Control,0,2880,354,8,1791.43
+Prdt-2,E,27 Months,Recall-CG,Control,0,7320,283,5,903.62
+Prdt-2,E,27 Months,Recall-CG,Control,0,134579,416,8,1413.65
+Prdt-2,E,27 Months,Recall-CG,Control,0,6257,619,20,4401.3
+Prdt-2,E,27 Months,Recall-CG,Control,0,176,23,0,0.0
+Prdt-2,E,27 Months,Recall-TG,Targeted,0,2465880,3781,104,23817.94
+Prdt-2,E,27 Months,Recall-TG,Targeted,0,214318,2639,51,9288.22
+Prdt-2,E,27 Months,Recall-TG,Targeted,0,56330,5491,191,47893.62
+Prdt-2,E,27 Months,Recall-TG,Targeted,0,1600,247,5,1411.64
+Prdt-2,E,27 Months,Recall-TG,Targeted,0,25940,3458,138,26141.25
+Prdt-2,E,12 Months,EGRecall12Employed,Targeted,6,6722,6722,459,91931.93
+Prdt-2,E,12 Months,EGRecall12EmployedControl,Control,6,755,755,50,9045.89
+Prdt-2,E,12 Months,EGRecall12FS,Targeted,6,3044,3044,183,37308.34
+Prdt-2,E,12 Months,EGRecall12FSControl,Control,6,338,338,17,3919.86
+Prdt-2,E,12 Months,EGRecall12Leased,Targeted,6,12737,12737,614,124218.57
+Prdt-2,E,12 Months,EGRecall12LeasedControl,Control,6,1415,1415,57,11066.83
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,6,1613,1613,70,13182.39
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,6,1592,1592,59,10563.24
+Prdt-2,E,12 Months,EGRecall12NONFSControl,Control,6,177,177,6,782.55
+Prdt-2,E,12 Months,EGRecall12NONFS-Control,Control,6,179,179,10,2363.23
+Prdt-2,E,12 Months,EGRecall12NV,Targeted,6,284,284,11,892.24
+Prdt-2,E,12 Months,EGRecall12NVControl,Control,6,31,31,1,314.55
+Prdt-2,E,15 Months,EGRecall14Leased,Targeted,6,12878,12878,422,83772.61
+Prdt-2,E,15 Months,EGRecall14LeasedControl,Control,6,1431,1431,48,8367.76
+Prdt-2,E,15 Months,EGRecall15Employed,Targeted,6,6440,6440,268,50129.21
+Prdt-2,E,15 Months,EGRecall15EmployedControl,Control,6,725,725,28,5309.89
+Prdt-2,E,15 Months,EGRecall15FS,Targeted,6,2828,2828,90,20642.0
+Prdt-2,E,15 Months,EGRecall15FSControl,Control,6,314,314,18,5016.61
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,6,1411,1411,42,8656.4
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,6,1379,1379,38,6546.67
+Prdt-2,E,15 Months,EGRecall15NONFSControl,Control,6,153,153,4,723.03
+Prdt-2,E,15 Months,EGRecall15NONFS-Control,Control,6,157,157,5,1182.97
+Prdt-2,E,15 Months,EGRecall15NV,Targeted,6,259,259,10,1924.36
+Prdt-2,E,15 Months,EGRecall15NVControl,Control,6,29,29,3,1006.54
+Prdt-2,E,18 Months,EGRecall16Leased,Targeted,6,12748,12748,386,73852.68
+Prdt-2,E,18 Months,EGRecall16LeasedControl,Control,6,1416,1416,40,8478.64
+Prdt-2,E,18 Months,EGRecall18Employed,Targeted,6,4159,4159,151,30596.6
+Prdt-2,E,18 Months,EGRecall18EmployedControl,Control,6,467,467,22,4674.42
+Prdt-2,E,18 Months,EGRecall18FS,Targeted,6,1798,1798,57,12099.14
+Prdt-2,E,18 Months,EGRecall18FSControl,Control,6,200,200,6,1641.25
+Prdt-2,E,18 Months,EGRecall18Leased,Targeted,6,7916,7916,218,42078.13
+Prdt-2,E,18 Months,EGRecall18LeasedControl,Control,6,880,880,23,4885.53
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,6,888,888,21,5756.56
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,6,909,909,31,5631.35
+Prdt-2,E,18 Months,EGRecall18NONFSControl,Control,6,101,101,1,179.0
+Prdt-2,E,18 Months,EGRecall18NONFS-Control,Control,6,99,99,0,0.0
+Prdt-2,E,18 Months,EGRecall18NV,Targeted,6,192,192,4,420.75
+Prdt-2,E,18 Months,EGRecall18NVControl,Control,6,21,21,2,429.38
+Prdt-2,E,21 Months,EGRecall20Leased,Targeted,6,8803,8803,237,45296.94
+Prdt-2,E,21 Months,EGRecall20LeasedControl,Control,6,978,978,20,4417.63
+Prdt-2,E,21 Months,EGRecall21Employed,Targeted,6,6365,6365,200,41680.12
+Prdt-2,E,21 Months,EGRecall21EmployedControl,Control,6,714,714,14,2750.95
+Prdt-2,E,21 Months,EGRecall21FS,Targeted,6,3053,3053,77,17203.06
+Prdt-2,E,21 Months,EGRecall21FSControl,Control,6,339,339,14,2451.24
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,6,1612,1612,36,8177.79
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,6,1574,1574,28,6611.4
+Prdt-2,E,21 Months,EGRecall21NONFSControl,Control,6,179,179,4,263.98
+Prdt-2,E,21 Months,EGRecall21NONFS-Control,Control,6,175,175,5,520.25
+Prdt-2,E,21 Months,EGRecall21NV,Targeted,6,261,261,1,185.34
+Prdt-2,E,21 Months,EGRecall21NVControl,Control,6,29,29,1,158.45
+Prdt-2,E,24 Months,EGRecall22Leased,Targeted,6,12367,12367,303,60378.37
+Prdt-2,E,24 Months,EGRecall22LeasedControl,Control,6,1374,1374,25,3723.13
+Prdt-2,E,24 Months,EGRecall24Employed,Targeted,6,6459,6459,232,50800.6
+Prdt-2,E,24 Months,EGRecall24EmployedControl,Control,6,727,727,20,3075.89
+Prdt-2,E,24 Months,EGRecall24FS,Targeted,6,2773,2773,81,18135.53
+Prdt-2,E,24 Months,EGRecall24FSControl,Control,6,308,308,9,2505.66
+Prdt-2,E,24 Months,EGRecall24Leased,Targeted,6,12991,12991,381,84476.48
+Prdt-2,E,24 Months,EGRecall24LeasedControl,Control,6,1443,1443,54,12274.23
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,6,1553,1553,36,9923.32
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,6,1557,1557,42,7364.31
+Prdt-2,E,24 Months,EGRecall24NONFSControl,Control,6,173,173,5,1160.03
+Prdt-2,E,24 Months,EGRecall24NONFS-Control,Control,6,172,172,4,1135.17
+Prdt-2,E,24 Months,EGRecall24NV,Targeted,6,263,263,4,790.0
+Prdt-2,E,24 Months,EGRecall24NVControl,Control,6,29,29,1,40.6
+Prdt-2,E,27 Months,EGRecall26Leased,Targeted,6,11276,11276,271,60136.8
+Prdt-2,E,27 Months,EGRecall26LeasedControl,Control,6,1253,1253,39,7540.96
+Prdt-2,E,27 Months,EGRecall27Employed,Targeted,6,343,343,6,1354.65
+Prdt-2,E,27 Months,EGRecall27EmployedControl,Control,6,38,38,1,474.5
+Prdt-2,E,27 Months,EGRecall27FS,Targeted,6,722,722,12,2286.96
+Prdt-2,E,27 Months,EGRecall27FSControl,Control,6,80,80,1,90.0
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,6,149,149,5,801.96
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,6,156,156,2,236.25
+Prdt-2,E,27 Months,EGRecall27NONFSControl,Control,6,16,16,1,179.0
+Prdt-2,E,27 Months,EGRecall27NONFS-Control,Control,6,17,17,1,471.0
+Prdt-2,E,12 Months,EGRecall12Employed,Targeted,5,6575,6575,425,79940.54
+Prdt-2,E,12 Months,EGRecall12EmployedControl,Control,5,731,731,46,10351.95
+Prdt-2,E,12 Months,EGRecall12FS,Targeted,5,2919,2919,142,30015.98
+Prdt-2,E,12 Months,EGRecall12FSControl,Control,5,324,324,12,1977.43
+Prdt-2,E,12 Months,EGRecall12Leased,Targeted,5,11468,11468,588,122043.1
+Prdt-2,E,12 Months,EGRecall12LeasedControl,Control,5,1274,1274,59,11556.18
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,5,1480,1480,53,11081.78
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,5,1480,1480,53,9859.77
+Prdt-2,E,12 Months,EGRecall12NONFSControl,Control,5,164,164,12,2740.31
+Prdt-2,E,12 Months,EGRecall12NONFS-Control,Control,5,164,164,6,1107.11
+Prdt-2,E,12 Months,EGRecall12NV,Targeted,5,228,228,9,989.48
+Prdt-2,E,12 Months,EGRecall12NVControl,Control,5,25,25,1,93.45
+Prdt-2,E,15 Months,EGRecall14Leased,Targeted,5,11845,11845,385,78758.25
+Prdt-2,E,15 Months,EGRecall14LeasedControl,Control,5,1316,1316,52,10316.42
+Prdt-2,E,15 Months,EGRecall15Employed,Targeted,5,6801,6801,269,51948.15
+Prdt-2,E,15 Months,EGRecall15EmployedControl,Control,5,756,756,34,6854.19
+Prdt-2,E,15 Months,EGRecall15FS,Targeted,5,2988,2988,111,18963.08
+Prdt-2,E,15 Months,EGRecall15FSControl,Control,5,332,332,5,1144.42
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,5,1380,1380,45,9380.17
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,5,1377,1377,37,6582.42
+Prdt-2,E,15 Months,EGRecall15NONFSControl,Control,5,153,153,6,1091.71
+Prdt-2,E,15 Months,EGRecall15NONFS-Control,Control,5,153,153,6,1088.15
+Prdt-2,E,15 Months,EGRecall15NV,Targeted,5,240,240,3,967.59
+Prdt-2,E,15 Months,EGRecall15NVControl,Control,5,27,27,0,0.0
+Prdt-2,E,18 Months,EGRecall16Leased,Targeted,5,12824,12824,305,59597.51
+Prdt-2,E,18 Months,EGRecall16LeasedControl,Control,5,1425,1425,39,9019.68
+Prdt-2,E,18 Months,EGRecall18Employed,Targeted,5,4038,4038,141,28621.05
+Prdt-2,E,18 Months,EGRecall18EmployedControl,Control,5,449,449,15,3887.02
+Prdt-2,E,18 Months,EGRecall18FS,Targeted,5,1786,1786,43,9186.52
+Prdt-2,E,18 Months,EGRecall18FSControl,Control,5,198,198,7,1602.57
+Prdt-2,E,18 Months,EGRecall18Leased,Targeted,5,7089,7089,209,45151.49
+Prdt-2,E,18 Months,EGRecall18LeasedControl,Control,5,788,788,23,4327.09
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,5,785,785,18,3478.44
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,5,805,805,22,4964.49
+Prdt-2,E,18 Months,EGRecall18NONFSControl,Control,5,87,87,2,373.99
+Prdt-2,E,18 Months,EGRecall18NONFS-Control,Control,5,89,89,2,423.49
+Prdt-2,E,18 Months,EGRecall18NV,Targeted,5,125,125,3,750.02
+Prdt-2,E,18 Months,EGRecall18NVControl,Control,5,14,14,0,0.0
+Prdt-2,E,21 Months,EGRecall20Leased,Targeted,5,13520,13520,351,77973.52
+Prdt-2,E,21 Months,EGRecall20LeasedControl,Control,5,1502,1502,34,7750.82
+Prdt-2,E,21 Months,EGRecall21Employed,Targeted,5,6103,6103,195,42659.57
+Prdt-2,E,21 Months,EGRecall21EmployedControl,Control,5,678,678,19,3359.75
+Prdt-2,E,21 Months,EGRecall21FS,Targeted,5,2907,2907,62,13065.8
+Prdt-2,E,21 Months,EGRecall21FSControl,Control,5,323,323,1,95.99
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,5,1496,1496,31,6031.02
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,5,1545,1545,32,6363.7
+Prdt-2,E,21 Months,EGRecall21NONFSControl,Control,5,166,166,4,583.45
+Prdt-2,E,21 Months,EGRecall21NONFS-Control,Control,5,172,172,7,1155.1
+Prdt-2,E,21 Months,EGRecall21NV,Targeted,5,257,257,5,1059.44
+Prdt-2,E,21 Months,EGRecall21NVControl,Control,5,29,29,0,0.0
+Prdt-2,E,24 Months,EGRecall22Leased,Targeted,5,13757,13757,329,69281.66
+Prdt-2,E,24 Months,EGRecall22LeasedControl,Control,5,1528,1528,53,12415.0
+Prdt-2,E,24 Months,EGRecall24Employed,Targeted,5,6407,6407,225,48600.33
+Prdt-2,E,24 Months,EGRecall24EmployedControl,Control,5,712,712,26,5876.87
+Prdt-2,E,24 Months,EGRecall24FS,Targeted,5,2857,2857,84,18053.09
+Prdt-2,E,24 Months,EGRecall24FSControl,Control,5,317,317,11,2161.98
+Prdt-2,E,24 Months,EGRecall24Leased,Targeted,5,12860,12860,364,82684.32
+Prdt-2,E,24 Months,EGRecall24LeasedControl,Control,5,1429,1429,36,7596.87
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,5,1493,1493,34,5545.04
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,5,1491,1491,36,9316.88
+Prdt-2,E,24 Months,EGRecall24NONFSControl,Control,5,166,166,5,1488.24
+Prdt-2,E,24 Months,EGRecall24NONFS-Control,Control,5,166,166,4,905.0
+Prdt-2,E,24 Months,EGRecall24NV,Targeted,5,261,261,3,490.44
+Prdt-2,E,24 Months,EGRecall24NVControl,Control,5,29,29,0,0.0
+Prdt-2,E,27 Months,EGRecall26Leased,Targeted,5,12750,12750,321,69080.52
+Prdt-2,E,27 Months,EGRecall26LeasedControl,Control,5,1417,1417,35,6083.86
+Prdt-2,E,27 Months,EGRecall27Employed,Targeted,5,7463,7463,178,35584.77
+Prdt-2,E,27 Months,EGRecall27EmployedControl,Control,5,829,829,16,2633.16
+Prdt-2,E,27 Months,EGRecall27FS,Targeted,5,3311,3311,51,11058.73
+Prdt-2,E,27 Months,EGRecall27FSControl,Control,5,368,368,5,519.45
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,5,1751,1751,18,3009.37
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,5,1772,1772,30,5567.97
+Prdt-2,E,27 Months,EGRecall27NONFSControl,Control,5,197,197,4,597.0
+Prdt-2,E,27 Months,EGRecall27NONFS-Control,Control,5,195,195,2,354.0
+Prdt-2,E,27 Months,EGRecall27NV,Targeted,5,318,318,4,279.17
+Prdt-2,E,27 Months,EGRecall27NVControl,Control,5,35,35,0,0.0
+Prdt-2,E,12 Months,EGRecall12EmployedControl,Control,4,781,781,30,4884.29
+Prdt-2,E,12 Months,EGRecall12Employeded,Targeted,4,6850,6850,428,86207.17
+Prdt-2,E,12 Months,EGRecall12FS,Targeted,4,3432,3432,150,31338.59
+Prdt-2,E,12 Months,EGRecall12FSControl,Control,4,390,390,19,3097.7
+Prdt-2,E,12 Months,EGRecall12LeasedControl,Control,4,1432,1432,60,13961.93
+Prdt-2,E,12 Months,EGRecall12Leaseded,Targeted,4,12555,12555,587,116898.14
+Prdt-2,E,12 Months,EGRecall12NONFS,Targeted,4,1760,1760,62,11980.95
+Prdt-2,E,12 Months,EGRecall12NONFSControl,Control,4,200,200,9,1579.4
+Prdt-2,E,12 Months,EGRecall12NONFS-Test,Targeted,4,1714,1714,75,13662.32
+Prdt-2,E,12 Months,EGRecall12NONFS-Test-Control,Control,4,196,196,7,883.0
+Prdt-2,E,12 Months,EGRecall12NV,Targeted,4,246,246,7,900.97
+Prdt-2,E,12 Months,EGRecall12NVControl,Control,4,27,27,1,92.95
+Prdt-2,E,15 Months,EGRecall14LeasedControl,Control,4,1413,1413,28,4326.0
+Prdt-2,E,15 Months,EGRecall14Leaseded,Targeted,4,12390,12390,404,79859.06
+Prdt-2,E,15 Months,EGRecall15EmployedControl,Control,4,773,773,22,2830.7
+Prdt-2,E,15 Months,EGRecall15Employeded,Targeted,4,6776,6776,253,47590.9
+Prdt-2,E,15 Months,EGRecall15FS,Targeted,4,3145,3145,85,16471.36
+Prdt-2,E,15 Months,EGRecall15FSControl,Control,4,358,358,6,741.59
+Prdt-2,E,15 Months,EGRecall15NONFS,Targeted,4,1467,1467,43,6928.87
+Prdt-2,E,15 Months,EGRecall15NONFSControl,Control,4,167,167,3,399.47
+Prdt-2,E,15 Months,EGRecall15NONFS-Test,Targeted,4,1468,1468,39,8297.01
+Prdt-2,E,15 Months,EGRecall15NONFS-Test-Control,Control,4,167,167,5,511.68
+Prdt-2,E,15 Months,EGRecall15NV,Targeted,4,228,228,7,1995.85
+Prdt-2,E,15 Months,EGRecall15NVControl,Control,4,25,25,0,0.0
+Prdt-2,E,18 Months,EGRecall16LeasedControl,Control,4,868,868,29,6262.79
+Prdt-2,E,18 Months,EGRecall16Leaseded,Targeted,4,7612,7612,248,51830.93
+Prdt-2,E,18 Months,EGRecall18EmployedControl,Control,4,520,520,16,2515.06
+Prdt-2,E,18 Months,EGRecall18Employeded,Targeted,4,4559,4559,175,33509.49
+Prdt-2,E,18 Months,EGRecall18FS,Targeted,4,2211,2211,70,12948.8
+Prdt-2,E,18 Months,EGRecall18FSControl,Control,4,252,252,8,1112.92
+Prdt-2,E,18 Months,EGRecall18LeasedControl,Control,4,963,963,23,6182.36
+Prdt-2,E,18 Months,EGRecall18Leaseded,Targeted,4,8443,8443,257,50503.73
+Prdt-2,E,18 Months,EGRecall18NONFS,Targeted,4,1130,1130,35,5671.1
+Prdt-2,E,18 Months,EGRecall18NONFSControl,Control,4,129,129,2,280.48
+Prdt-2,E,18 Months,EGRecall18NONFS-Test,Targeted,4,1113,1113,22,3855.0
+Prdt-2,E,18 Months,EGRecall18NONFS-Test-Control,Control,4,127,127,3,687.69
+Prdt-2,E,18 Months,EGRecall18NV,Targeted,4,133,133,5,866.7
+Prdt-2,E,18 Months,EGRecall18NVControl,Control,4,15,15,0,0.0
+Prdt-2,E,21 Months,EGRecall20LeasedControl,Control,4,1344,1344,44,8465.28
+Prdt-2,E,21 Months,EGRecall20Leaseded,Targeted,4,11784,11784,299,65932.37
+Prdt-2,E,21 Months,EGRecall21EmployedControl,Control,4,738,738,12,2659.81
+Prdt-2,E,21 Months,EGRecall21Employeded,Targeted,4,6469,6469,191,39233.21
+Prdt-2,E,21 Months,EGRecall21FS,Targeted,4,3178,3178,65,12943.81
+Prdt-2,E,21 Months,EGRecall21FSControl,Control,4,362,362,10,2050.76
+Prdt-2,E,21 Months,EGRecall21NONFS,Targeted,4,1642,1642,42,7263.89
+Prdt-2,E,21 Months,EGRecall21NONFSControl,Control,4,187,187,3,314.9
+Prdt-2,E,21 Months,EGRecall21NONFS-Test,Targeted,4,1635,1635,42,8098.53
+Prdt-2,E,21 Months,EGRecall21NONFS-Test-Control,Control,4,187,187,3,286.49
+Prdt-2,E,21 Months,EGRecall21NV,Targeted,4,248,248,5,1119.19
+Prdt-2,E,21 Months,EGRecall21NVControl,Control,4,28,28,0,0.0
+Prdt-2,E,24 Months,EGRecall22LeasedControl,Control,4,1409,1409,33,5112.93
+Prdt-2,E,24 Months,EGRecall22Leaseded,Targeted,4,12347,12347,301,65662.11
+Prdt-2,E,24 Months,EGRecall24EmployedControl,Control,4,629,629,14,3377.2
+Prdt-2,E,24 Months,EGRecall24Employeded,Targeted,4,5517,5517,195,43593.3
+Prdt-2,E,24 Months,EGRecall24FS,Targeted,4,2737,2737,54,12432.78
+Prdt-2,E,24 Months,EGRecall24FSControl,Control,4,312,312,7,1049.49
+Prdt-2,E,24 Months,EGRecall24LeasedControl,Control,4,1217,1217,37,8737.21
+Prdt-2,E,24 Months,EGRecall24Leaseded,Targeted,4,10671,10671,303,68088.47
+Prdt-2,E,24 Months,EGRecall24NONFS,Targeted,4,1410,1410,27,6311.2
+Prdt-2,E,24 Months,EGRecall24NONFSControl,Control,4,160,160,5,713.24
+Prdt-2,E,24 Months,EGRecall24NONFS-Test,Targeted,4,1483,1483,28,5194.38
+Prdt-2,E,24 Months,EGRecall24NONFS-Test-Control,Control,4,169,169,5,845.14
+Prdt-2,E,24 Months,EGRecall24NV,Targeted,4,174,174,5,706.68
+Prdt-2,E,24 Months,EGRecall24NVControl,Control,4,19,19,0,0.0
+Prdt-2,E,27 Months,EGRecall26LeasedControl,Control,4,1615,1615,33,7590.35
+Prdt-2,E,27 Months,EGRecall26Leaseded,Targeted,4,14159,14159,339,78517.33
+Prdt-2,E,27 Months,EGRecall27EmployedControl,Control,4,723,723,13,2324.53
+Prdt-2,E,27 Months,EGRecall27Employeded,Targeted,4,6336,6336,161,30166.62
+Prdt-2,E,27 Months,EGRecall27FS,Targeted,4,3066,3066,43,10392.61
+Prdt-2,E,27 Months,EGRecall27FSControl,Control,4,349,349,2,477.98
+Prdt-2,E,27 Months,EGRecall27NONFS,Targeted,4,1462,1462,28,5999.52
+Prdt-2,E,27 Months,EGRecall27NONFSControl,Control,4,166,166,4,1116.5
+Prdt-2,E,27 Months,EGRecall27NONFS-Test,Targeted,4,1415,1415,21,5193.34
+Prdt-2,E,27 Months,EGRecall27NONFS-Test-Control,Control,4,161,161,6,1075.38
+Prdt-2,E,27 Months,EGRecall27NV,Targeted,4,241,241,2,1043.99
+Prdt-2,E,27 Months,EGRecall27NVControl,Control,4,27,27,1,108.0
+Prdt-2,E,12 Months,Recall-CG,Control,10,366,43,1,754.0
+Prdt-2,E,12 Months,Recall-CG,Control,10,23724,1701,83,18916.9
+Prdt-2,E,12 Months,Recall-CG,Control,10,10190,976,82,15078.47
+Prdt-2,E,12 Months,Recall-CG,Control,10,6948,569,26,5587.98
+Prdt-2,E,12 Months,Recall-CG,Control,10,9440,324,13,2412.57
+Prdt-2,E,12 Months,Recall-TG,Targeted,10,3224,308,15,2633.59
+Prdt-2,E,12 Months,Recall-TG,Targeted,10,85140,2990,136,26222.34
+Prdt-2,E,12 Months,Recall-TG,Targeted,10,320325,15287,771,161181.14
+Prdt-2,E,12 Months,Recall-TG,Targeted,10,91768,8732,623,115041.42
+Prdt-2,E,12 Months,Recall-TG,Targeted,10,104310,4999,227,39735.25
+Prdt-2,E,15 Months,Recall-CG,Control,10,183,32,1,137.98
+Prdt-2,E,15 Months,Recall-CG,Control,10,5664,328,11,1766.33
+Prdt-2,E,15 Months,Recall-CG,Control,10,5095,946,43,8098.47
+Prdt-2,E,15 Months,Recall-CG,Control,10,11862,1535,52,11992.69
+Prdt-2,E,15 Months,Recall-CG,Control,10,4632,352,11,2101.85
+Prdt-2,E,15 Months,Recall-TG,Targeted,10,62586,3322,103,19358.19
+Prdt-2,E,15 Months,Recall-TG,Targeted,10,45884,8632,382,71788.53
+Prdt-2,E,15 Months,Recall-TG,Targeted,10,51084,3085,86,16554.24
+Prdt-2,E,15 Months,Recall-TG,Targeted,10,1612,312,13,2466.81
+Prdt-2,E,15 Months,Recall-TG,Targeted,10,106775,13816,426,81959.36
+Prdt-2,E,18 Months,Recall-CG,Control,10,11862,1368,33,6162.38
+Prdt-2,E,18 Months,Recall-CG,Control,10,5664,299,3,808.29
+Prdt-2,E,18 Months,Recall-CG,Control,10,2316,307,7,1275.76
+Prdt-2,E,18 Months,Recall-CG,Control,10,183,26,0,0.0
+Prdt-2,E,18 Months,Recall-CG,Control,10,5095,737,21,3889.42
+Prdt-2,E,18 Months,Recall-CG,Control,10,11862,1511,40,7594.98
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,106775,13683,398,79807.15
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,1612,250,5,1266.83
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,62586,2750,77,16151.08
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,51084,2658,66,14237.03
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,106775,12073,287,57829.76
+Prdt-2,E,18 Months,Recall-TG,Targeted,10,45884,6840,259,55238.75
+Prdt-2,E,21 Months,Recall-CG,Control,10,4632,382,5,1059.2
+Prdt-2,E,21 Months,Recall-CG,Control,10,183,24,0,0.0
+Prdt-2,E,21 Months,Recall-CG,Control,10,5664,348,4,588.6
+Prdt-2,E,21 Months,Recall-CG,Control,10,11862,1849,39,7517.33
+Prdt-2,E,21 Months,Recall-CG,Control,10,5095,980,18,3697.96
+Prdt-2,E,21 Months,Recall-TG,Targeted,10,1612,280,5,909.08
+Prdt-2,E,21 Months,Recall-TG,Targeted,10,45884,8466,233,43402.24
+Prdt-2,E,21 Months,Recall-TG,Targeted,10,51084,2998,58,12164.71
+Prdt-2,E,21 Months,Recall-TG,Targeted,10,62586,3325,71,13231.63
+Prdt-2,E,21 Months,Recall-TG,Targeted,10,106775,16126,356,65483.31
+Prdt-2,E,24 Months,Recall-CG,Control,10,5095,687,21,3245.63
+Prdt-2,E,24 Months,Recall-CG,Control,10,11862,1419,30,5127.03
+Prdt-2,E,24 Months,Recall-CG,Control,10,3776,268,8,1817.76
+Prdt-2,E,24 Months,Recall-CG,Control,10,183,20,1,64.0
+Prdt-2,E,24 Months,Recall-CG,Control,10,6948,274,9,1822.49
+Prdt-2,E,24 Months,Recall-CG,Control,10,11862,1228,36,7756.72
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,62586,2663,66,12679.99
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,45884,6311,233,44663.3
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,106775,12601,282,56368.02
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,106775,11490,354,75848.11
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,34056,2537,54,12613.49
+Prdt-2,E,24 Months,Recall-TG,Targeted,10,1612,202,4,1766.79
+Prdt-2,E,27 Months,Recall-CG,Control,10,5664,321,3,573.59
+Prdt-2,E,27 Months,Recall-CG,Control,10,183,38,2,160.71
+Prdt-2,E,27 Months,Recall-CG,Control,10,5095,769,11,2845.61
+Prdt-2,E,27 Months,Recall-CG,Control,10,11862,1251,22,5479.63
+Prdt-2,E,27 Months,Recall-CG,Control,10,145908,432,15,3323.03
+Prdt-2,E,27 Months,Recall-TG,Targeted,10,238392,2744,42,8068.7
+Prdt-2,E,27 Months,Recall-TG,Targeted,10,45884,6887,169,38372.98
+Prdt-2,E,27 Months,Recall-TG,Targeted,10,2545164,3787,102,21784.88
+Prdt-2,E,27 Months,Recall-TG,Targeted,10,1612,244,5,1116.73
+Prdt-2,E,27 Months,Recall-TG,Targeted,10,106775,11686,277,56567.81
+Prdt-2,E,12 Months,EG Recall Leased-CG,Control,9,50956,1888,170,35656.2
+Prdt-2,E,12 Months,EG Recall Leased-CG,Control,9,72120,1934,261,60831.29
+Prdt-2,E,12 Months,EG Recall Leased-TG,Targeted,9,688020,17078,1587,346568.74
+Prdt-2,E,12 Months,EG Recall Leased-TG,Targeted,9,540820,17630,2541,572875.43
+Prdt-2,E,12 Months,Recall Employed-CG,Control,9,20596,956,120,26870.07
+Prdt-2,E,12 Months,Recall Employed-CG,Control,9,13095,994,97,23445.87
+Prdt-2,E,12 Months,Recall Employed-TG,Targeted,9,185444,9415,1374,314938.55
+Prdt-2,E,12 Months,Recall Employed-TG,Targeted,9,157012,8854,819,167066.48
+Prdt-2,E,12 Months,-Recall Exam NV-CG,Control,9,692,33,5,973.64
+Prdt-2,E,12 Months,-Recall Exam NV-CG,Control,9,468,46,1,159.6
+Prdt-2,E,12 Months,-Recall Exam NV-TG,Targeted,9,4269,306,24,4259.89
+Prdt-2,E,12 Months,-Recall Exam NV-TG,Targeted,9,6320,296,42,7444.79
+Prdt-2,E,12 Months,Recall First Sight-CG,Control,9,13830,583,56,13989.59
+Prdt-2,E,12 Months,Recall First Sight-CG,Control,9,10020,569,32,6440.0
+Prdt-2,E,12 Months,Recall First Sight-TG,Targeted,9,108324,5212,306,64697.29
+Prdt-2,E,12 Months,Recall First Sight-TG,Targeted,9,124590,5443,518,115235.21
+Prdt-2,E,12 Months,RecallNONFirstSight-CG,Control,9,3176,176,8,1517.89
+Prdt-2,E,12 Months,RecallNONFirstSight-CG,Control,9,3970,173,10,1821.05
+Prdt-2,E,12 Months,RecallNONFirstSight-CG,Control,9,4755,194,30,5465.21
+Prdt-2,E,12 Months,RecallNONFirstSight-CG,Control,9,4750,172,21,4274.02
+Prdt-2,E,12 Months,RecallNONFirstSight-TG,Targeted,9,60074,1587,182,42254.79
+Prdt-2,E,12 Months,RecallNONFirstSight-TG,Targeted,9,60074,1687,205,46991.42
+Prdt-2,E,12 Months,RecallNONFirstSight-TG,Targeted,9,42996,1564,104,21028.72
+Prdt-2,E,12 Months,RecallNONFirstSight-TG,Targeted,9,43002,1508,111,22213.67
+Prdt-2,E,15 Months,EG Recall Leased-CG,Control,9,12020,1520,14,1397.05
+Prdt-2,E,15 Months,EG Recall Leased-CG,Control,9,12739,1753,42,7115.31
+Prdt-2,E,15 Months,EG Recall Leased-TG,Targeted,9,114670,15820,391,71332.27
+Prdt-2,E,15 Months,EG Recall Leased-TG,Targeted,9,108164,13805,93,8401.53
+Prdt-2,E,15 Months,Recall Employed-CG,Control,9,5149,854,10,1385.82
+Prdt-2,E,15 Months,Recall Employed-CG,Control,9,4365,831,22,4733.78
+Prdt-2,E,15 Months,Recall Employed-TG,Targeted,9,46361,7954,151,17083.58
+Prdt-2,E,15 Months,Recall Employed-TG,Targeted,9,39253,7714,299,59904.21
+Prdt-2,E,15 Months,-Recall Exam NV-CG,Control,9,156,30,0,0.0
+Prdt-2,E,15 Months,-Recall Exam NV-CG,Control,9,173,33,0,0.0
+Prdt-2,E,15 Months,-Recall Exam NV-TG,Targeted,9,1423,297,10,1823.67
+Prdt-2,E,15 Months,-Recall Exam NV-TG,Targeted,9,1580,271,1,79.0
+Prdt-2,E,15 Months,Recall First Sight-CG,Control,9,6012,329,4,379.38
+Prdt-2,E,15 Months,Recall First Sight-CG,Control,9,2305,309,1,218.5
+Prdt-2,E,15 Months,Recall First Sight-TG,Targeted,9,54162,2859,75,14467.13
+Prdt-2,E,15 Months,Recall First Sight-TG,Targeted,9,62295,2836,35,3188.91
+Prdt-2,E,15 Months,RecallNONFirstSight-CG,Control,9,1588,165,4,754.55
+Prdt-2,E,15 Months,RecallNONFirstSight-CG,Control,9,1902,147,1,111.68
+Prdt-2,E,15 Months,RecallNONFirstSight-CG,Control,9,1900,169,3,90.0
+Prdt-2,E,15 Months,RecallNONFirstSight-CG,Control,9,2382,153,2,550.4
+Prdt-2,E,15 Months,RecallNONFirstSight-TG,Targeted,9,21498,1394,30,6380.72
+Prdt-2,E,15 Months,RecallNONFirstSight-TG,Targeted,9,21501,1488,27,5424.6
+Prdt-2,E,15 Months,RecallNONFirstSight-TG,Targeted,9,25746,1426,9,608.61
+Prdt-2,E,15 Months,RecallNONFirstSight-TG,Targeted,9,25746,1482,9,880.62
+Prdt-2,E,18 Months,EG Recall Leased-CG,Control,9,12020,1830,11,1201.96
+Prdt-2,E,18 Months,EG Recall Leased-CG,Control,9,12739,1448,24,4389.53
+Prdt-2,E,18 Months,EG Recall Leased-CG,Control,9,12739,1491,32,5635.76
+Prdt-2,E,18 Months,EG Recall Leased-CG,Control,9,12020,1355,6,619.96
+Prdt-2,E,18 Months,EG Recall Leased-TG,Targeted,9,114670,13860,280,51543.86
+Prdt-2,E,18 Months,EG Recall Leased-TG,Targeted,9,114670,13909,335,70022.59
+Prdt-2,E,18 Months,EG Recall Leased-TG,Targeted,9,108164,12308,66,4788.19
+Prdt-2,E,18 Months,EG Recall Leased-TG,Targeted,9,108164,16259,85,6509.53
+Prdt-2,E,18 Months,Recall Employed-CG,Control,9,5149,995,5,832.0
+Prdt-2,E,18 Months,Recall Employed-CG,Control,9,4365,875,24,5104.89
+Prdt-2,E,18 Months,Recall Employed-TG,Targeted,9,39253,8116,253,47497.57
+Prdt-2,E,18 Months,Recall Employed-TG,Targeted,9,46361,9110,121,12749.91
+Prdt-2,E,18 Months,-Recall Exam NV-CG,Control,9,156,19,0,0.0
+Prdt-2,E,18 Months,-Recall Exam NV-CG,Control,9,173,35,0,0.0
+Prdt-2,E,18 Months,-Recall Exam NV-TG,Targeted,9,1423,305,4,466.0
+Prdt-2,E,18 Months,-Recall Exam NV-TG,Targeted,9,1580,308,1,9.0
+Prdt-2,E,18 Months,Recall First Sight-CG,Control,9,6012,362,8,2640.67
+Prdt-2,E,18 Months,Recall First Sight-CG,Control,9,4610,376,2,274.0
+Prdt-2,E,18 Months,Recall First Sight-TG,Targeted,9,54162,3039,43,8897.87
+Prdt-2,E,18 Months,Recall First Sight-TG,Targeted,9,62295,3465,20,1597.8
+Prdt-2,E,18 Months,RecallNONFirstSight-CG,Control,9,951,173,1,129.0
+Prdt-2,E,18 Months,RecallNONFirstSight-CG,Control,9,794,174,3,736.0
+Prdt-2,E,18 Months,RecallNONFirstSight-CG,Control,9,2850,179,0,0.0
+Prdt-2,E,18 Months,RecallNONFirstSight-CG,Control,9,1588,156,7,1544.0
+Prdt-2,E,18 Months,RecallNONFirstSight-TG,Targeted,9,21501,1454,21,4215.71
+Prdt-2,E,18 Months,RecallNONFirstSight-TG,Targeted,9,25746,1606,8,564.88
+Prdt-2,E,18 Months,RecallNONFirstSight-TG,Targeted,9,25746,1538,7,865.75
+Prdt-2,E,18 Months,RecallNONFirstSight-TG,Targeted,9,21498,1463,27,5805.34
+Prdt-2,E,21 Months,EG Recall Leased-CG,Control,9,12739,1761,31,6817.0
+Prdt-2,E,21 Months,EG Recall Leased-CG,Control,9,12020,1441,8,481.84
+Prdt-2,E,21 Months,EG Recall Leased-TG,Targeted,9,108164,12606,65,6085.8
+Prdt-2,E,21 Months,EG Recall Leased-TG,Targeted,9,114670,15428,256,50572.0
+Prdt-2,E,21 Months,Recall Employed-CG,Control,9,5149,882,7,535.13
+Prdt-2,E,21 Months,Recall Employed-CG,Control,9,4365,809,18,3201.11
+Prdt-2,E,21 Months,Recall Employed-TG,Targeted,9,39253,7143,177,35259.15
+Prdt-2,E,21 Months,Recall Employed-TG,Targeted,9,46361,7161,82,7557.19
+Prdt-2,E,21 Months,-Recall Exam NV-CG,Control,9,173,28,0,0.0
+Prdt-2,E,21 Months,-Recall Exam NV-CG,Control,9,156,30,0,0.0
+Prdt-2,E,21 Months,-Recall Exam NV-TG,Targeted,9,1580,213,0,0.0
+Prdt-2,E,21 Months,-Recall Exam NV-TG,Targeted,9,1423,256,4,797.86
+Prdt-2,E,21 Months,Recall First Sight-CG,Control,9,6915,339,0,0.0
+Prdt-2,E,21 Months,Recall First Sight-CG,Control,9,4008,319,4,942.55
+Prdt-2,E,21 Months,Recall First Sight-TG,Targeted,9,54162,3036,51,10295.91
+Prdt-2,E,21 Months,Recall First Sight-TG,Targeted,9,62295,2739,22,2305.73
+Prdt-2,E,21 Months,RecallNONFirstSight-CG,Control,9,2853,157,2,123.5
+Prdt-2,E,21 Months,RecallNONFirstSight-CG,Control,9,1588,142,3,252.74
+Prdt-2,E,21 Months,RecallNONFirstSight-CG,Control,9,1900,166,1,79.0
+Prdt-2,E,21 Months,RecallNONFirstSight-CG,Control,9,1588,138,0,0.0
+Prdt-2,E,21 Months,RecallNONFirstSight-TG,Targeted,9,21501,1331,34,5095.56
+Prdt-2,E,21 Months,RecallNONFirstSight-TG,Targeted,9,25746,1370,4,237.45
+Prdt-2,E,21 Months,RecallNONFirstSight-TG,Targeted,9,25746,1321,2,217.0
+Prdt-2,E,21 Months,RecallNONFirstSight-TG,Targeted,9,14332,1353,18,3195.18
+Prdt-2,E,24 Months,EG Recall Leased-CG,Control,9,12739,1426,28,5004.6
+Prdt-2,E,24 Months,EG Recall Leased-CG,Control,9,12020,1269,6,502.0
+Prdt-2,E,24 Months,EG Recall Leased-CG,Control,9,12020,1307,6,324.49
+Prdt-2,E,24 Months,EG Recall Leased-CG,Control,9,12739,1516,25,5224.99
+Prdt-2,E,24 Months,EG Recall Leased-TG,Targeted,9,114670,13088,247,48783.05
+Prdt-2,E,24 Months,EG Recall Leased-TG,Targeted,9,108164,11676,37,2660.18
+Prdt-2,E,24 Months,EG Recall Leased-TG,Targeted,9,114670,12634,230,48649.04
+Prdt-2,E,24 Months,EG Recall Leased-TG,Targeted,9,108164,11595,58,4513.16
+Prdt-2,E,24 Months,Recall Employed-CG,Control,9,4365,789,13,2672.81
+Prdt-2,E,24 Months,Recall Employed-CG,Control,9,5149,718,7,968.9
+Prdt-2,E,24 Months,Recall Employed-TG,Targeted,9,39253,6841,167,33605.45
+Prdt-2,E,24 Months,Recall Employed-TG,Targeted,9,46361,6232,76,7003.84
+Prdt-2,E,24 Months,-Recall Exam NV-CG,Control,9,156,31,0,0.0
+Prdt-2,E,24 Months,-Recall Exam NV-CG,Control,9,173,16,0,0.0
+Prdt-2,E,24 Months,-Recall Exam NV-TG,Targeted,9,1580,250,1,79.0
+Prdt-2,E,24 Months,-Recall Exam NV-TG,Targeted,9,1423,244,3,120.55
+Prdt-2,E,24 Months,Recall First Sight-CG,Control,9,6012,314,3,409.45
+Prdt-2,E,24 Months,Recall First Sight-CG,Control,9,4610,311,2,94.0
+Prdt-2,E,24 Months,Recall First Sight-TG,Targeted,9,54162,2926,56,9787.8
+Prdt-2,E,24 Months,Recall First Sight-TG,Targeted,9,62295,2629,22,3100.16
+Prdt-2,E,24 Months,RecallNONFirstSight-CG,Control,9,2382,155,2,223.6
+Prdt-2,E,24 Months,RecallNONFirstSight-CG,Control,9,794,153,1,66.0
+Prdt-2,E,24 Months,RecallNONFirstSight-CG,Control,9,1902,141,0,0.0
+Prdt-2,E,24 Months,RecallNONFirstSight-CG,Control,9,2850,121,0,0.0
+Prdt-2,E,24 Months,RecallNONFirstSight-TG,Targeted,9,21498,1341,22,5009.63
+Prdt-2,E,24 Months,RecallNONFirstSight-TG,Targeted,9,21501,1337,19,4046.67
+Prdt-2,E,24 Months,RecallNONFirstSight-TG,Targeted,9,25746,1266,8,1040.54
+Prdt-2,E,24 Months,RecallNONFirstSight-TG,Targeted,9,25746,1233,11,1087.77
+Prdt-2,E,27 Months,EG Recall Leased-CG,Control,9,12739,1456,17,2604.48
+Prdt-2,E,27 Months,EG Recall Leased-CG,Control,9,12020,1364,4,296.46
+Prdt-2,E,27 Months,EG Recall Leased-TG,Targeted,9,114670,12839,213,46144.36
+Prdt-2,E,27 Months,EG Recall Leased-TG,Targeted,9,108164,12270,37,2465.75
+Prdt-2,E,27 Months,Recall Employed-CG,Control,9,5149,744,7,569.73
+Prdt-2,E,27 Months,Recall Employed-CG,Control,9,4365,67,4,433.45
+Prdt-2,E,27 Months,Recall Employed-TG,Targeted,9,39253,570,17,2306.79
+Prdt-2,E,27 Months,Recall Employed-TG,Targeted,9,46361,6474,55,5278.63
+Prdt-2,E,27 Months,-Recall Exam NV-CG,Control,9,173,28,0,0.0
+Prdt-2,E,27 Months,-Recall Exam NV-TG,Targeted,9,1580,227,1,9.0
+Prdt-2,E,27 Months,Recall First Sight-CG,Control,9,135995,387,4,798.63
+Prdt-2,E,27 Months,Recall First Sight-CG,Control,9,124248,111,6,732.48
+Prdt-2,E,27 Months,Recall First Sight-TG,Targeted,9,2554095,3638,51,7308.63
+Prdt-2,E,27 Months,Recall First Sight-TG,Targeted,9,2148426,967,59,12735.36
+Prdt-2,E,27 Months,RecallNONFirstSight-CG,Control,9,3804,139,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-CG,Control,9,1588,2,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-CG,Control,9,2850,143,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-CG,Control,9,794,1,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-TG,Targeted,9,64494,36,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-TG,Targeted,9,71670,34,0,0.0
+Prdt-2,E,27 Months,RecallNONFirstSight-TG,Targeted,9,94402,1313,6,398.0
+Prdt-2,E,27 Months,RecallNONFirstSight-TG,Targeted,9,102984,1305,4,307.48
