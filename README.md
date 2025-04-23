@@ -1,5 +1,6 @@
 # Case_Study1
 👓 Campaign Budget Optimization for Eyewear Retailer
+
 📌 Problem Statement
 A national eyewear retailer has conducted targeted marketing campaigns leveraging individual-level response probability scores. The CRM Director seeks data-driven recommendations on how to:
 
